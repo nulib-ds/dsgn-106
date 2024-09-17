@@ -5,4 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: from-ideas-to-mockups-testing
-- file: foundations-of-technical-and-professional-communication 
+- file: foundations-of-technical-and-professional-communication
+- file: primary-research-for-design-projects
