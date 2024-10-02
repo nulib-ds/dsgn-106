@@ -6,7 +6,7 @@ Ver. 23 Aug 2020
 
 ![](media/image1.jpeg){width="1.3472222222222223in" height="0.4722222222222222in"}
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/)
 
 or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -82,7 +82,7 @@ As Earl Babbie writes in *The Practice of Social Research* \[2\]*,* throughout t
 
 -   *Researcher bias*. There is little point in collecting data and learning about something if you already think you know the answer! Bias might be present in the way you ask questions, the way you take notes, or the conclusions you draw from the data you collect.
 
-The above are only three of many considerations when involving human participants in your primary research. For a complete understanding of ethical considerations please refer to [*[The Belmont Report]{.underline}.*](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
+The above are only three of many considerations when involving human participants in your primary research. For a complete understanding of ethical considerations please refer to [*[The Belmont Report].*](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
 
 ## Guiding principles for racial and ethnic equity in primary research 
 Every research or evaluation project is unique in its approach. Each project seeks to answer a specific range of research questions; thus, there can be no universal prescriptive formula for how to embed a racial and equity perspective in research. However, foundational principles can guide each research project to intentionally embed a racial and ethnic equity perspective. Based on 34 interviews with researchers, funders, academics, community practitioners, and policymakers; a thorough literature review; and the deep research experience and expertise of Child Trends scientists, Andrews, *et al.* \[3\] developed five guiding principles on how to use this approach in every phase of research (from designing the study to reporting findings).
@@ -125,17 +125,17 @@ The following links contain additional resources for understanding and addressin
 
 -   Using co-creation for greater inclusion and deeper understanding:
 
-> [[Systems of Inequity Have Been Designed by People, and They Can Be Redesigned.]{.underline}](https://www.aspeninstitute.org/blog-posts/systems-inequity-designed-people-can-redesigned/)
+- [[Systems of Inequity Have Been Designed by People, and They Can Be Redesigned.]](https://www.aspeninstitute.org/blog-posts/systems-inequity-designed-people-can-redesigned/)
 
--   A look at how aesthetics, such as urban gentrification, create or reinforce inequities: [[Inequality by design? Why we need to start talking about aesthetics, design and politics]{.underline}](http://eprints.lse.ac.uk/82230/1/Researching%20Sociology%20%40%20LSE%20%E2%80%93%20Inequality%20by%20design_%20Why%20we%20need%20to%20start%20talking%20about%20aesthetics%2C%20design%20and%20politics.pdf)
+-   A look at how aesthetics, such as urban gentrification, create or reinforce inequities: [[Inequality by design? Why we need to start talking about aesthetics, design and politics]](http://eprints.lse.ac.uk/82230/1/Researching%20Sociology%20%40%20LSE%20%E2%80%93%20Inequality%20by%20design_%20Why%20we%20need%20to%20start%20talking%20about%20aesthetics%2C%20design%20and%20politics.pdf)
 
--   An overview of various forces of racism and bias that affect health outcomes: [[Structural Racism]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4306458/) [[and Health Inequities]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4306458/)
+-   An overview of various forces of racism and bias that affect health outcomes: [[Structural Racism]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4306458/) [[and Health Inequities]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4306458/)
 
--   How historical and present-day bias continues to reinforce sampling bias: [[More than Tuskegee:]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/) [[Understanding Mistrust about Research Participation]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/)
+-   How historical and present-day bias continues to reinforce sampling bias: [[More than Tuskegee:]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/) [[Understanding Mistrust about Research Participation]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/)
 
--   [A review of causes of underrepresentation in research studies:](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/) [[A Systematic Review of Barriers]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/) [[and Facilitators to Minority Research Participation Among African Americans, Latinos, Asian]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935672/) [[Americans, and Pacific Islanders]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935672/)
+-   [A review of causes of underrepresentation in research studies:](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/) [[A Systematic Review of Barriers]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354806/) [[and Facilitators to Minority Research Participation Among African Americans, Latinos, Asian]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935672/) [[Americans, and Pacific Islanders]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935672/)
 
--   An example of how bias affects experiences and outcomes: [[Racial bias in pain assessment and]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/) [[treatment recommendations, and false beliefs about biological differences between blacks and]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/) [[whites]{.underline}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/)
+-   An example of how bias affects experiences and outcomes: [[Racial bias in pain assessment and]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/) [[treatment recommendations, and false beliefs about biological differences between blacks and]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/) [[whites]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/)
 
 ## Gender equity in primary research 
 
@@ -145,29 +145,29 @@ Your role as a designer is to ensure you are designing for all potential users. 
 
 The following links offer resources for understanding and addressing gender bias in research and policy contexts:
 
--   Women are included in medical studies less frequently than men: [[Sex-Specific Medical Research]{.underline}](https://www.brighamandwomens.org/assets/bwh/womens-health/pdfs/connorsreportfinal.pdf) [[Why Women\'s Health Can\'t Wait]{.underline}](https://www.brighamandwomens.org/assets/bwh/womens-health/pdfs/connorsreportfinal.pdf)
+-   Women are included in medical studies less frequently than men: [[Sex-Specific Medical Research]](https://www.brighamandwomens.org/assets/bwh/womens-health/pdfs/connorsreportfinal.pdf) [[Why Women\'s Health Can\'t Wait]](https://www.brighamandwomens.org/assets/bwh/womens-health/pdfs/connorsreportfinal.pdf)
 
 -   A summary of the differing impact that new practices or treatments might have on women versus men tends to be downplayed: [SWHR: The Health Gap for Women](https://swhr.org/about/womens-health-research/)
 
--   Women researchers face a variety of barriers to publishing and prestige: [Gender disparities in](https://doi.org/10.1371/journal.pone.0189136) [[high-quality research revealed by Nature Index journals]{.underline}](https://doi.org/10.1371/journal.pone.0189136)
+-   Women researchers face a variety of barriers to publishing and prestige: [Gender disparities in](https://doi.org/10.1371/journal.pone.0189136) [[high-quality research revealed by Nature Index journals]](https://doi.org/10.1371/journal.pone.0189136)
 
 -   
 
 -   Women's experiences in medical contexts, the workplace, and elsewhere are minimized or punished:
 
-    -   [[Women and pain: Disparities in experience and treatment - Harvard Health Blog]{.underline}](https://www.health.harvard.edu/blog/women-and-pain-disparities-in-experience-and-treatment-2017100912562)
+    -   [[Women and pain: Disparities in experience and treatment - Harvard Health Blog]](https://www.health.harvard.edu/blog/women-and-pain-disparities-in-experience-and-treatment-2017100912562)
 
-    -   [[Experts: Research Gap Stalls Improvements in Endometriosis Care]{.underline}](https://labblog.uofmhealth.org/industry-dx/experts-research-gap-stalls-improvements-endometriosis-care)
+    -   [[Experts: Research Gap Stalls Improvements in Endometriosis Care]](https://labblog.uofmhealth.org/industry-dx/experts-research-gap-stalls-improvements-endometriosis-care)
 
-    -   [[Quality of evidence revealing subtle gender biases in science is in the eye of the]{.underline}](https://doi.org/10.1073/pnas.1510649112) [[beholders]{.underline}](https://doi.org/10.1073/pnas.1510649112)
+    -   [[Quality of evidence revealing subtle gender biases in science is in the eye of the]](https://doi.org/10.1073/pnas.1510649112) [[beholders]](https://doi.org/10.1073/pnas.1510649112)
 
-    -   [[The Penalties For Self-Reporting Sexual Harassment]{.underline}](https://doi.org/10.1177/0891243219842147)
+    -   [[The Penalties For Self-Reporting Sexual Harassment]](https://doi.org/10.1177/0891243219842147)
 
--   A discussion on how the dynamics women experience in the course of their lives tend to be overlooked in policy and design decisions: [[Design Thinking in Business and Workplace Gender]{.underline}](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html) [[Bias]{.underline}](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html)
+-   A discussion on how the dynamics women experience in the course of their lives tend to be overlooked in policy and design decisions: [[Design Thinking in Business and Workplace Gender]](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html) [[Bias]](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html)
 
 #### This section contains material taken from:
 
--   The first two paragraphs of the Introduction section, and the section "Ethics of primary research," were taken from [[Introduction to Primary Research: Observations, Surveys, and]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [[Interviews]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [[CC-BY-NC-SA 3.0 License]{.underline}.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   The first two paragraphs of the Introduction section, and the section "Ethics of primary research," were taken from [[Introduction to Primary Research: Observations, Surveys, and]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [[Interviews]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [[CC-BY-NC-SA 3.0 License].](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 ## References 
 
@@ -175,19 +175,19 @@ The following links offer resources for understanding and addressing gender bias
 
 2.  E. Babbie, *The Practice of Social Research.* 10th ed. Belmont, CA: Wadsworth publishing, 2003.
 
-3.  K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [[https://www.childtrends.org/wp-]{.underline}](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) [[content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf]{.underline}](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf)
+3.  K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [[https://www.childtrends.org/wp-]](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) [[content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf]](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf)
 
 Adapted with permission pending.
 
-4.  V. Tran. "Asian Americans are Falling through the Cracks in Data Representation and Social Services," Urban Institute, Jun. 20, 2018. Accessed: Aug 19, 2020. \[Online\]. Available: [[https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-]{.underline}](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services) [[and-social- services]{.underline}](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services)
+4.  V. Tran. "Asian Americans are Falling through the Cracks in Data Representation and Social Services," Urban Institute, Jun. 20, 2018. Accessed: Aug 19, 2020. \[Online\]. Available: [[https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-]](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services) [[and-social- services]](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services)
 
-5.  K. Jones and T. Okun. "The Characteristics of White Supremacy Culture," ChangeWork, 2001. Accessed: Aug. 20, 2020. \[Online\]. Available: [[https://www.showingupforracialjustice.org/white-]{.underline}](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html) [[supremacy-culture-characteristics.html]{.underline}](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html)
+5.  K. Jones and T. Okun. "The Characteristics of White Supremacy Culture," ChangeWork, 2001. Accessed: Aug. 20, 2020. \[Online\]. Available: [[https://www.showingupforracialjustice.org/white-]](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html) [[supremacy-culture-characteristics.html]](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html)
 
 6.  
 
 # What are the goals of primary research and how do you reach those goals?
 
-> Photo by [[Aaron Burden]{.underline}](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [[Unsplash]{.underline}](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+> Photo by [[Aaron Burden]](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [[Unsplash]](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Clarify the research question(s) 
 
@@ -258,11 +258,11 @@ The bottom line is that as you and your team conduct research, you'll uncover im
 
 #### This section contains material taken from: 
 
--   Parts of the section "Developing research questions or hypotheses" were taken from [[Introduction to Primary Research: Observations, Surveys, and Interviews]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [[CC-BY-NC-SA 3.0 License]{.underline}.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   Parts of the section "Developing research questions or hypotheses" were taken from [[Introduction to Primary Research: Observations, Surveys, and Interviews]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [[CC-BY-NC-SA 3.0 License].](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 ## References
 
-1.  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [[https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
+1.  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [[https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
 
 2.  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
 
@@ -272,7 +272,7 @@ The bottom line is that as you and your team conduct research, you'll uncover im
 
 # Tips, models, and templates
 
-> Photo by [[UX Indonesia]{.underline}](https://unsplash.com/%40uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [[Unsplash]{.underline}](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+> Photo by [[UX Indonesia]](https://unsplash.com/%40uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [[Unsplash]](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Observing 
 
@@ -320,9 +320,9 @@ Clearly you will watch how the user performs the steps you identified in the tas
 
 In addition to what the user does, take note of the environment and context, as they may impact the user' actions. Frameworks such as AEIOU and POEMS can be helpful reminders of what to observe. For each, the acronyms represent the types of data to collect, and that data is captured in a template. More information can be found in the links below.
 
--   [[AEIOU Observation Framework]{.underline}](https://openpracticelibrary.com/practice/aeiou-observation-framework/) - Activities, Environment, Interactions, Objects, and Users
+-   [[AEIOU Observation Framework]](https://openpracticelibrary.com/practice/aeiou-observation-framework/) - Activities, Environment, Interactions, Objects, and Users
 
--   [[POEMS Template for User Observations]{.underline}](https://spin.atomicobject.com/2017/09/20/poems-template-user-observation/) - People, Objects, Environments, Messages, and Services
+-   [[POEMS Template for User Observations]](https://spin.atomicobject.com/2017/09/20/poems-template-user-observation/) - People, Objects, Environments, Messages, and Services
 
 -   
 
@@ -394,7 +394,7 @@ When you write questions, make sure they are clear, concise, and to the point. Q
 
 For surveys, just as important as question creating is answer choice creation. Answer choices must follow all the same guidelines as questions in terms of precision, neutrality, and clarity. They must also reflect options that will resonate with the entirety of your target user group, not just a subset of the group that most resembles your own demographic profile. This may seem obvious, but it can be quite difficult to recognize one's own assumptions.
 
-If you find your list of answer choices is getting lengthy or unwieldy, you probably need to craft your question differently. See [[Appendix A]{.underline}](#bookmark0) for a comprehensive guide to planning and writing surveys. You can also see some additional examples in the blog, "[[How to craft interviews for breakthrough insights]{.underline},](https://www.dtelepathy.com/blog/products/how-to-craft-user-interviews-for-breakthrough-insights)" by Jason Amunwa.
+If you find your list of answer choices is getting lengthy or unwieldy, you probably need to craft your question differently. See [[Appendix A]](#bookmark0) for a comprehensive guide to planning and writing surveys. You can also see some additional examples in the blog, "[[How to craft interviews for breakthrough insights],](https://www.dtelepathy.com/blog/products/how-to-craft-user-interviews-for-breakthrough-insights)" by Jason Amunwa.
 
 #### Face-to-face and virtual interviews 
 
@@ -432,7 +432,7 @@ To make sure your survey is an appropriate length and that your questions are cl
 
 "Sampling" is the term used in research to refer to the group of people who will be included in your survey, interviews, or other research activities. You need to identify both your target population and how you will reach them, and also consider how likely they are to respond to your survey. You might choose to use physical survey forms in a classroom or building entrance, or create an interactive scenario, such as passers-by dropping a token into one of three bins representing which issue concerns them the most, or you might create an online survey. The number and diversity of respondents will vary greatly across these approaches.
 
-Each of these methods for selecting a sample population introduce bias. Watch [[this brief video]{.underline}](https://www.youtube.com/watch?v=r1R00l8Z5lg) to learn more about common sampling bias pitfalls, and [[this one]{.underline}](https://www.youtube.com/watch?v=PdXDLNNXPik) for some ideas on avoiding these pitfalls. You might not be able to eliminate all bias in your survey sample. This is fine in the context of your
+Each of these methods for selecting a sample population introduce bias. Watch [[this brief video]](https://www.youtube.com/watch?v=r1R00l8Z5lg) to learn more about common sampling bias pitfalls, and [[this one]](https://www.youtube.com/watch?v=PdXDLNNXPik) for some ideas on avoiding these pitfalls. You might not be able to eliminate all bias in your survey sample. This is fine in the context of your
 
 undergraduate course; it is hard to do even for professional researchers. But it is important to be aware of the bias present in your sample selection, not only so you can document it as a limitation in your research report, but so you develop habits of mind that will impel you to seek unbiased sampling methods in future research in your schooling and career.
 
@@ -442,19 +442,19 @@ Let's look at a couple examples for proactively inviting diversity. Imagine you 
 
 Or perhaps you want to survey engineering undergrads. You could post notices around your engineering building and library. But you could also reach out to student groups at your university such as the National Society for Black Engineers (NSBE), Society for Women Engineers (SWE), and others.
 
-See [[Appendix A]{.underline}](#bookmark0) for a comprehensive guide to planning and writing surveys.
+See [[Appendix A]](#bookmark0) for a comprehensive guide to planning and writing surveys.
 
 #### This section contains material taken from: {#this-section-contains-material-taken-from-2 .unnumbered}
 
--   Parts of the section "Writing questions for virtual surveys" and the first four paragraphs of the Surveys section are taken from [[Introduction to Primary Research: Observations, Surveys, and]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [[Interviews]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll , and is used under a [[CC-BY-NC-SA 3.0 License]{.underline}.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   Parts of the section "Writing questions for virtual surveys" and the first four paragraphs of the Surveys section are taken from [[Introduction to Primary Research: Observations, Surveys, and]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [[Interviews]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll , and is used under a [[CC-BY-NC-SA 3.0 License]](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
--   All but the first paragraph of the section "Face-to-face and virtual interviews" is taken from [[Principles of Sociological Inquiry: Qualitative and Quantitative Methods]{.underline}](https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/index.html) by Saylor Academy and is used under a [[CC-BY-NC-SA 3.0 License]{.underline}.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   All but the first paragraph of the section "Face-to-face and virtual interviews" is taken from [[Principles of Sociological Inquiry: Qualitative and Quantitative Methods]](https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/index.html) by Saylor Academy and is used under a [[CC-BY-NC-SA 3.0 License].](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 ## References {#references-2 .unnumbered}
 
-1.  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [[https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
+1.  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [[https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
 
-2.  "Observe." *Lexico.com Dictionary*, Oxford English and Spanish Dictionary, Thesaurus, and Spanish to English Translator, [[https://www.lexico.com/en/definition/observe]{.underline}](https://www.lexico.com/en/definition/observe) (Accessed Aug. 23, 2020).
+2.  "Observe." *Lexico.com Dictionary*, Oxford English and Spanish Dictionary, Thesaurus, and Spanish to English Translator, [[https://www.lexico.com/en/definition/observe]](https://www.lexico.com/en/definition/observe) (Accessed Aug. 23, 2020).
 
 3.  W. Shadish, T. Cook and D. Campbell. *Quasi-Experimentation: Design and Analysis Issues.* Boston, MA: Houghton Mifflin Company, 1979.
 
@@ -462,7 +462,7 @@ See [[Appendix A]{.underline}](#bookmark0) for a comprehensive guide to planning
 
 # Mitigating bias in your observation notes
 
-Photo by [[Felipe Furtado]{.underline}](https://unsplash.com/%40furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [[Unsplash]{.underline}](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [[Felipe Furtado]](https://unsplash.com/%40furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [[Unsplash]](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 As you engage in observation, you'll want to ensure that you focus on the details and the facts. According to Driscoll (2011):
 
@@ -540,11 +540,11 @@ In this example, the researcher realizes that there's more they need to know abo
 
 #### This section contains material taken from: {#this-section-contains-material-taken-from-3 .unnumbered}
 
--   [[Introduction to Primary Research: Observations, Surveys, and Interviews]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [[CC-BY-NC-SA 3.0 License]{.underline}.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   [[Introduction to Primary Research: Observations, Surveys, and Interviews]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [[CC-BY-NC-SA 3.0 License].](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 ## References {#references-3 .unnumbered}
 
-\[1\] D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [[https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf]{.underline}](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
+\[1\] D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [[https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf]](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
 
 # Documenting Primary Design Research
 
@@ -594,7 +594,7 @@ To write and distribute your survey, first carefully read the information about 
 
 **How will you access your sample population?** Strive to reach beyond a convenience sample.
 
--   Watch this [[short and useful video]{.underline}.](https://www.youtube.com/watch?v=r1R00l8Z5lg)
+-   Watch this [[short and useful video].](https://www.youtube.com/watch?v=r1R00l8Z5lg)
 
 -   Proactively seek to reduce implicit bias by seeking out user groups that are commonly underrepresented in research (while it varies by topic, this generally includes racial and ethnic minorities, women, and, for the type of research you are doing, non-students).
 
@@ -604,7 +604,7 @@ To write and distribute your survey, first carefully read the information about 
 
 ## Know how to write survey questions {#know-how-to-write-survey-questions .unnumbered}
 
-Here are a few common types. For examples and more types, look at this [[brief and readable resource]{.underline}](https://www.surveymonkey.com/mp/survey-question-types/) from SurveyMonkeys.
+Here are a few common types. For examples and more types, look at this [[brief and readable resource]](https://www.surveymonkey.com/mp/survey-question-types/) from SurveyMonkeys.
 
 -   **Single-answer multiple choice**. Use for clear, relatively simple questions. This type of question is useful for filtering and sorting the data you collect. \[example\]
 
@@ -622,7 +622,7 @@ Here are a few common types. For examples and more types, look at this [[brief a
 
 ## Write your questions and answer choices {#write-your-questions-and-answer-choices .unnumbered}
 
-A survey should be as brief as possible, but it is also your last best chance to collect the information you need (relatively few respondents will respond to a second, follow-up survey). Below are some tips; you can also read [[this brief and readable article]{.underline}](https://www.qualtrics.com/blog/writing-survey-questions/) from Qualtrics about common pitfalls to avoid.
+A survey should be as brief as possible, but it is also your last best chance to collect the information you need (relatively few respondents will respond to a second, follow-up survey). Below are some tips; you can also read [[this brief and readable article]](https://www.qualtrics.com/blog/writing-survey-questions/) from Qualtrics about common pitfalls to avoid.
 
 **Collect relevant demographic/background information**. Think carefully in advance about what demographics are relevant to your research questions. Demographics can be very helpful for analyzing data later, but there is no need to collect personal data if it is unnecessary for analysis.
 
