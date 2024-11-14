@@ -1,8 +1,13 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-
+# NOTE FOR BEN: If you need to have subsections for a chapter, you can do that - refer to the jupyterbook documentation
 format: jb-book
 root: intro
 chapters:
-- file: from-ideas-to-mockups-testing
-- file: foundations-of-technical-and-professional-communication 
+- file: 1-from-ideas-to-low-fidelity-mockups/1-from-ideas-to-mockups-testing
+- file: 2-foundations-of-technical-and-professional-communication/2-foundations-of-technical-and-professional-communication-2.md
+- file: 3-primary-research-for-design-projects/3-primary-research-for-design-projects.md
+- file: 4-teamwork-in-design-thinking-and-communication/4-teamwork-reflections.md
+- file: 5-equitable-thinking-in-design-thinking-and-coummunication/
+- file: 6-ethics-lecture/
+- file: 7-videos-about-the-DTC-experience/video-test.md
