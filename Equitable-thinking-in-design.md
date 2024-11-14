@@ -1,4 +1,4 @@
-**Assignments for What is Design Thinking and Communication and What Does it Have to do with Equity?**
+# Assignments for What is Design Thinking and Communication and What Does it Have to do with Equity?
 
 by Dr. Laura Pigozzi
 

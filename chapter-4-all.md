@@ -10,29 +10,29 @@ Ver. 23 Aug 2020
 
 ![](media/chapter4/1.png)
 
-> This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
->
-> Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
->
-> [Introduction 1](#bookmark0)
->
-> [Our Approach to Teamwork and Problem Solving 2](#bookmark1)
->
-> [Team Roles 3](#bookmark2)
->
-> [Team Role Definitions 3](#bookmark3)
->
-> [Sharing Ideas 6](#bookmark4)
->
-> [Equitable Assignment of Work 8](#bookmark5)
->
-> [Developing a Communication Framework 8](#bookmark6)
->
-> [Managing Conflict 8](#bookmark7)
->
-> [Team Charters 9](#bookmark8)
->
-> [References 12](#bookmark9)
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
+
+Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+[Introduction 1](#bookmark0)
+
+[Our Approach to Teamwork and Problem Solving 2](#bookmark1)
+
+[Team Roles 3](#bookmark2)
+
+[Team Role Definitions 3](#bookmark3)
+
+[Sharing Ideas 6](#bookmark4)
+
+[Equitable Assignment of Work 8](#bookmark5)
+
+[Developing a Communication Framework 8](#bookmark6)
+
+[Managing Conflict 8](#bookmark7)
+
+[Team Charters 9](#bookmark8)
+
+[References 12](#bookmark9)
 
 # Introduction
 
