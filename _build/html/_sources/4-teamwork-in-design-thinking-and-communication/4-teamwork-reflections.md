@@ -5,11 +5,8 @@
 
 ![](media/image1.jpeg){width="1.2916666666666667in" height="0.4444444444444444in"}
 
-<<<<<<< HEAD
-=======
 <video src="../_static/" type="video/mp4" controls></video>
 
->>>>>>> 9df5e78 (update gitattributes)
 > This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 >
 > **Overview**

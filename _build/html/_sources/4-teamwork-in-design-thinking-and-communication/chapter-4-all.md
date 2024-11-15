@@ -1,3 +1,5 @@
+# Teamwork in Design THinking and Communication
+
 > Composed by Kiki Zissimopoulos and Michele N. Zugnoni
 >
 > Chapter 4
@@ -34,7 +36,7 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 [References 12](#bookmark9)
 
-# Introduction
+## Introduction
 
 ![](media/chapter4/2.png)
 
@@ -68,12 +70,8 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Idea Mediator
 
-<<<<<<< HEAD
-> This teammate is responsible for advocating for ideas during brainstorming, and guarding against early judgement. This person makes sure each idea gets a fair shot. This person takes care to guard against group-think, ensuring that each idea is weighed for benefits and drawbacks.
-=======
 
 This teammate is responsible for advocating for ideas during brainstorming, and guarding against early judgement. This person makes sure each idea gets a fair shot. This person takes care to guard against group-think, ensuring that each idea is weighed for benefits and drawbacks.
->>>>>>> 9df5e78 (update gitattributes)
 
 ![](media/chapter4/4.png)
 

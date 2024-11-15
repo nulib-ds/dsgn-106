@@ -1,3 +1,5 @@
+# Teamwork in Design Thinking and Communication
+
 > Composed by Kiki Zissimopoulos and Michele N. Zugnoni
 >
 > Chapter 4
@@ -34,7 +36,7 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 [References 12](#bookmark9)
 
-# Introduction
+## Introduction
 
 ![](media/chapter4/2.png)
 
