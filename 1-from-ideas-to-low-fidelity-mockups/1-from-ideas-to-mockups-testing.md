@@ -26,7 +26,7 @@ An example to demonstrate what this process might look like after the initial in
 
 <a name="figure1"></a>
 
-![*Figure 1 Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users. [^1]](media/chapter1/1.png)
+![*Figure 1 Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users. [^1]](../_static/chapter1/1.png)
 
 These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](#figure2)).
 
@@ -226,7 +226,7 @@ StoryBoards
 
 Storyboards are a good way to demonstrate a process and interactions in order to test and represent the user's experience. Storyboards use sketches, pictures, and words to illustrate key aspects of the user's experience, particularly the users "pain points" and how the design eases the pain point. This can be particularly useful for software designs getting feedback without needing to build any new software. The story board below ([Figure 11](#bookmark10)) illustrates how the app "Pawdacity\'\' helps the user Jody to measure her pet's paw, understand the different functions and features for her particular need, and finally order the right "doggie boot" product she needs.
 
-![](media/chapter1/12.png)
+![](_static/chapter1/12.png)
 
 *Figure 11 Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12. \[6\]*
 
