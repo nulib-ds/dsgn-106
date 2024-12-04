@@ -6,7 +6,7 @@ Prepared by Stacy Benjamin, Kaara Kallen, and Michele Zugnoni
 
 Ver. 23 Aug 2020
 
-![Image of two people at a table speaking to each other.](media/chapter3/1.png)
+![Image of two people at a table speaking to each other.](_static/chapter3/1.png)
 
 *Photo by [Christina @ wocintechchat.com](https://unsplash.com/%40wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -177,7 +177,7 @@ Adapted with permission pending.
 
 ## What are the goals of primary research and how do you reach those goals?
 
-![Image of two people. One is holding a camera as the other looks on](media/chapter3/2.png)
+![Image of two people. One is holding a camera as the other looks on](_static/chapter3/2.png)
 
 > Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
