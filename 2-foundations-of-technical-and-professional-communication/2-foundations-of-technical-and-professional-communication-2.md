@@ -10,13 +10,13 @@ Ver. 1 Aug 2020
 
 ![](photos/1.png)
 
-<center>This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of
-this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</center>
+*<center>This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of
+this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</center>*
 
 <br>
 
-*In science, the credit goes to the \[person\] that convinces the
-world, not to whom the idea first occurs* [^1] \~ Francis Darwin (son
+> In science, the credit goes to the \[person\] that convinces the
+world, not to whom the idea first occurs [^1] \~ Francis Darwin (son
 of Charles Darwin)
 
 As Francis Darwin points out, no matter how spectacular your ideas and designs are, if you can't communicate them effectively to a wide variety of audiences, they will not be recognized.
@@ -40,7 +40,7 @@ Thus, TPC is a highly designed form of communication that requires authors to ha
 
 ![1era reunión del grupo de trabajo de Educación by G20 Argentina is licensed under CC BY 2.0](photos/2.png)
 <br>
-<center>*<u>1era reunión del grupo de trabajo de Educación</u>* is licensed under CC BY 2.0</center>
+*<center>"1era reunión del grupo de trabajo de Educación" is licensed under CC BY 2.0</center>*
 
 
 Good communication skills, particularly in writing, are essential if you are going to succeed in the workplace. The working world depends on written communication because within today's organizations, almost every action is documented in writing.
@@ -61,13 +61,13 @@ The engineering co-op coordinator added that engineers who are more advanced in 
 
 The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
 
-## What is TPC's foundation? {#what-is-tpcs-foundation .unnumbered}
+## What is TPC's foundation?
 
 ![](photos/3.png)
 <center></center>
 
 
-[\"Head of Aristotle. Vienna, Museum of Art History, Collection of Classical Antiquities.\"](https://www.flickr.com/photos/36551225%40N05/3403519465) by [Sergey Sosnovskiy](https://www.flickr.com/photos/36551225%40N05) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+*[\"Head of Aristotle. Vienna, Museum of Art History, Collection of Classical Antiquities.\"](https://www.flickr.com/photos/36551225%40N05/3403519465) by [Sergey Sosnovskiy](https://www.flickr.com/photos/36551225%40N05) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)*
 
 Technical and professional communication is grounded in **Rhetoric,** the ancient art and science of persuasion. Unfortunately, in the 21st century, rhetoric tends to be positioned as something separate from everyday communication. However, all human activities are rhetorical, whether or not we are conscious of it.
 
@@ -120,11 +120,11 @@ This chapter contains material taken from
 
 ![](photos/4.png)
 
-<center><u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a></center>
+*<center><u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a></center>*
 
-## Characteristics {#characteristics .unnumbered}
+## Characteristics
 
-Mike Markell [^5], Sidney Dobrin [^6], Elizabeth Tebeaux [^7], Sam Dragga [^8], and other technical communication scholars all identify similar characteristics of technical communication.
+Mike Markell [^5], Sidney Dobrin [^6], Elizabeth Tebeaux [^7], Sam Dragga [^7], and other technical communication scholars all identify similar characteristics of technical communication.
 
 Technical and professional writing focuses on audience, is rhetorical, persuasive, purposeful, and problem-oriented, and is professional.
 
@@ -144,7 +144,7 @@ Related, on October 13, 2010, President Obama signed into law the [Plain Writing
 
 Another important consideration is to make sure electronic media, including e-learning documents, meet ADA (American Disabilities Act) laws for accessibility. More information is available on the [American with Disabilities Act website](https://www.ada.gov/).
 
-Technical and Professional Communication (TPC) is often taught using a **genre**-based approach. As explained by Richardohnson-Sheehan [^9], "Genres are patterns that reflect how communities, including people in technical workplaces, get things done. A genre shapes a project's content, organization, style, and design, as well as the medium in which it is delivered" (p. 2). Specific document-types can also be referred to as genres. Memos, proposals, progress reports are all genres -- and each of those have unique characteristics and rules (conventions).
+Technical and Professional Communication (TPC) is often taught using a **genre**-based approach. As explained by Richardohnson-Sheehan [^8], "Genres are patterns that reflect how communities, including people in technical workplaces, get things done. A genre shapes a project's content, organization, style, and design, as well as the medium in which it is delivered" (p. 2). Specific document-types can also be referred to as genres. Memos, proposals, progress reports are all genres -- and each of those have unique characteristics and rules (conventions).
 
 TPC genres include (a) use of headings to organize information into coherent sections, (b) use of lists to present informationoncisely, (c) use of figures and tables to present data and information visually, and (d) use of visual design to enhance readability. Table 2.1 provides a summary of conventions of TPCs.
 
@@ -246,7 +246,7 @@ quantitative whenever possible.</p>
 
 Technical documentation is intended to communicate information to the people who need it, in a way that is clear and easy to read, at the right time to help make decisions, and to support productivity. Designing technical communication is like designing any other product for an intended user\--the ultimate goal is to make it "user friendly."
 
-The late William Zinsser, author of *On Writing Well*, states, \"Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it\'s not a question of gimmick to personalize the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.\" [^10]
+The late William Zinsser, author of *On Writing Well*, states, \"Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it\'s not a question of gimmick to personalize the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.\" [^9]
 
 First, make sure your writing is **legible**. Is the font large enough to be read by a variety of audiences? Is it an easy to read font style that is appropriate for the content? If you are writing for electronic media, these considerations are especially significant.
 
@@ -290,7 +290,7 @@ One of the first things to do when you analyze an audience is to identify the *t
 
 Once you have identified the stakeholders, the types of audience who will read or listen to your communication, you need to conduct an audience analysis. This will enable you to create a user-centered and persuasive communication. It is necessary to understand your audience's level of understanding, their expectations, and their preferences.
 
-Some key questions (Johnson-Sheehan, as cited in the [[Purdue OWL]](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis/development_stage.html)) to ask about your readers are the "5 W's and H":
+Some key questions (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis) to ask about your readers are the "5 W's and H":
 
 -   Who are they?
 
@@ -304,7 +304,7 @@ Some key questions (Johnson-Sheehan, as cited in the [[Purdue OWL]](https://owl.
 
 -   How will they be reading?
 
-The following reader analysis chart (Johnson-Sheehan, as cited in the [[Purdue OWL]](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis/development_stage.html)) is effective to conduct an audience analysis:
+The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis) is effective to conduct an audience analysis:
 
 Table 3.1
 
@@ -371,17 +371,11 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
 -   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
-### References
-
-"Audience analysis overview." Purdue Owl. [https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis/index.html)
-
-[[/index.html](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis/index.html)](accessed July 25, 2020).
-
 ## Writing Process
 
 ![](photos/6.png)
 
-*Figure 4.1 Writing Process Diagram [^11]*
+*Figure 4.1 Writing Process Diagram [^10]*
 
 Just as we use design processes to creatively solve complex problems, we use writing processes to create complex documents. In both cases, there are steps or stages, but we don't always proceed directly from one step to next in a linear manner. These processes are often iterative, meaning we might return to previous stages in the process from time to time. The more complex the task, the more iteration might be needed. Think about the design process as explained in the introductory video by IDEO and the Writing Process as depicted in Figure 4.1. What similarities and differences can you see in these two processes?
 
@@ -449,23 +443,23 @@ This chapter contains material taken from
 
 *Figure 5.1, Diagram of Design Thinking for Social Justice Process*
 
-*Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^12].
+*Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^11].
 
 The design process we are learning is human-centered design (HCD). This process focuses on designing to meet the needs and desires of the users. Technical and professional communication (TPC) mirrors this goal, producing communication that focuses on the needs and desires of its users. They are also both concerned with the human experience and with the context---the rhetorical situation.
 
-In a foundational TPC journal article, Carolyn Miller [^13] makes an argument for the humanistic value of technical writing. She says that technical writing is not neutral, as many people believe. Technical writing does not follow the positivistic windowpane theory of language, which holds that language can provide an unobstructed view of reality -- as if you are looking through a window. In fact, all design and all TPC take place within economic and political systems, and at a specific historical time. They are not neutral nor are they subjective. They are created using particular choices, and as such they demonstrate viewpoints and perspectives.
+In a foundational TPC journal article, Carolyn Miller [^12] makes an argument for the humanistic value of technical writing. She says that technical writing is not neutral, as many people believe. Technical writing does not follow the positivistic windowpane theory of language, which holds that language can provide an unobstructed view of reality -- as if you are looking through a window. In fact, all design and all TPC take place within economic and political systems, and at a specific historical time. They are not neutral nor are they subjective. They are created using particular choices, and as such they demonstrate viewpoints and perspectives.
 
 Human-centered design and TPC can provide an opportunity to advocate and create equitable design solutions. Buchanan observes,
 
-Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37) [^14].
+Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37) [^13].
 
 ## Designing for persons with diverse abilities 
 
-According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^15]. As with HCD and TPC, the context in which a person experiences the disability is important:
+According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^14]. As with HCD and TPC, the context in which a person experiences the disability is important:
 
-In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs [^15].
+In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs [^14].
 
-There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term *people with disabilities* signifies that the challenges faced by an individual are a result of the impairment. The term *disabled people* signifies that the challenges faced are a result of the person's environment [^16]. The people-first term *people with disabilities* is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
+There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term *people with disabilities* signifies that the challenges faced by an individual are a result of the impairment. The term *disabled people* signifies that the challenges faced are a result of the person's environment [^15]. The people-first term *people with disabilities* is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
 
 Human-centered design, as practiced at Northwestern University's Segal Design Institute promotes social justice by empowering users with diverse abilities. The products the students design are intended to make the lives of these users easier, allowing them to better negotiate the physical context in which they live. The design process is human-centered by following the participatory approach shown in Figure 5.1. It starts with talking to users about the challenge they are trying to address. This allows the user to be the expert on the issue and honors that expertise. The user remains the focus as the design progresses, with the user providing input and participating in usability testing.
 
