@@ -467,6 +467,10 @@ Let's consider each of these columns in detail.
       <td>User’s writing is wobbly.</td>
       <td>User seems unable to write legibly.</td>
       <td>Maybe
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Details of observation**. In this column, the observer only wrote down details and facts. This enables them to draw upon these details and facts when writing up their report. By eliminating personal opinions, it reduces bias in the report, and can allow others to potentially identify additional insights or questions.
 
@@ -530,32 +534,6 @@ Table 3.2 Observation notes on user trying to write
     </tr>
   </tbody>
 </table>
-
-## References 
-
-[^1]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
-
-[^2]:  E. Babbie, *The Practice of Social Research.* 10th ed. Belmont, CA: Wadsworth publishing, 2003.
-
-[^3]:  K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [https://www.childtrends.org/wp-](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) [content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) 
-
-Adapted with permission pending.
-
-[^4]:  V. Tran. "Asian Americans are Falling through the Cracks in Data Representation and Social Services," Urban Institute, Jun. 20, 2018. Accessed: Aug 19, 2020. \[Online\]. Available: [https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social- services](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services)
-
-[^5]:  K. Jones and T. Okun. "The Characteristics of White Supremacy Culture," ChangeWork, 2001. Accessed: Aug. 20, 2020. \[Online\]. Available: [https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html)
-
-[^6]:  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
-
-[^7]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
-
-[^8]:  F. Leavitt, *Evaluating Scientific Research: Separating Fact from Fiction.* Long Grove, IL: Waveland Press, 2004.
-
-[^9]:  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
-
-[^10]:  "Observe." *Lexico.com Dictionary*, Oxford English and Spanish Dictionary, Thesaurus, and Spanish to English Translator, [https://www.lexico.com/en/definition/observe](https://www.lexico.com/en/definition/observe) (Accessed Aug. 23, 2020).
-
-[^11]:  W. Shadish, T. Cook and D. Campbell. *Quasi-Experimentation: Design and Analysis Issues.* Boston, MA: Houghton Mifflin Company, 1979.
 
 In this example, the researcher realizes that there's more they need to know about carpal tunnel syndrome -- not only the mechanics of the syndrome, but its psychological and lifestyle implications. As such, they choose to conduct a contextual inquiry where they have the user demonstrate their grip with writing implements of various sizes and ask the user questions about the effects carpal tunnel has had on their everyday life.
 
@@ -667,6 +645,30 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 **Write an introduction** to your survey to tell people in a sentence or two its purpose, its content, and how long it will take.
 
+# References
 
+[^1]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
+
+[^2]:  E. Babbie, *The Practice of Social Research.* 10th ed. Belmont, CA: Wadsworth publishing, 2003.
+
+[^3]:  K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [https://www.childtrends.org/wp-](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) [content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) 
+
+Adapted with permission pending.
+
+[^4]:  V. Tran. "Asian Americans are Falling through the Cracks in Data Representation and Social Services," Urban Institute, Jun. 20, 2018. Accessed: Aug 19, 2020. \[Online\]. Available: [https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social- services](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services)
+
+[^5]:  K. Jones and T. Okun. "The Characteristics of White Supremacy Culture," ChangeWork, 2001. Accessed: Aug. 20, 2020. \[Online\]. Available: [https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html)
+
+[^6]:  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
+
+[^7]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
+
+[^8]:  F. Leavitt, *Evaluating Scientific Research: Separating Fact from Fiction.* Long Grove, IL: Waveland Press, 2004.
+
+[^9]:  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
+
+[^10]:  "Observe." *Lexico.com Dictionary*, Oxford English and Spanish Dictionary, Thesaurus, and Spanish to English Translator, [https://www.lexico.com/en/definition/observe](https://www.lexico.com/en/definition/observe) (Accessed Aug. 23, 2020).
+
+[^11]:  W. Shadish, T. Cook and D. Campbell. *Quasi-Experimentation: Design and Analysis Issues.* Boston, MA: Houghton Mifflin Company, 1979.
 
 **Thank people** at the end of the survey.
