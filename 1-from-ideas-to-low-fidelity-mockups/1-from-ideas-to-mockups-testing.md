@@ -26,7 +26,7 @@ An example to demonstrate what this process might look like after the initial in
 
 <a name="figure1"></a>
 
-![Figure 1 Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users. [^1]](Media/1.png)
+![Figure 1 Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users. [^1]](http://localhost:8888/Media/1.png)
 
 These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](#figure2)).
 
