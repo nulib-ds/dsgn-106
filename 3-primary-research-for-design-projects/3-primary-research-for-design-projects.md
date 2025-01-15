@@ -120,9 +120,7 @@ A racial and ethnic equity approach moves beyond looking at disparities or "clos
 
 The following links contain additional resources for understanding and addressing the principles described above.
 
--   Using co-creation for greater inclusion and deeper understanding:
-
-[Systems of Inequity Have Been Designed by People, and They Can Be Redesigned.](https://www.aspeninstitute.org/blog-posts/systems-inequity-designed-people-can-redesigned/)
+-   Using co-creation for greater inclusion and deeper understanding: [Systems of Inequity Have Been Designed by People, and They Can Be Redesigned.](https://www.aspeninstitute.org/blog-posts/systems-inequity-designed-people-can-redesigned/)
 
 -   A look at how aesthetics, such as urban gentrification, create or reinforce inequities: [Inequality by design? Why we need to start talking about aesthetics, design and politics](http://eprints.lse.ac.uk/82230/1/Researching%20Sociology%20%40%20LSE%20%E2%80%93%20Inequality%20by%20design_%20Why%20we%20need%20to%20start%20talking%20about%20aesthetics%2C%20design%20and%20politics.pdf)
 
@@ -533,12 +531,6 @@ Table 3.2 Observation notes on user trying to write
   </tbody>
 </table>
 
-In this example, the researcher realizes that there's more they need to know about carpal tunnel syndrome -- not only the mechanics of the syndrome, but its psychological and lifestyle implications. As such, they choose to conduct a contextual inquiry where they have the user demonstrate their grip with writing implements of various sizes and ask the user questions about the effects carpal tunnel has had on their everyday life.
-
-#### This section contains material taken from: 
-
--   [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-
 ## References 
 
 [^1]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
@@ -564,6 +556,12 @@ Adapted with permission pending.
 [^10]:  "Observe." *Lexico.com Dictionary*, Oxford English and Spanish Dictionary, Thesaurus, and Spanish to English Translator, [https://www.lexico.com/en/definition/observe](https://www.lexico.com/en/definition/observe) (Accessed Aug. 23, 2020).
 
 [^11]:  W. Shadish, T. Cook and D. Campbell. *Quasi-Experimentation: Design and Analysis Issues.* Boston, MA: Houghton Mifflin Company, 1979.
+
+In this example, the researcher realizes that there's more they need to know about carpal tunnel syndrome -- not only the mechanics of the syndrome, but its psychological and lifestyle implications. As such, they choose to conduct a contextual inquiry where they have the user demonstrate their grip with writing implements of various sizes and ask the user questions about the effects carpal tunnel has had on their everyday life.
+
+#### This section contains material taken from: 
+
+-   [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 # Documenting Primary Design Research
 
@@ -668,5 +666,7 @@ A survey should be as brief as possible, but it is also your last best chance to
 ## Prepare to distribute 
 
 **Write an introduction** to your survey to tell people in a sentence or two its purpose, its content, and how long it will take.
+
+
 
 **Thank people** at the end of the survey.
