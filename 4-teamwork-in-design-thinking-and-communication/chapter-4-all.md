@@ -9,7 +9,7 @@
 
 Ver. 23 Aug 2020
 
-![]( _static/chapter4/1.png)
+![](photos/1.png)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -37,7 +37,7 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 # Introduction
 
-![]( _static/chapter4/2.png)
+![](photos/2.png)
 
   *A team of design students poses with their prototype \[4\].*
  
@@ -55,7 +55,7 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
  
   Gretchen Vogt, a former design student, reflected on how this class pushed her out of her comfort zone by requiring her to present her work, and how she grew as a result: "It turned out that it felt like every single quarter there were at least one or two classes where I had to present \... I really appreciate that I had to do this ... because otherwise I would have been totally in over my head. The fact that \[this class\] forces you out of your comfort zone really prepares you for other classes that are also going to force you out of your comfort zone. So you really have to learn to get comfortable with being uncomfortable and \[this class\] helps with that." Gretchen recognized the opportunity to learn new skills in the supportive environment created by this class, and became stronger for it.
 
-![]( _static/chapter4/3.png)
+![](photos/3.png)
 
   *Design students present their project \[5\].*
  
@@ -72,7 +72,7 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 This teammate is responsible for advocating for ideas during brainstorming, and guarding against early judgement. This person makes sure each idea gets a fair shot. This person takes care to guard against group-think, ensuring that each idea is weighed for benefits and drawbacks.
 
-![]( _static/chapter4/4.png)
+![](photos/4.png)
 
   This person also makes sure that everyone understands the conversation, and that jargon isn't being used that might be understood differently by different people. This person checks in with other teammates to ensure everyone has had a chance to share their points-of-view and ideas.
  
@@ -82,13 +82,13 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
   This teammate is responsible for updating and referencing the project management tools (i.e., Gantt chart, RAM chart, etc.). This person also keeps track of assignment due-dates and key milestones, ensuring that work is turned in on time. The person in this role should close each team meeting with a recap of what is done, what needs to be done, and any necessary timeline adjustments if needed.
 
-![]( _static/chapter4/5.png)
+![](photos/5.png)
 
   This person keeps the team on track.
 
 ## Cohesion Collaborator
 
-![]( _static/chapter4/6.png)
+![](photos/6.png)
 
   This person records notes during team meetings; client interactions; and presentations (i.e., such as comments from teachers and classmates). This person also shares these notes with all other teammates so that everyone is up-to-date with what's currently happening in terms of teamwork and project design. In addition, this person is responsible for communicating with external partners, such as clients and project partners, to complete tasks such as scheduling and email communications.
 
@@ -96,7 +96,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
   This person is responsible for initiating discussions about dividing work, and ensures that work is divided equitably. They also keep track of how everyone's doing throughout the week, taking note if someone isn't feeling well or if someone is particularly busy, such as with midterm examinations or family responsibilities. In taking note, this person also keeps track of whether a busy team member has too many
 
-![]( _static/chapter4/7.png)
+![](photos/7.png)
 
   jobs assigned to them during that week, and shifts responsibilities so that other, less busy team members can help out. Finally, this person works with the Idea Mediator to resolve any disputes that occur between team members.
  
@@ -122,7 +122,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 # Sharing Ideas
 
-![]( static/chapter4/8.png)
+![](photos/8.png)
 
   *A team of design students meets to discuss their ideas \[2\].*
  
@@ -138,7 +138,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
  
   As you assign work to your team members, you'll want to ensure that each team member takes on an equal amount of responsibility. In this way, you all function together as a team to accomplish your tasks. The Wellness Watcher, one of the team roles, can help you divide work equally between team members.
 
-![]( static/chapter4/9.png)
+![](photos/9.png)
 
   *A design team works on their prototype \[1\].*
  
