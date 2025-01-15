@@ -6,14 +6,6 @@ Prepared by Laura Maria Pigozzi, PhD
 
 Ver. 1 Aug 2020
 
-<style>
-.img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 ## What is technical and professional communication?
 
 ![](photos/1.png)
@@ -71,7 +63,7 @@ The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owm
 
 ## What is TPC's foundation? {#what-is-tpcs-foundation .unnumbered}
 
-(photos/3.png)
+![](photos/3.png)
 <center></center>
 
 
@@ -134,7 +126,7 @@ This chapter contains material taken from
 
 ## Characteristics and Conventions of Technical and Professional Communication
 
-![]((photos/4.png)
+![](photos/4.png)
 
 <center><u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a></center>
 
