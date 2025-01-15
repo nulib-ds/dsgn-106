@@ -259,6 +259,8 @@ The bottom line is that as you and your team conduct research, you'll uncover im
 
 # Tips, models, and templates
 
+![](photos/3.png)
+
 Photo by [UX Indonesia](https://unsplash.com/%40uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Observing 
@@ -436,6 +438,8 @@ See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing s
 3.  W. Shadish, T. Cook and D. Campbell. *Quasi-Experimentation: Design and Analysis Issues.* Boston, MA: Houghton Mifflin Company, 1979.
 
 ## Mitigating bias in your observation notes
+
+![](photos/4.png)
 
 Photo by [Felipe Furtado](https://unsplash.com/%40furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
