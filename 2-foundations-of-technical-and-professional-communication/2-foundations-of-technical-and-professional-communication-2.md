@@ -16,7 +16,7 @@ Ver. 1 Aug 2020
 
 ## What is technical and professional communication?
 
-<img src="_static/chapter2/1.png" class="img" />
+![](photos/1.png)
 
 <center>This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of
 this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</center>
@@ -46,7 +46,7 @@ Thus, TPC is a highly designed form of communication that requires authors to ha
 
 ## Why should you care?
 
-![1era reunión del grupo de trabajo de Educación by G20 Argentina is licensed under CC BY 2.0](photos/1.png)
+![1era reunión del grupo de trabajo de Educación by G20 Argentina is licensed under CC BY 2.0](photos/2.png)
 <br>
 <center>*<u>1era reunión del grupo de trabajo de Educación</u>* is licensed under CC BY 2.0</center>
 
@@ -71,7 +71,7 @@ The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owm
 
 ## What is TPC's foundation? {#what-is-tpcs-foundation .unnumbered}
 
-<img src="_static/chapter2/3.png" class="img">
+(photos/3.png)
 <center></center>
 
 
@@ -134,7 +134,7 @@ This chapter contains material taken from
 
 ## Characteristics and Conventions of Technical and Professional Communication
 
-<img src="_static/chapter2/4.png" class="img"/>
+![]((photos/4.png)
 
 <center><u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a></center>
 
@@ -298,7 +298,7 @@ This chapter contains material taken from:
 
 # Audience
 
-![](_static/chapter2/5.png)
+![](photos/4.png)
 
 [Visitors from Montenegro](https://www.flickr.com/photos/35538707%40N00/5852223146) by [DavidDin](https://www.flickr.com/photos/35538707%40N00) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
 
@@ -407,7 +407,7 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
 ## Writing Process
 
-![](_static/chapter2/6.png)
+![](photos/6.png)
 
 *Figure 4.1 Writing Process Diagram \[1\]*
 
@@ -477,7 +477,7 @@ This chapter contains material taken from
 
 ## Design, Technical and Professional Communication, and Social Justice
 
-![Figure 7](_static/chapter2/7.jpg)
+![Figure 7](photos/7.jpg)
 
 *Figure 5.1, Diagram of Design Thinking for Social Justice Process*
 
