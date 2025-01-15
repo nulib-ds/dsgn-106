@@ -473,33 +473,33 @@ The supporting documentation for the design process, as well as correspondence w
 
 ## References
 
-[^1]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," *Journal of Technical Writing and Communication,* vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
+[^11]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," *Journal of Technical Writing and Communication,* vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
 
-[^2]: C. R. Miller, "A humanistic rationale for technical writing," *College English,* vol.40, no. 6, pp. 610-617.
+[^12]: C. R. Miller, "A humanistic rationale for technical writing," *College English,* vol.40, no. 6, pp. 610-617.
 
-[^3]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," *Design Issues,* vol. 17, no. 3, pp. 35-39.
+[^13]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," *Design Issues,* vol. 17, no. 3, pp. 35-39.
 
-[^4]: "Disability," 2020. Accessed on July 20, 2020. \[Online\].  Available:  https://www.who.int/health-topics/disability#tab=tab_1
+[^14]: "Disability," 2020. Accessed on July 20, 2020. \[Online\].  Available:  https://www.who.int/health-topics/disability#tab=tab_1
 
-[^5]: G. Pullin, *design meets disability,* Cambridge, MA, The MIT Press, 2009. Figure 5.1
+[^15]: G. Pullin, *design meets disability,* Cambridge, MA, The MIT Press, 2009. Figure 5.1
 
-[^6]: M. Markell, *Technical communication*, 11^th^ ed., Boston, MA, USA: Bedford/St. Martins, 2015.
+[^5]: M. Markell, *Technical communication*, 11^th^ ed., Boston, MA, USA: Bedford/St. Martins, 2015.
 
-[^7]: S. Dobrin, C. Keller, C. Weisser, *Technical communication in the twenty first century,* 2^nd^ ed., Upper Saddle River, NJ, USA: Pearson Prentice Hall, 2010.
+[^6]: S. Dobrin, C. Keller, C. Weisser, *Technical communication in the twenty first century,* 2^nd^ ed., Upper Saddle River, NJ, USA: Pearson Prentice Hall, 2010.
 
-[^8]: E. Tebeaux, S. Dragga, *The essentials of technical communication,* 2^nd^ ed., Oxford, England: Oxford University Press, 2012.
+[^7]: E. Tebeaux, S. Dragga, *The essentials of technical communication,* 2^nd^ ed., Oxford, England: Oxford University Press, 2012.
 
-[^9]: R. Johnson-Sheehan, R. *Technical communication today,* 6^th^ ed., New York, NY, USA: Pearson, 2018.
+[^8]: R. Johnson-Sheehan, R. *Technical communication today,* 6^th^ ed., New York, NY, USA: Pearson, 2018.
 
-[^10]: W. Zinsser, W. *On writing well*, New York, NY, USA: HarperCollins Publishers, 2006, p. 5.
+[^9]: W. Zinsser, W. *On writing well*, New York, NY, USA: HarperCollins Publishers, 2006, p. 5.
 
-[^11] M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission
+[^10] M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission
 
-[^12]: E. Knowles (ed) \"Francis Darwin.\" in *Oxford Dictionary of Modern Quotations*., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
-[^13]: S. Pinker, "The source of bad writing," *The Wall Street Journal*, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
+[^1]: E. Knowles (ed) \"Francis Darwin.\" in *Oxford Dictionary of Modern Quotations*., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
+[^2]: S. Pinker, "The source of bad writing," *The Wall Street Journal*, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
 
-[^14]: S. McConkey, "Writing a work term report," *ENGR 120 Plenary Lecture*, University of Victoria, March 3, 2017
+[^3]: S. McConkey, "Writing a work term report," *ENGR 120 Plenary Lecture*, University of Victoria, March 3, 2017
 
-[^15]: J. Swartz, S. Pigg, J. Larsen, J. Helo Gonzalez, R. De Haas, and E. Wagner, \"Communication in the workplace: What can NC State students expect?\" Professional Writing Program, North Carolina State University, 2018 \[Online\] at [[https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit) [[oB-sGUrtRswD7feuRB0/edit]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit)
+[^4]: J. Swartz, S. Pigg, J. Larsen, J. Helo Gonzalez, R. De Haas, and E. Wagner, \"Communication in the workplace: What can NC State students expect?\" Professional Writing Program, North Carolina State University, 2018 \[Online\] at [[https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit) [[oB-sGUrtRswD7feuRB0/edit]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit)
 
 Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's [Processus de] [Design Thinking]. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [[http://contested-]](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) [[cities.net/wpcontent/ uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-]](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) [[FromTechnicalToPolitical.pdf].](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) Used with permission.
