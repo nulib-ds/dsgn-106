@@ -46,7 +46,7 @@ Thus, TPC is a highly designed form of communication that requires authors to ha
 
 ## Why should you care?
 
-<img src="_static/chapter2/2.png" alt="1era reunión del grupo de trabajo de Educación" title="by G20 Argentina is licensed under CC BY 2.0" class="img"/>
+![1era reunión del grupo de trabajo de Educación by G20 Argentina is licensed under CC BY 2.0](photos/1.png)
 <br>
 <center>*<u>1era reunión del grupo de trabajo de Educación</u>* is licensed under CC BY 2.0</center>
 
