@@ -31,7 +31,7 @@ An example to demonstrate what this process might look like after the initial in
 These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](#figure2)).
 
 <a name="figure2"></a>
-![*Figure 2 Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.*]( Media/Chapter 1/2.png)
+![*Figure 2 Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.*]( photos/2.png)
 
 In parallel to the initial round of development that culminated with a user testing session, the team generates and explores new ideas that arise from feedback from users, additional secondary research, and refined project requirements such as appearance and interaction preferences. New ideas go through the same iterative process of evaluate, build, and test to develop Mockups 5 and 6. The team conducted another round of testing with users. The user feedback is combined with guidance from prototyping specialists, instructors/supervisors, and project stakeholders to inform the team on a prototype that represents their design concept. For a real-life example of this process in action for a DTC team, watch the [video describing the development of a one-handed glove donner](https://drive.google.com/file/d/1LJUVLJFjjy-lEDyaV10M5BA8RMDLUdDo/view?usp=sharing) [^1].
 
@@ -65,7 +65,7 @@ Your team will have dozens or even hundreds of ideas at the conclusion of your i
 
 <a name="figure3"></a>
 
-![Figure 3 Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.]( Media/Chapter 1/3.png)
+![Figure 3 Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.]( photos/3.png)
 
 *Figure 3 Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.[^2]*
 
@@ -75,7 +75,7 @@ Sorting Ideas into Complementary Solutions Sets
 
 As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](#bookmark3)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
 
-![Figure 4 Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets]( Media/Chapter 1/4.png)
+![Figure 4 Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets]( photos/4.png)
 
 *Figure 4 Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets*[^2]
 
@@ -88,7 +88,7 @@ Alternatives matrices are useful tools that can help you evaluate each idea's po
 
 <a name="figure5"></a>
 
-![figure 5]( Media/Chapter 1/5.png)
+![figure 5]( photos/5.png)
 
 *Figure 5 Grouped ideas focused on increasing safety for infants who fall asleep in a lounger. Clockwise from top-left: Transitional devices, Inherently safe devices, Miscellaneous, & App/phone ideas. Images courtesy of all teams from 2019 Fall DTC - Section 15. \[2\]*
 
@@ -114,7 +114,7 @@ Answers to these questions will help you understand more about how well this ide
 
 A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [[See Robbie's]{.underline}](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) [[Design Story Card]{.underline}](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) \[3\]here and an excerpt is shown in [Figure 6](#bookmark5).
 
-![Figure 6 Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.]( Media/Chapter 1/6.png)
+![Figure 6 Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.]( photos/6.png)
 
 *Figure 6 Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.* [^3]
 
@@ -196,7 +196,7 @@ Physical mockups can also be useful to demonstrate a process, which can be impra
 
 <a name="figure7"></a>
 
-![*Figure 7 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin \[12\]*]( Media/Chapter 1/7.png)
+![*Figure 7 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin \[12\]*]( photos/7.png)
 
 *Figure 7 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin \[12\]*
 
@@ -204,7 +204,7 @@ Physical mockups can also be useful to demonstrate a process, which can be impra
 
 <a name="figure8"></a>
 
-![*Figure 8 This is a low fidelity mock-up of a bag made by a Danielle Panther 11*]( Media/Chapter 1/8.png)
+![*Figure 8 This is a low fidelity mock-up of a bag made by a Danielle Panther 11*]( photos/8.png)
 
 *Figure 8 This is a low fidelity mock-up of a bag made by a Danielle Panther 11*
 
@@ -212,13 +212,13 @@ Physical mockups can also be useful to demonstrate a process, which can be impra
 
 Concept sketches are frequently used to illustrate different appearances very quickly for physical objects or software layouts but can also be used to illustrate a solution to a problem and gauge user interest and concerns. Such sketches are used in conjunction with a **"**concept walk thru" that could be held in person or remotely in order to gauge user interest and feedback. This can be done quickly (5-10 min) and with multiple people (5-10) in the targeted user population. [Figure 9](#bookmark8) demonstrates when a design team looking to build a better bra used a focused concept sketches to illustrate an idea for keeping bra straps on the shoulders, a problem for many women regardless of age. The second more comprehensive concept sketch looks to illustrate how the "build a bra" idea to help pregnant and nursing women adjust their bra as their body changes during pregnancy, childbirth, and lactation. These concept sketches were shown to women in the target audience, and reactions and questions used to determine which ideas resonated with them. Concept sketches do not need to be 'perfect', but rather only good enough so that you are able to communicate the idea to someone else who can provide feedback. In this case, the "sticky straps" concept resonated with a broader user base, while "build a bra" raised concerns about the users' ability to correctly adjust the bra themselves.
 
-![*Figure 9 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*]( Media/Chapter 1/10.png)
+![*Figure 9 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*]( photos/10.png)
 
 *Figure 9 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5. [^4]*
 
 The sketches in [Figure 10](#bookmark9) show how multiple concept sketches can be used to test the reaction of potential customers to different forms of a lockbox (and placements of a battery compartment, latch, handle and opening mechanism) without having to physically build anything.
 
-![*Figure 10 Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism.* [^5]]( Media/Chapter 1/11.png)
+![*Figure 10 Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism.* [^5]]( photos/11.png)
 
 *Figure 10 Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. \[5\]*
 
@@ -226,7 +226,7 @@ StoryBoards
 
 Storyboards are a good way to demonstrate a process and interactions in order to test and represent the user's experience. Storyboards use sketches, pictures, and words to illustrate key aspects of the user's experience, particularly the users "pain points" and how the design eases the pain point. This can be particularly useful for software designs getting feedback without needing to build any new software. The story board below ([Figure 11](#bookmark10)) illustrates how the app "Pawdacity\'\' helps the user Jody to measure her pet's paw, understand the different functions and features for her particular need, and finally order the right "doggie boot" product she needs.
 
-![]( Media/Chapter 1/12.png)
+![]( photos/12.png)
 
 *Figure 11 Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12. \[6\]*
 
@@ -244,7 +244,7 @@ Wireframes provide information on the structure, layout, architecture of informa
 
 <a name="figure12"></a>
 
-![*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. \[9\]*]( Media/Chapter 1/13.png)
+![*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. \[9\]*]( photos/13.png)
 
 *Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. \[9\]*
 
@@ -266,7 +266,7 @@ Completing a mockup plan can be very helpful in guiding your team in determining
 
 4. Describe your testing plan with a user to get feedback that will answer your exploratory questions
 
-![]( Media/Chapter 1/14.png){width="5.944444444444445in" height="4.652777777777778in"}
+![]( photos/14.png){width="5.944444444444445in" height="4.652777777777778in"}
 
 *Figure 13 Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1 \[10\]*
 
