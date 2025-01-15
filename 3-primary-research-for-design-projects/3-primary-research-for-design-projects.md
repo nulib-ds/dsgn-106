@@ -645,7 +645,7 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 **Write an introduction** to your survey to tell people in a sentence or two its purpose, its content, and how long it will take.
 
-# References
+## References
 
 [^1]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
 
