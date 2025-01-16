@@ -35,6 +35,8 @@ Ver. 23 Aug 2020
 
 [References](#bookmark9)
 
+<a name="bookmark0"></a>
+
 # Introduction
 
 ![](photos/2.png)
@@ -46,6 +48,8 @@ Ver. 23 Aug 2020
   When asked about the most important things learned in DTC and the most important takeaways, Joe Burke, a former design student, noted that, "I think, number one, for me\... will always be teamwork. Working effectively on a team and being able to not only work effectively but just exist in a positive space with other people in what sometimes might be a stressful environment. Building that cooperation and rapport with your team, I've learned, is so crucial to having a successful project." Joe goes on to say that, "\... it was overall a very positive experience for me because it was my first chance to work on a team closely with people and feel like I was actually doing the work I wanted to be doing\..."
  
   Our goal for this article is to provide you with strategies to navigate the process of working closely with a group of your peers who have different schedules, priorities, and strengths in order to create a positive team experience. Throughout the article, you'll find videos, which feature former design students expressing the lessons they learned that helped them achieve success in this course. In order to view these videos, be sure to download this pdf to your computer and have the latest update for Adobe Reader installed.
+
+  <a name="bookmark1"></a>
 
 # Our Approach to Teamwork and Problem Solving
 
@@ -60,10 +64,14 @@ Ver. 23 Aug 2020
   *Design students present their project [^5].*
  
   In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in the video on the next page:
+
+  <a name="bookmark2"></a>
  
   **Team Roles**
  
   Depending on your instructors' directions, your team may rotate through various roles, as described below, so that each person has an opportunity to guide team development while also expanding their skill set. Each of these roles asks you to facilitate behaviors which foster effective teams. Each team member will hold every role for two or three weeks during the quarter. It is important that your team respects the boundaries of each role. If you are strong at a role that you are not currently assigned to, resist the temptation to take over for the team member who is assigned to this role. This is their opportunity to learn and your opportunity to model effective team behavior as you support them. By rotating roles and respecting the boundary of each role, you're enabling your team to leverage each member's strengths, as discussed by former design student, Joe Burke.
+
+  <a name="bookmark3"></a>
 
 # Suggested Team Roles
 
@@ -100,6 +108,8 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
  ![](photos/7.png)
 
+ <a name="bookmark4"></a>
+
 # Sharing Ideas
 
 ![](photos/8.png)
@@ -111,6 +121,8 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
   After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid [^3]. When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results [^7]. In the video below, former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
  
   As you work with your team on developing ideas, you'll rely on the Idea Mediator for effective discussion. The person filling this role will help ensure that your team members listen to all ideas, which is important as you work to arrive at a final solution.
+
+  <a name="bookmark5"></a>
 
 # Equitable Assignment of Work
 
@@ -124,6 +136,8 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
  
   Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students Boss Paspanthong and Amanda Davis have to say about time management in making your decision:
 
+  <a name="bookmark6"></a>
+
 # Developing a Communication Framework
 
   As you begin to build rapport with your teammates, it's important to decide on how you will communicate. Some things to consider and work into a team charter are:
@@ -134,11 +148,15 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 -   How much time should your teammates take to respond? Generally, it's helpful to require teammates to respond in less than 24 hours from receipt of the message. However, if you're finalizing an assignment or on a deadline, you may want to shorten this length of time to 8 or 12 hours.
 
+<a name="bookmark7"></a>
+
 # Managing Conflict
 
   Should your team experience a dispute between team members, it's important to resolve that dispute in a way that empowers your team. The Wellness Watcher and Idea Mediator will serve as the team's mediators. Be sure to listen carefully to what each team member has to say, and then talk through the dispute in a way that ends with your team reaching a solution amenable to everyone.
  
   As you learn to work together with your team, consider that each member has a different background and experiences, which shape the way they communicate and view the world. It's important to take these differences into account when making decisions and communicating with your team members. Differences make us stronger; they are the foundation for team building.
+
+<a name="bookmark8"></a>
 
 # Team Charters
 
@@ -440,10 +458,10 @@ While the mission statement is clear, the performance goal sets only a minimal s
  
 # Reflection Set One
 
-## Quiz
+### Quiz
 Thinking back on the client interview and/or the initial team presentation, how did your team divide up tasks? Did this division foster equitable distribution of work? How or how not? What might you have done differently to ensure that each team member had an equitable role?
 
-## DISCUSSION BOARD (divided by groups):
+### DISCUSSION BOARD (divided by groups):
 
   Step One. Now that you've had a chance to reflect on your team's distribution of roles, write and post a comment in which you discuss:
 
@@ -463,7 +481,7 @@ Thinking back on the client interview and/or the initial team presentation, how 
 
 (c) What will your team continue doing?
 
-## INDIVIDUAL REFLECTION: 
+### INDIVIDUAL REFLECTION: 
 Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of roles for the client interview
  
   and/or initial research presentation. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen?
@@ -472,12 +490,12 @@ Over the last few days, you and your team have had a chance to reflect on and di
  
 # Reflection Set Two
  
-## QUIZ: 
+### QUIZ: 
 What ideas have you personally thought of for your design? Have you been able to share your ideas with your teammates? Have your teammates shared their ideas?
  
   Have each of your team members been receptive to ideas? How or how not?
 
-## DISCUSSION BOARD (divided by groups):
+### DISCUSSION BOARD (divided by groups):
 
   Step One. Now that you've had a chance to reflect on the environment of idea sharing within your team, write and post a comment in which you discuss:
 
@@ -499,15 +517,15 @@ What ideas have you personally thought of for your design? Have you been able to
 
 
 
-## INDIVIDUAL REFLECTION: 
+### INDIVIDUAL REFLECTION: 
 Over the last few days, you and your team have had a chance to reflect on and discuss the environment of idea sharing within your team. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
  
 # Reflection Set Three
  
-## QUIZ: 
+### QUIZ: 
 How did your team distribute the work and the presentation? Do you think this approach accurately reflected the work that each individual contributed? Would you have done anything differently?
 
-## DISCUSSION BOARD (divided by teams):
+### DISCUSSION BOARD (divided by teams):
 
   Step One. Now that you've had the chance to reflect on your team's distribution of work, write and post a comment in which you discuss:
 
@@ -528,10 +546,12 @@ How did your team distribute the work and the presentation? Do you think this ap
 (c) What will your team continuedoing? 
 
 
-## INDIVIDUAL REFLECTION: 
+### INDIVIDUAL REFLECTION: 
 Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of work. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well?
  
   \(b\) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
+
+  <a name="bookmark9"></a>
 
 # References
 
