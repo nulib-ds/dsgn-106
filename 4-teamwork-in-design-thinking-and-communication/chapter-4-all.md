@@ -9,10 +9,10 @@ Ver. 23 Aug 2020
 
 ![](photos/1.png)
 
-_This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
+*This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
 
 Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-_
+*
 
 # Navigation
 
