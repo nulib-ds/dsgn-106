@@ -6,7 +6,7 @@
 
 ## Assignment 1: Cake Time! 
 
-Step 1: Each team receives a [set of images](#cake) of some of the steps for baking a cake. (File: Cake Time!).  
+Step 1: Each team receives a [set of images](#cake) of some of the steps for baking a cake.  
 
 Step 2: As a team during an in-class session, outside of class meeting, or virtual meeting (using a videoconferencing platform), students should put the images in order, label them (“figure 1,” etc.), write the text directions, and intersperse the images and text directions in a document.  
 
@@ -14,7 +14,7 @@ Step 3: The team should submit their work.
 
 Optional step 4: [Cake Time peer review](#bookmark0). See directions on the file. 
 
-Assignment 2: Pitching a Tent 
+## Assignment 2: Pitching a Tent 
 
 Step 1: As individuals, students will receive either the text directions or images for either [Tent 1](#bookmark1) or [Tent 2](#bookmark2). (The instructor should divide the files so students only get the images or the text directions.)  
 
@@ -47,11 +47,10 @@ Optional step 2:- Have students read [this online article](https://instrktiv.com
 
 For fun: 
 
-(https://www.designboom.com/design/ikea-furniture-forts-05-14-2020/)[https://www.designboom.com/design/ikea-furniture-forts-05-14-2020/]
+[https://www.designboom.com/design/ikea-furniture-forts-05-14-2020/](https://www.designboom.com/design/ikea-furniture-forts-05-14-2020/)
 
-This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
-
-or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. 
+> This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
+> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. 
 
 <a name="cake"></a>
 # Cake Time Directions:
@@ -72,9 +71,7 @@ ________Is each figure labeled?
 
 ________Do the text directions refer to each figure? 
 
-________Are the figures and text interspersed (not all the images are at the bottom or top of  
-
-the page)? 
+________Are the figures and text interspersed (not all the images are at the bottom or top of the page)? 
 
 2. Now, look for more nuanced choices and explain your reaction: 
 
@@ -114,13 +111,16 @@ Layout & Positioning of Tent and Poles
 - Stake down the remainder of the stake rings.
 - Assemble all poles by unfolding and interlocking the shock-corded pole sections.
 - Insert the body poles into the pole sleeves. 
+
 Connect Poles to Tent  
 - Insert one pin into one end of the pole.
 - Go to opposite end of pole and carefully insert the pin into the other pole end.
 - Repeat for all poles. 
+
 Attach Tent to Body Poles Using Clips 
 - Attach clips along the edges of tent to body poles.
 - Make any adjustments to the tent stakes, if needed. 
+
 Attach Rainfly  
 - Insert vestibule pole into pole sleeve located on underside of rainfly.
 - Attach rainfly pole to underside of rainfly with straps and insert the tips of the rainfly pole into the pockets on underside of rainfly.
@@ -139,9 +139,7 @@ ________Is each figure labeled?
 
 ________Do the text directions refer to each figure? 
 
-________Are the figures and text interspersed (not all the images are at the bottom or top of  
-
-the page)? 
+________Are the figures and text interspersed (not all the images are at the bottom or top of the page)? 
 2. Now, look for more nuanced choices and explain your reaction: 
 - How closely do the spirit of the images that you or your partner created match those of the official directions? (No weighing in on artistic ability.) What are the main differences? Why do you think those differences exist?  
 - How closely does the text directions that you or your partner created match those of the official directions? What are the main differences? Why do you think those differences exist?  
@@ -170,12 +168,14 @@ Make template
 - Align the backrest strut template to the centerline and bottom edge of the cedar piece and trace the shape.
 - Flip the template along the centerline to draw the other half.
 - Cut out the pieces with a jigsaw.
+
 Use template
 - Align it to centerlines drawn on the boards, trace around it, then flip it over the centerline and trace the rest of the shape.
 - Sand the edges of the curved pieces with a belt sander.
 - Cut all the pieces to the dimensions given in the Cutting List, using the templates for the legs and the top slat.
 - Cut out the shapes with a jigsaw.
 - Sand the pieces with a belt sander. 
+
 Drill the Ends 
 - Drill the ends of the hand grip holes with a 1-in. spade bit.
 - Lay out the hand grip hole in the top slat, then cut it out using a jigsaw and spade bit.
@@ -183,6 +183,7 @@ Drill the Ends
 - Lay out, countersink and drill all the screw holes for the slats and supports.
 - Sand all the pieces with 120-grit, then 150-grit sandpaper.
 - Round over the sharp edges with the sandpaper. 
+
 Align the Seat 
 - Use a carpenter's square to align the seat supports 90 degrees to the backrest struts, then glue and screw them in place.
 - Use glue and screws to attach the slats, too.
@@ -191,6 +192,7 @@ Align the Seat
 - Attach the Slats 
 - Attach the slats to the seat struts using a 1/2-in. spacer to align them.
 - Finish driving the screws by hand to avoid setting their heads too deep. 
+
 Finishing Touches 
 - Before applying the finish, unscrew the two seat supports and apply weather-resistant glue (like Titebond II or Gorilla Glue) to the joints, then re-screw the seat supports to the backrest struts.
 - Brush on two liberal coats of a penetrating exterior wood sealer (like Thompson's Water Seal).
@@ -217,6 +219,7 @@ Cut out and drill the parts
 - Position slots for the long rails with a spacer: Orient the leg so the previously cut slot is facing up, and cut a slot on the side opposite the plug holes. Use a spacer to position the slot so the long rail will be centered on the leg when it’s installed.
 - Cut slots in the rail ends: Mark the centers of the curved seat rails and long rails on masking tape.
 - Cut slots in the long rails: Position the long rails with the masking tape facing down. Use a Speed Square as a guide for cutting biscuit slots for the intermediate rails. Align the square with the edge mark for the seat rail. Make a center mark on the square as a reference for lining up the plate joiner. 
+
 Join the rails and legs with biscuits 
 - Put a biscuit in the slot and dry-fit the leg and seat rail to make sure the rail is oriented correctly. It should be centered on the leg. Then spread glue in the slots and on the biscuit and press the leg and the seat rail together. 
 Complete the leg assembly and seat assemblies
@@ -224,6 +227,7 @@ Complete the leg assembly and seat assemblies
 - Connect the seat rails with biscuits Join the two long rails with the two intermediate seat rails with biscuits and glue. Clamp them and let the glue set about 30 minutes.
 - Connect the leg assembies to the seat assembly with biscuits and clamp them together. Then attach the brace with screws.
 - SCREW ON THE SEAT SLATS Start by attaching the two outside slats. Then center the middle slat and attach it with screws. Next, position the remaining slats so there’s an even space (two biscuits wide) between them. Use a board to align the slat ends 
+
 Finishing Touches 
 - HIDE THE SCREWS WITH WOOD PLUGS Glue flat-top wood plugs into the plug recesses. Use a cutoff dowel or a small block of wood to pound them flush.
 - Finished the bench with Cabot Australian Timber Oil.
@@ -238,9 +242,7 @@ ________Is each figure labeled?
 
 ________Do the text directions refer to each figure? 
 
-________Are the figures and text interspersed (not all the images are at the bottom or top of  
-
-the page)? 
+________Are the figures and text interspersed (not all the images are at the bottom or top of the page)? 
 
 2. Now, look for more nuanced choices and explain your reaction: 
 
