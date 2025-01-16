@@ -102,6 +102,9 @@ ________Are the figures and text interspersed (not all the images are at the bot
 - Lay the fly out on the ground, upside down. Thread the brim rods through the sleeves on the fly. Fit the fly rod into the web pockets on the underside of the fly and secure with the Velcro tab at the center.
 - Turn the fly right side up and drape it over the tent with a brim rod over each door. Wrap and secure the Velcro straps around the poles to keep the fly in place. Insert each end of a brim rod into the corresponding grommet on the tent. Set the hoods to the same height. If the fly has shifted, adjust the Velcro straps on the frame. Fasten the side release buckles at all of the corners and tension until wrinkles are gone. 8. Stake out the tent through the corner rings. Stake opposite corners while applying tension to square the tent and remove wrinkles from the floor. Stake out the fly through the rings on the side of the fly. Stake down the side pull outs to provide maximum floor space.
 
+**Images**
+![](photos/tent1/1.jpg)![](photos/tent1/2.jpg)![](photos/tent1/3.jpg)![](photos/tent1/4.jpg)![](photos/tent1/5.jpg)
+
 <a name="bookmark2"></a>
 # Tent 2 Text and Image Directions
 ### Directions for Assembly:
@@ -129,6 +132,9 @@ Attach Rainfly
 - Secure rainfly with straps located on the underside of rainfly.
 - Insert one pin into one end of the vestibule pole.
 - Attach and stake out guylines.
+
+**Images**
+![](photos/tent2/1.jpg)![](photos/tent2/2.jpg)![](photos/tent2/3.jpg)![](photos/tent2/4.jpg)![](photos/tent2/5.jpg)![](photos/tent2/6.jpg)![](photos/tent2/7.jpg)![](photos/tent2/8.jpg)
 
 <a name="bookmark3"></a>
 # Pitching a Tent Peer Feedback
@@ -201,6 +207,19 @@ Finishing Touches
 - After an hour, wipe off any excess finish.
 - Let the finish dry for a couple of days before using the chair.
 
+**Images**
+![](photos/chair/1.jpg)
+![](photos/chair/2.png)
+![](photos/chair/3.jpg)
+![](photos/chair/4.jpg)
+![](photos/chair/5.jpg)
+![](photos/chair/6.jpg)
+![](photos/chair/7.jpg)
+![](photos/chair/8.jpg)
+![](photos/chair/9.jpg)
+![](photos/chair/10.jpg)
+![](photos/chair/11.jpg)
+
 <a name="bookmark5"></a>
 # Bench Text and Image Directions
 ### Materials Required
@@ -232,6 +251,19 @@ Complete the leg assembly and seat assemblies
 Finishing Touches 
 - HIDE THE SCREWS WITH WOOD PLUGS Glue flat-top wood plugs into the plug recesses. Use a cutoff dowel or a small block of wood to pound them flush.
 - Finished the bench with Cabot Australian Timber Oil.
+
+**Images**
+![](photos/bench/1.png)
+![](photos/bench/2.png)
+![](photos/bench/3.png)
+![](photos/bench/4.png)
+![](photos/bench/5.png)
+![](photos/bench/6.png)
+![](photos/bench/7.png)
+![](photos/bench/8.png)
+![](photos/bench/9.png)
+![](photos/bench/10.png)
+![](photos/bench/11.png)
 
 <a name="bookmark6"></a>
 # Building Furniture Round 1 Peer Review
