@@ -11,35 +11,38 @@ Ver. 23 Aug 2020
 
 ![](photos/1.png)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
+_This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/)
 
 Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+_
 
-[Introduction 1](#bookmark0)
+# Navigation
 
-[Our Approach to Teamwork and Problem Solving 2](#bookmark1)
+[Introduction](#bookmark0)
 
-[Team Roles 3](#bookmark2)
+[Our Approach to Teamwork and Problem Solving](#bookmark1)
 
-[Team Role Definitions 3](#bookmark3)
+[Team Roles](#bookmark2)
 
-[Sharing Ideas 6](#bookmark4)
+[Team Role Definitions](#bookmark3)
 
-[Equitable Assignment of Work 8](#bookmark5)
+[Sharing Ideas](#bookmark4)
 
-[Developing a Communication Framework 8](#bookmark6)
+[Equitable Assignment of Work](#bookmark5)
 
-[Managing Conflict 8](#bookmark7)
+[Developing a Communication Framework](#bookmark6)
 
-[Team Charters 9](#bookmark8)
+[Managing Conflict](#bookmark7)
 
-[References 12](#bookmark9)
+[Team Charters](#bookmark8)
+
+[References](#bookmark9)
 
 # Introduction
 
 ![](photos/2.png)
 
-  *A team of design students poses with their prototype \[4\].*
+  *A team of design students poses with their prototype [^4].*
  
   Our primary teamwork goals for this class are for each of you to grow in your ability to equitably share team labor, provide self & peer assessment, and resolve team conflict. Our focus on growth will inherently require trial and error. Therefore, this class is an opportunity for you to discover, through direct experience, what behaviors, mindsets, and strategies lead to effective teamwork.
  
@@ -57,7 +60,7 @@ Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ![](photos/3.png)
 
-  *Design students present their project \[5\].*
+  *Design students present their project [^5].*
  
   In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in the video on the next page:
  
@@ -94,41 +97,21 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 ## Wellness Watcher
 
-  This person is responsible for initiating discussions about dividing work, and ensures that work is divided equitably. They also keep track of how everyone's doing throughout the week, taking note if someone isn't feeling well or if someone is particularly busy, such as with midterm examinations or family responsibilities. In taking note, this person also keeps track of whether a busy team member has too many
-
-![](photos/7.png)
-
-  jobs assigned to them during that week, and shifts responsibilities so that other, less busy team members can help out. Finally, this person works with the Idea Mediator to resolve any disputes that occur between team members.
+  This person is responsible for initiating discussions about dividing work, and ensures that work is divided equitably. They also keep track of how everyone's doing throughout the week, taking note if someone isn't feeling well or if someone is particularly busy, such as with midterm examinations or family responsibilities. In taking note, this person also keeps track of whether a busy team member has too many jobs assigned to them during that week, and shifts responsibilities so that other, less busy team members can help out. Finally, this person works with the Idea Mediator to resolve any disputes that occur between team members.
  
  Suggested Rotation Schedule Tool:
 
-+----------------------+---------------------+------------------------+-----------------------------+------------------------+
-|                      | > **Idea  statictor** | > **Timeline Watcher** | > **Cohesion Collaborator** | > **Wellness Watcher** |
-+----------------------+---------------------+------------------------+-----------------------------+------------------------+
-| > **Weeks 1, 2 and** |                     |                        |                             |                        |
-| >                    |                     |                        |                             |                        |
-| > **3**              |                     |                        |                             |                        |
-+----------------------+---------------------+------------------------+-----------------------------+------------------------+
-| > **Weeks 4, 5 and** |                     |                        |                             |                        |
-| >                    |                     |                        |                             |                        |
-| > **6**              |                     |                        |                             |                        |
-+----------------------+---------------------+------------------------+-----------------------------+------------------------+
-| > **Weeks 7 and 8**  |                     |                        |                             |                        |
-+----------------------+---------------------+------------------------+-----------------------------+------------------------+
-| > **Weeks 9, 10,**   |                     |                        |                             |                        |
-| >                    |                     |                        |                             |                        |
-| > **and 11**         |                     |                        |                             |                        |
-+----------------------+---------------------+------------------------+-----------------------------+------------------------+
+ ![](photos/7.png)
 
 # Sharing Ideas
 
 ![](photos/8.png)
 
-  *A team of design students meets to discuss their ideas \[2\].*
+  *A team of design students meets to discuss their ideas [^2].*
  
   In this course, you will have many opportunities to share ideas with your team members. It's important to understand that every idea brings you closer to the solution you're hoping to achieve. As former design student Pravika Joshi notes, "It's really important that you give everyone's voice equal value\... \[W\]hether you think an idea is way out there should be even a consideration at that point. You should be letting people freely talk and think of the craziest ideas and giving those ideas equal weight as well."
  
-  After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid: [[The Five Dysfunctions of a]](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/) [[Team]](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/) \[3\]. When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results \[7\]. In the video below, former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
+  After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid [^3]. When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results [^7]. In the video below, former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
  
   As you work with your team on developing ideas, you'll rely on the Idea Mediator for effective discussion. The person filling this role will help ensure that your team members listen to all ideas, which is important as you work to arrive at a final solution.
 
@@ -140,7 +123,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 ![](photos/9.png)
 
-  *A design team works on their prototype \[1\].*
+  *A design team works on their prototype [^1].*
  
   Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students Boss Paspanthong and Amanda Davis have to say about time management in making your decision:
 
@@ -180,7 +163,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
   To serve their purpose most effectively, team charters must be comprehensive and specific; as Matthieu and Rapp explain:
  
-  Teams with high-quality charters are more likely to have thoroughly outlined member roles and interaction processes early on, so members can better concentrate on taskwork without pausing to debate issues already addressed in the team charter and can thereby perform better. To the extent that the charter is comprehensive, it should lay the foundation for a wide variety of circumstances that the team may confront \[6, p. 92\].
+  Teams with high-quality charters are more likely to have thoroughly outlined member roles and interaction processes early on, so members can better concentrate on taskwork without pausing to debate issues already addressed in the team charter and can thereby perform better. To the extent that the charter is comprehensive, it should lay the foundation for a wide variety of circumstances that the team may confront (p. 92) [^6].
  
   Experience from design instructors is that successful teams use their team charter to hold each other accountable in six specific ways. Team members:
 
@@ -196,8 +179,6 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 -   Encourage each other to experiment, allowing everyone to learn from both success and failure.
 
--   
-
   Your team charter consists of three main sections:
 
 1.  **Mission:** This is identical to the mission statement in your project definition, as discussed in Chapter 3.
@@ -206,8 +187,11 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 3.  **Team Standards:** These specify the behaviors and performance expectations the team will follow in its day-to-day functioning.
 
-  The following team charter is neither comprehensive nor specific, so it is unlikely to help the team as the project proceeds and demands more of each member\'s time and effort: **Vague and Ineffective Team Charter**
- 
+  The following team charter is neither comprehensive nor specific, so it is unlikely to help the team as the project proceeds and demands more of each member\'s time and effort: 
+  
+# Vague and Ineffective Team Charter
+
+
   **Mission:** We will design a system that enables people in wheelchairs to transfer to and from the leg press machine at RIC quickly and comfortably.
  
   **Performance goal:** Our mission is to fulfill the requirements of our project as set forth in the client\'s description provided to us at the start.
@@ -262,27 +246,9 @@ While the mission statement is clear, the performance goal sets only a minimal s
  
   **For examples of two different but effective team charters, see Appendix K.**
 
-# References
-
-1.  DTC Fair Dec. 7. Photographed by McCormick School of Engineering, Northwestern University.
-
-2.  DTC Small Group Meeting. Photographed by McCormick School of Engineering, Northwestern University.
-
-3.  Lencioni, P. "The five dysfunctions of a team." *The Organizational Health People*: *The Table Group*. Accessed 8/22/20 from [[https://www.tablegroup.com/download/the-five-dysfunctions-model-and-]{.underline}](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/) [[summary/]{.underline}](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/)
-
-4.  Presentations (Photo 1). Photographed by McCormick School of Engineering, Northwestern University.
-
-5.  Presentations (Photo 9). Photographed by McCormick School of Engineering, Northwestern University.
-
-6.  J. Matthieu and T. Rapp. "Laying the foundation for successful team performance strategies: The roles of team charters and performance strategies." *Journal of Applied Psychology*, vol. 94.1, pp. 90-103, Jul. 2010, doi: 10.1037/a0013257.
-
-7.  J. Wang, G. H.-L. Cheng, T. Chen, and K. Leung. \"Team creativity/innovation in culturally diverse teams: A meta‐analysis.\" *Journal of Organizational Behavior,* vol. 40.6, pp. 693-708, Feb. 2019, doi: 10.1002/job.2362.
-
-  *\*All other photos are part of the public domain.*
-
 ### This article contains material taken from:
 
-  Substantial parts of the section "Team Charters" are taken from *Design Thinking and Communication: Principles and Practice* by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [[CC-BY-NC-SA 3.0 License]{.underline}](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+  Substantial parts of the section "Team Charters" are taken from *Design Thinking and Communication: Principles and Practice* by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 
 
@@ -291,9 +257,9 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
   This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
  
-  To view a copy of this license, visit [[http://creativecommons.org/licenses/by-nc/4.0/]{.underline}](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+  To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
  
-  BACKGROUND INFORMATION:
+  **BACKGROUND INFORMATION:**
  
   This activity is useful as an icebreaker and will work best in the first or second week of the quarter. It allows students to discuss their team behaviors in a neutral environment before any team interactions occur in DTC. The goal of this activity is for students to have an open, honest discussion on past teamwork experiences, and to self-reflect on their own teamwork tendencies. This self-disclosure will make discussions that may arise later in the quarter easier to initiate. This icebreaker will also fast-track the team's process in getting to know each other and help the team start to develop empathy for each other. It is important to note that while these behaviors are divided into two polarities to facilitate discussion, they probably operate on a continuum in reality.
  
@@ -377,9 +343,9 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
 (c) Consider the element your team member has suggested adding to your charter. Do you agree or disagree with this element? How would you like to see your team member's idea incorporated into your team charter?
 
-  **Scenarios**
+# Scenarios
 
-# Culture
+## Culture
 
   You are on a diverse team and you are noticing some interesting group dynamics. Jaival is constantly looking for ways to achieve consensus, work together, and make decisions based on what is best for the group, but is impatient when things do not come together. Another teammate, Jian, thrives on having the 'best idea', 'fastest response'. You suspect this person cares more about personal accolades than team health but has a lot of great ideas. Jian also does not care much for hierarchy, while Jaival is uncomfortable unless he understands team hierarchy. Jenny, a third team member, suspects that her teammates have different views of power and individualism, and is concerned about the health of the team, but she is not sure how to address her concerns with her team members.
 
@@ -388,7 +354,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 2.  How would you address this situation with each of your team members in a way that ensures the health of your team?
 
 
-**Deadlines**
+## Deadlines
 
   You have been working on a team for about three weeks and you are noticing that one of your teammates, Jaime, is becoming increasingly frustrated. Jaime has commented that they feel like the weight of the team is on their shoulders and they feel that they are doing more work than the rest of the team. From your perspective, Jaime does not leave much space for others to do work. For example, last week an assignment was due on Thursday at noon. Jaime worked ahead and sent a draft to the team on Tuesday evening, expecting the team to be finished by 5pm on Wednesday evening. You know that DeShawn, another teammate, likes to finalize assignments the night before they are due. DeShawn has high standards and wants to make sure the team uses all the time available to them.
 
@@ -397,7 +363,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 2.  What are all the possible factors that might be contributing to the different approach to deadlines for Jaime and DeShawn? Do you recognize yourself in this scenario? If so, how?
 
 
-# Organization
+## Organization
 
   A group has members that represent different organizational styles. Frankie is very organized and good at developing a team-based organizational structure, but doesn't seek input from teammates about this organizational structure and gets frustrated with others who aren't so organized; Antonio is action-oriented and keeps a list of things that need to be done, but has difficulty remembering to share these "to do" items with his teammates by placing them into the team's organizational structure; Emily comes up with great ideas and is good at motivating teammates, but develops and follows her own individualized organizational structure; and Wei is good at digging for answers and coming up with solutions, but doesn't really follow any organizational structure. As a result of these conflicting organizational structures, the team is having difficulty meeting and coming up with any ideas, and they have missed several deadlines.
 
@@ -409,7 +375,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
 
 
-**Dedication**
+## Dedication
 
   Your team is preparing for a design review (which is where you present your progress to a panel for feedback) and, as with most group meetings, Garima is late and might not even show up. You are worried that Garima does not understand the project and will not be able to answer questions during the design review. You are also frustrated because your team is essentially a three-person team at this point, and there is enough work for four people. Garima would reply early in the quarter and had agreed on the team meeting times. In fact, Garima was even the one to suggest using Slack and chose the meeting time but lately it seems like this project is not a priority for her. She will occasionally contribute, and has good ideas, when present...
 
@@ -420,7 +386,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 3.  What do you think might be going on with Gabe? As a member of this team, how would you approach Gabe?
 
 
-# POV
+## POV
 
   Maya is, once again, sitting with arms crossed rolling her eyes. Ever since the first brainstorming session she latched onto a solution and considered the decision made. She doesn\'t see the point considering other alternatives, because the original idea is 'perfect' because she's tried it before, and knows that it works. She thinks the team is wasting time by thinking outside the box and considering alternatives. She says she's busy this quarter and prefers to just run with the first idea the team came up with. John is concerned that Maya's idea of choice doesn't meet all the client's requirements and would like to consider other ideas. John is willing to take risks if it means meeting the client's requirements. There are a lot of tense conversations between the two and you worry that instead of moving forward, the team is now stuck in a "Maya vs. John" idea competition.
 
@@ -431,7 +397,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 3.  It's difficult to predict when this might happen on a team. Can you think of ways to create a team culture that minimizes the ability of one person to shut down and commit to a single idea too early in the process?
 
 
-# In the Quiet
+## In the Quiet
 
   In this team of four, team members have various approaches to sharing ideas. Richelle is outgoing and vocal, and eager to share each of her ideas. Gunnar is reflective and takes time to consider ideas before sharing them. Rabiah is nervous about her ideas, and hesitant to share them with others. Santiago is eager to share his ideas but is very quiet and has difficulty finding a time to share because other members of the group are more vocal.
 
@@ -441,9 +407,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
 3.  Have you ever been a part of a team where certain ideas were shared and others were kept quiet? How did you handle the situation?
 
-4.  
-
-# Roles
+## Roles
 
   A team has members with diverse high school backgrounds. Kory took AP courses and worked closely with his teachers to get personalized feedback on his writing. Katarina excelled at shop and worked in the school's maker space. Elijah went to a high school that didn't offer these opportunities, but he focused on many extracurricular activities.
  
@@ -456,7 +420,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 3.  In one scenario, the team assigns Katarina to complete the design elements and Kory to complete the writing elements, knowing that each student excels in these areas. In another scenario, the team assigns Kory to complete the design elements and Katarina to complete the writing elements. In each scenario, Katarina and Kory become disgruntled with their assignments, wanting to branch out and try different assignments. What actions might you have taken during week one to avoid this situation?
 
 
-# Power Play
+## Power Play
 
   Your team started off on such a positive note! In the first few weeks everyone was contributing. However, lately you've noticed a disturbing trend with one team member in particular. Marsha has started taking over other teammates' roles, and exerts more and more power each week. In every meeting she is the first to speak and she takes up most of the meeting time. The other day, she sent the agenda for the weekly meeting even though Basha is supposed to have that task this week. Last week, Marsha was supposed to be the time keeper, but she forgot. Your team had discussed, and agreed on, team roles during the initial team meeting but as the quarter becomes more and more stressful Marsha seems to be defaulting to a do-it-all approach and not letting other team members have an opportunity to contribute.
 
@@ -465,11 +429,8 @@ While the mission statement is clear, the performance goal sets only a minimal s
 2.  What additional steps, besides just deciding on roles, do you think the team might have taken at the beginning to ensure that everyone has a chance to participate and share their ideas?
 
 
-
-
   Written by Kiki Zissimopoulos, PhD & Michele Zugnoni, PhD\
   (Both authors contributed equally to this work)
- 
   Ver. 11 Sept. 2020
 
 ![]( static/image1.jpeg)
@@ -478,13 +439,14 @@ While the mission statement is clear, the performance goal sets only a minimal s
  
   **Overview**
  
-  These reflections were created for Design Thinking and Communication at Northwestern University. Each reflection has a suggested forum (i.e., quiz, discussion board), but they can be assigned on whichever forum the instructor feels best fits their course. These reflections are formed around Phil Daniel's stop-start-continue format (see e.g., DeLong, 2011).
+  These reflections were created for Design Thinking and Communication at Northwestern University. Each reflection has a suggested forum (i.e., quiz, discussion board), but they can be assigned on whichever forum the instructor feels best fits their course. These reflections are formed around Phil Daniel's stop-start-continue format [^8].
  
-  **Reflection Set One**
- 
-  **QUIZ:** Thinking back on the client interview and/or the initial team presentation, how did your team divide up tasks? Did this division foster equitable distribution of work? How or how not? What might you have done differently to ensure that each team member had an equitable role?
+# Reflection Set One
 
-# DISCUSSION BOARD (divided by groups):
+## Quiz
+Thinking back on the client interview and/or the initial team presentation, how did your team divide up tasks? Did this division foster equitable distribution of work? How or how not? What might you have done differently to ensure that each team member had an equitable role?
+
+## DISCUSSION BOARD (divided by groups):
 
   Step One. Now that you've had a chance to reflect on your team's distribution of roles, write and post a comment in which you discuss:
 
@@ -504,19 +466,21 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
 (c) What will your team continue doing?
 
-  **INDIVIDUAL REFLECTION**: Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of roles for the client interview
+## INDIVIDUAL REFLECTION: 
+Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of roles for the client interview
  
   and/or initial research presentation. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen?
  
   NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
  
-  **Reflection Set Two**
+# Reflection Set Two
  
-  **QUIZ:** What ideas have you personally thought of for your design? Have you been able to share your ideas with your teammates? Have your teammates shared their ideas?
+## QUIZ: 
+What ideas have you personally thought of for your design? Have you been able to share your ideas with your teammates? Have your teammates shared their ideas?
  
   Have each of your team members been receptive to ideas? How or how not?
 
-# DISCUSSION BOARD (divided by groups):
+## DISCUSSION BOARD (divided by groups):
 
   Step One. Now that you've had a chance to reflect on the environment of idea sharing within your team, write and post a comment in which you discuss:
 
@@ -538,13 +502,15 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
 
 
-  **INDIVIDUAL REFLECTION**: Over the last few days, you and your team have had a chance to reflect on and discuss the environment of idea sharing within your team. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
+## INDIVIDUAL REFLECTION: 
+Over the last few days, you and your team have had a chance to reflect on and discuss the environment of idea sharing within your team. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
  
-  **Reflection Set Three**
+# Reflection Set Three
  
-  **QUIZ:** How did your team distribute the work and the presentation? Do you think this approach accurately reflected the work that each individual contributed? Would you have done anything differently?
+## QUIZ: 
+How did your team distribute the work and the presentation? Do you think this approach accurately reflected the work that each individual contributed? Would you have done anything differently?
 
-# DISCUSSION BOARD (divided by teams):
+## DISCUSSION BOARD (divided by teams):
 
   Step One. Now that you've had the chance to reflect on your team's distribution of work, write and post a comment in which you discuss:
 
@@ -565,10 +531,27 @@ While the mission statement is clear, the performance goal sets only a minimal s
 (c) What will your team continuedoing? 
 
 
-  **INDIVIDUAL REFLECTION**: Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of work. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well?
+## INDIVIDUAL REFLECTION: 
+Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of work. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well?
  
   \(b\) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
 
-# Sources
+# References
 
-  DeLong, T.J. (2011, Aug 4). Three questions for effective feedback. *Harvard Business Review*. https://hbr.org/2011/08/three-questions-for-effective-feedback
+[^1]:  DTC Fair Dec. 7. Photographed by McCormick School of Engineering, Northwestern University.
+
+[^2]:  DTC Small Group Meeting. Photographed by McCormick School of Engineering, Northwestern University.
+
+[^3]:  Lencioni, P. "The five dysfunctions of a team." *The Organizational Health People*: *The Table Group*. Accessed 8/22/20 from [[https://www.tablegroup.com/download/the-five-dysfunctions-model-and-]{.underline}](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/) [[summary/]{.underline}](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/)
+
+[^4]:  Presentations (Photo 1). Photographed by McCormick School of Engineering, Northwestern University.
+
+[^5]:  Presentations (Photo 9). Photographed by McCormick School of Engineering, Northwestern University.
+
+[^6]:  J. Matthieu and T. Rapp. "Laying the foundation for successful team performance strategies: The roles of team charters and performance strategies." *Journal of Applied Psychology*, vol. 94.1, pp. 90-103, Jul. 2010, doi: 10.1037/a0013257.
+
+[^7]:  J. Wang, G. H.-L. Cheng, T. Chen, and K. Leung. \"Team creativity/innovation in culturally diverse teams: A meta‐analysis.\" *Journal of Organizational Behavior,* vol. 40.6, pp. 693-708, Feb. 2019, doi: 10.1002/job.2362.
+  
+[^8]:  DeLong, T.J. (2011, Aug 4). Three questions for effective feedback. *Harvard Business Review*. https://hbr.org/2011/08/three-questions-for-effective-feedback
+
+    *\*All other photos are part of the public domain.*
