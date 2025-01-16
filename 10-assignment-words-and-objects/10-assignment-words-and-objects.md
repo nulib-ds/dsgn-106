@@ -60,7 +60,7 @@ As a team, put the images in order and label them figure 1, figure 2, etc. Then,
 
 Share your final version with another team. Note any differences between the choices each team made.  
 ### Images:
-![](photos/cake/1.png) ![](photos/cake/2.png) ![](photos/cake/3.png) ![](photos/cake/4.png) ![](photos/cake/5.png) ![](photos/cake/6.png) ![](photos/cake/7.png) ![](photos/cake/8.png) ![](photos/cake/9.png)
+![](photos/cake/1.jpg) ![](photos/cake/2.jpg) ![](photos/cake/3.jpg) ![](photos/cake/4.jpg) ![](photos/cake/5.jpg) ![](photos/cake/6.jpg) ![](photos/cake/7.jpg) ![](photos/cake/8.jpg) ![](photos/cake/9.jpg)
 
 <a name="bookmark0"></a>
 # Cake Time! Peer Feedback
