@@ -60,7 +60,7 @@ As a team, put the images in order and label them figure 1, figure 2, etc. Then,
 
 Share your final version with another team. Note any differences between the choices each team made.  
 ### Images:
-![](photos/cake/1.jpg) ![](photos/cake/2.jpg) ![](photos/cake/3.jpg) ![](photos/cake/4.jpg) ![](photos/cake/5.jpg) ![](photos/cake/6.jpg) ![](photos/cake/7.jpg) ![](photos/cake/8.jpg) ![](photos/cake/9.jpg)
+![](photos/cake/1.jpg) ![](photos/cake/2.jpg) ![](photos/cake/3.jpg) ![](photos/cake/4.jpg) ![](photos/cake/5.jpg) ![](photos/cake/6.jpg) ![](photos/cake/7.jpg) ![](photos/cake/8.jpg) ![](photos/cake/9.jpg) [^1]
 
 <a name="bookmark0"></a>
 # Cake Time! Peer Feedback
@@ -103,7 +103,7 @@ ________Are the figures and text interspersed (not all the images are at the bot
 - Turn the fly right side up and drape it over the tent with a brim rod over each door. Wrap and secure the Velcro straps around the poles to keep the fly in place. Insert each end of a brim rod into the corresponding grommet on the tent. Set the hoods to the same height. If the fly has shifted, adjust the Velcro straps on the frame. Fasten the side release buckles at all of the corners and tension until wrinkles are gone. 8. Stake out the tent through the corner rings. Stake opposite corners while applying tension to square the tent and remove wrinkles from the floor. Stake out the fly through the rings on the side of the fly. Stake down the side pull outs to provide maximum floor space.
 
 **Images**
-![](photos/tent1/1.jpg)![](photos/tent1/2.jpg)![](photos/tent1/3.jpg)![](photos/tent1/4.jpg)![](photos/tent1/5.jpg)
+![](photos/tent1/1.jpg)![](photos/tent1/2.jpg)![](photos/tent1/3.jpg)![](photos/tent1/4.jpg)![](photos/tent1/5.jpg) [^2]
 
 <a name="bookmark2"></a>
 # Tent 2 Text and Image Directions
@@ -134,7 +134,7 @@ Attach Rainfly
 - Attach and stake out guylines.
 
 **Images**
-![](photos/tent2/1.jpg)![](photos/tent2/2.jpg)![](photos/tent2/3.jpg)![](photos/tent2/4.jpg)![](photos/tent2/5.jpg)![](photos/tent2/6.jpg)![](photos/tent2/7.jpg)![](photos/tent2/8.jpg)
+![](photos/tent2/1.jpg)![](photos/tent2/2.jpg)![](photos/tent2/3.jpg)![](photos/tent2/4.jpg)![](photos/tent2/5.jpg)![](photos/tent2/6.jpg)![](photos/tent2/7.jpg)![](photos/tent2/8.jpg) [^3]
 
 <a name="bookmark3"></a>
 # Pitching a Tent Peer Feedback
@@ -218,7 +218,7 @@ Finishing Touches
 ![](photos/chair/8.jpg)
 ![](photos/chair/9.jpg)
 ![](photos/chair/10.jpg)
-![](photos/chair/11.jpg)
+![](photos/chair/11.jpg) [^4]
 
 <a name="bookmark5"></a>
 # Bench Text and Image Directions
@@ -263,7 +263,7 @@ Finishing Touches
 ![](photos/bench/8.png)
 ![](photos/bench/9.png)
 ![](photos/bench/10.png)
-![](photos/bench/11.png)
+![](photos/bench/11.png) [^4]
 
 <a name="bookmark6"></a>
 # Building Furniture Round 1 Peer Review
@@ -307,4 +307,10 @@ ________Are the figures and text interspersed (not all the images are at the bot
 
 3. Share your finding with the team that authored these directions.  
 
-4. What has this experience taught you about writing directions?  
+4. What has this experience taught you about writing directions?
+
+# References
+[^1]: Linuxmom, ["How to Make Cake"](https://www.instructables.com/How-to-make-cake-2/) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0)  
+[^2]: Coleman, Inc, [“Tent Setup Instructions, Model 2000004559”](https://images-eu.ssl-images-amazon.com/images/I/A1IqnG4BI%2BS.pdf)  is included with permission.  
+[^3]: Eureka! [“Assembly Instruction for the Titan Tent”](https://www.eurekacamping.com/sites/eurekacamping_site/files/Archive/TITAN09IM.pdf) is included on the basis of fair use.   
+[^4]: Family Handyman [“How to Build a Garden Bench”](https://www.familyhandyman.com/project/how-to-build-a-garden-bench/) and [“How to Build a Patio Chair”](https://www.familyhandyman.com/project/how-to-build-a-patio-chair/) are included on the basis of fair use.
