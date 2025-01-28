@@ -31,15 +31,11 @@ To help you decide, consider places where digital solutions excel. For example, 
 
 -   The ability to use geolocation to provide directions or information based on location
 
-> One helpful hint is to consider whether or not a screen connected to the internet is an essential component of your design. This is a helpful rule of thumb in many but **not all** cases (e.g.
->
-> Amazon Echo, Google Home all use voice commands without a screen).
+> One helpful hint is to consider whether or not a screen connected to the internet is an essential component of your design. This is a helpful rule of thumb in many but **not all** cases (e.g. Amazon Echo, Google Home all use voice commands without a screen).
 
 # Types of wireframes (digital mock-ups)
 
 If you answered yes to the considerations above, the next step is deciding how to get started with your design explorations. Digital mockups are often referred to as **wireframes**, and their fidelity (level of polish) evolves as you advance in the design process.
-
-![](_static/chapter11/Mockup_Fidelity.jpg)
 
 Typically, you will start out with low-fidelity wireframes which can be as simple as hand-drawn sketches. As you gather insights from users your designs will get more advanced -- ultimately incorporating visual aspects like color and imagery.
 
@@ -51,7 +47,7 @@ While you ideate and explore alternative solutions, you may need to decide if yo
 
 > The tools below are free and robust enough to support all levels of fidelity (low/mid/high). Many also offer the ability to link wireframe screens together to simulate an app or website flow without writing a single line of code - often called a clickable prototype.
 
-## Figma \[[[www.figma.com]](http://www.figma.com/)\]
+## Figma [www.figma.com](http://www.figma.com/)
 
 -   Preferred tool for many professional designers due to the easy-to-use features
 
@@ -61,7 +57,7 @@ While you ideate and explore alternative solutions, you may need to decide if yo
 
 -   Free to set up an account and get started right away (more advanced features are available on their Tier1 plan, which is [free to students](https://www.figma.com/education/) with a valid NU email address)
 
-## Miro \[[[www.miro.com]](http://www.miro.com/)\]
+## Miro [www.miro.com](http://www.miro.com/)
 
 -   Quick way to create wireframes using pre-built templates
 
@@ -71,7 +67,7 @@ While you ideate and explore alternative solutions, you may need to decide if yo
 
 -   Free to set up an account and get started right away (instructors also have free access -- speak with them if you would like to use MIRO)
 
-## InVision \[[[www.invision.com]](http://www.invision.com/)\]
+## InVision [www.invision.com](http://www.invision.com/)
 
 -   Easy option for creating a prototype using static images
 
