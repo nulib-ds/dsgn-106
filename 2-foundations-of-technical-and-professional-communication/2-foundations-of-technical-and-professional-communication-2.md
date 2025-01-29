@@ -1,28 +1,25 @@
 # Foundations of Technical and Professional Communication
 
-Chapter 2
-
+_Chapter 2
 Prepared by Laura Maria Pigozzi, PhD 
-
-Ver. 1 Aug 2020
+Ver. 1 Aug 2020_
 
 ## What is technical and professional communication?
 
 ![](photos/1.png)
 
-*<center>This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of
-this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</center>*
+*This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of
+this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.*
 
 <br>
 
-> In science, the credit goes to the \[person\] that convinces the
-world, not to whom the idea first occurs [^1] \~ Francis Darwin (son
-of Charles Darwin)
+**In science, the credit goes to the person that convinces the
+world, not to whom the idea first occurs [^1]** 
+*Francis Darwin (son of Charles Darwin)*
 
 As Francis Darwin points out, no matter how spectacular your ideas and designs are, if you can't communicate them effectively to a wide variety of audiences, they will not be recognized.
 
-Effective communication is the vehicle to get your work documented,
-legitimized, recognized, utilized.
+Effective communication is the vehicle to get your work documented, legitimized, recognized, utilized.
 
 When you hear the term *technical communication*, what comes to mind? Perhaps you think of scientific reports, specifications, instructions, software documentation, proposals, or technical manuals. Perhaps you think of writing done by engineers to document a design project. Yes, all of this. However, technical communication is more than that. Technical communication includes writing produced in day-to-day business operations such as emails, memos, meeting minutes, and a variety of reports. These day-to-day communications can be described as *business communication* or *professional communication.* And because oral and visual presentations are such an important part of professional life, technical communication also encompasses these as well. Websites and blogs are technical communication and increasingly, social media has also been included.
 
@@ -40,7 +37,7 @@ Thus, TPC is a highly designed form of communication that requires authors to ha
 
 ![1era reunión del grupo de trabajo de Educación by G20 Argentina is licensed under CC BY 2.0](photos/2.png)
 <br>
-*<center>"1era reunión del grupo de trabajo de Educación" is licensed under CC BY 2.0</center>*
+*"1era reunión del grupo de trabajo de Educación" is licensed under CC BY 2.0*
 
 
 Good communication skills, particularly in writing, are essential if you are going to succeed in the workplace. The working world depends on written communication because within today's organizations, almost every action is documented in writing.
@@ -64,8 +61,6 @@ The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owm
 ## What is TPC's foundation?
 
 ![](photos/3.png)
-<center></center>
-
 
 *[\"Head of Aristotle. Vienna, Museum of Art History, Collection of Classical Antiquities.\"](https://www.flickr.com/photos/36551225%40N05/3403519465) by [Sergey Sosnovskiy](https://www.flickr.com/photos/36551225%40N05) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)*
 
@@ -120,7 +115,7 @@ This chapter contains material taken from
 
 ![](photos/4.png)
 
-*<center><u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a></center>*
+*<u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a>*
 
 ## Characteristics
 
@@ -148,7 +143,7 @@ Technical and Professional Communication (TPC) is often taught using a **genre**
 
 TPC genres include (a) use of headings to organize information into coherent sections, (b) use of lists to present informationoncisely, (c) use of figures and tables to present data and information visually, and (d) use of visual design to enhance readability. Table 2.1 provides a summary of conventions of TPCs.
 
-TABLE 2.1 Conventions of Technical Writing
+**TABLE 2.1 Conventions of Technical Writing**
 
 <table>
 <colgroup>
@@ -306,7 +301,7 @@ Some key questions (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.pu
 
 The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis) is effective to conduct an audience analysis:
 
-Table 3.1
+**Table 3.1**
 
 <table>
   <tr>
@@ -317,27 +312,27 @@ Table 3.1
   </tr>
   <tr>
     <td>Gatekeeper</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>            </td>
+    <td>            </td>
+    <td>            </td>
   </tr>
   <tr>
     <td>Primary</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>            </td>
+    <td>            </td>
+    <td>            </td>
   </tr>
   <tr>
     <td>Secondary</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>            </td>
+    <td>            </td>
+    <td>            </td>
   </tr>
   <tr>
     <td>Shadow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>            </td>
+    <td>            </td>
+    <td>            </td>
   </tr>
 </table>
 
@@ -354,22 +349,15 @@ There are several possible audience complications that you may encounter when cr
 Choose one of the topics below. Then perform an audience analysis using Table 3.1. Write a profile of your intended reader and consider what information they need and why.
 
 1.  You have been asked to write a report on Maintaining Internet Privacy for
-
     a.  A new internet user who just signed up for internet service
-
     b.  A start-up ecommerce website developer
-
 2.  Prepare a document on Food-born Diseases for
-
     a.  Restaurant workers (servers and kitchen staff)
-
     b.  For a health inspector training course
 
 > This chapter contains material taken from
-
--   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
-
--   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
+> -   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
+> -   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
 ## Writing Process
 
@@ -393,11 +381,15 @@ Step 1: Planning
 
 -   Create task list (RAM Chart)
 
--   Create timeline (Gant Chart) Step 2: Organizing and drafting
+-   Create timeline (Gant Chart)
+
+Step 2: Organizing and drafting
 
 -   Chose the genre (e.g. report, memo, appendix)
 
--   Write first draft Step 3: Improving style
+-   Write first draft
+
+Step 3: Improving style
 
 -   Choose a style guide (for engineering courses it might be [IEEE style guide](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/style_references_manual.pdf))
 
@@ -487,7 +479,7 @@ The supporting documentation for the design process, as well as correspondence w
 
 [^9]: W. Zinsser, W. *On writing well*, New York, NY, USA: HarperCollins Publishers, 2006, p. 5.
 
-[^10] M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission
+[^10]: M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission
 
 [^1]: E. Knowles (ed) \"Francis Darwin.\" in *Oxford Dictionary of Modern Quotations*., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
 [^2]: S. Pinker, "The source of bad writing," *The Wall Street Journal*, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
