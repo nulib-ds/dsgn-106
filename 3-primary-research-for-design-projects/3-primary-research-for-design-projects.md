@@ -1,10 +1,10 @@
 # Primary Research for Design Projects
 
-Prepared by Stacy Benjamin, Kaara Kallen, and Michele Zugnoni
+_Prepared by Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_
 
-(All authors contributed equally to this work.)
+_(All authors contributed equally to this work.)_
 
-Ver. 23 Aug 2020
+_Ver. 23 Aug 2020_
 
 *This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/] or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.*
 
@@ -161,7 +161,7 @@ The following links offer resources for understanding and addressing gender bias
 
 ![Image of two people. One is holding a camera as the other looks on](photos/2.png)
 
-> Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Clarify the research question(s) 
 
@@ -323,31 +323,31 @@ How do you choose between conducting a survey or an interview? It depends on wha
 
 One of the greatest challenges in conducting surveys and interviews is writing good questions. As a researcher, you are always trying to eliminate bias, and the questions you ask need to be unbiased and clear. Here are some suggestions on writing good questions:
 
-*Ask about one thing at a time*
+**Ask about one thing at a time**
 
 A poorly written question can contain multiple questions, which can confuse participants or lead them to answer only part of the question you are asking. This is called a "double-barreled question" in journal- ism. See how the following poor question was revised to be more effective:
 
-*Poor question:* What kinds of problems are being faced in the field today and where do you see the search for solutions to these problems going?
+**Poor question:** What kinds of problems are being faced in the field today and where do you see the search for solutions to these problems going?
 
-*Revised question #1:* What kinds of problems are being faced in the field today?
+**Revised question #1:** What kinds of problems are being faced in the field today?
 
-*Revised question #2:* Where do you see the search for solutions to these problems going?
+**Revised question #2:** Where do you see the search for solutions to these problems going?
 
-*Avoid leading questions*
+**Avoid leading questions**
 
 A leading question is one where you prompt the participant to respond in a particular way, which can create bias in the answers given:
 
-*Leading question:* The economy is clearly in a crisis, wouldn't you agree?
+**Leading question:** The economy is clearly in a crisis, wouldn't you agree?
 
-*Revised question:* Do you believe the economy is currently in a crisis? Why or why not?
+**Revised question:** Do you believe the economy is currently in a crisis? Why or why not?
 
 When asking questions in person or through virtual meeting software, be aware of your body language and facial expressions. Maintaining a sort of visible neutrality will help you avoid a type of response bias, where respondents adjust what they say based on perceived approval or disapproval from the interviewer or others.
 
-*Understand when to use open and closed questions*
+**Understand when to use open and closed questions**
 
 Closed questions, or questions that have yes/no or other limited responses, should be used in surveys. However, avoid these kinds of questions in interviews because they discourage the interviewee from going into depth. The question sample above, "Do you believe the economy currently is in a crisis?" could be answered with a simple yes or no, which could keep a participant from talking more about the issue. The "why or why not?" portion of the question asks the participant to elaborate. On a survey, the question "Do you believe the economy currently is in a crisis?" is a useful question because you can easily count the number of yes and no answers and make a general claim about participant responses.
 
-*Write clear questions*
+**Write clear questions**
 
 When you write questions, make sure they are clear, concise, and to the point. Questions that are too long, use unfamiliar vocabulary, or are unclear may confuse participants and you will not get quality responses. Consider your word choice carefully. Use precise words and review your questions carefully to ensure they can't be misinterpreted in some way. This is especially important with written questions, where you can't clarify or correct your question on the spot.
 
@@ -373,7 +373,7 @@ Also, try to avoid phrasing your questions in a leading way. For example, rather
 
 ## Surveys 
 
-Other than the fact that they both involve asking people questions, interviews and surveys are quite different data collection methods. Creating a survey may seem easy at first, but developing a quality sur- vey can be quite challenging. When conducting a survey, you need to focus on the following areas: survey creation, survey testing, survey sampling, and distributing your survey.
+Other than the fact that they both involve asking people questions, interviews and surveys are quite different data collection methods. Creating a survey may seem easy at first, but developing a quality survey can be quite challenging. When conducting a survey, you need to focus on the following areas: survey creation, survey testing, survey sampling, and distributing your survey.
 
 #### Survey creation: length and types of questions 
 
@@ -535,6 +535,7 @@ Table 3.2 Observation notes on user trying to write
   </tbody>
 </table>
 
+> 
 In this example, the researcher realizes that there's more they need to know about carpal tunnel syndrome -- not only the mechanics of the syndrome, but its psychological and lifestyle implications. As such, they choose to conduct a contextual inquiry where they have the user demonstrate their grip with writing implements of various sizes and ask the user questions about the effects carpal tunnel has had on their everyday life.
 
 #### This section contains material taken from: 
