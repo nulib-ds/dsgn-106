@@ -49,11 +49,11 @@ If you were part of a design team working to improve access to healthy foods for
 
 ## B.  **Research and Iteration**
 
-> Articles and stories about design thinking often focus on the iterative nature of design, and the importance of connecting to end users. For example, both the IDEO video and the Chapter 7 reading discuss iteration as part of making prototypes and getting feedback from users, but iteration is used for other design activities, too, such as design research.
+Articles and stories about design thinking often focus on the iterative nature of design, and the importance of connecting to end users. For example, both the IDEO video and the Chapter 7 reading discuss iteration as part of making prototypes and getting feedback from users, but iteration is used for other design activities, too, such as design research.
 >
-> Research is important at the beginning of the project, when you are trying to learn more about the challenge to be addressed and the user needs. It is just as important later in the project as you explore potential solutions. The process of prototyping and getting feedback typically leads to new questions. While some of these questions can be addressed with another round of prototyping, some require conducting additional secondary research, or primary research with people other than the end users.
+Research is important at the beginning of the project, when you are trying to learn more about the challenge to be addressed and the user needs. It is just as important later in the project as you explore potential solutions. The process of prototyping and getting feedback typically leads to new questions. While some of these questions can be addressed with another round of prototyping, some require conducting additional secondary research, or primary research with people other than the end users.
 >
-> Imagine that you are part of the team mentioned in Chapter 7 that is designing a way to encourage kids to be more physically active, and you generated some solution ideas for new afterschool programs, for programs that connect new friends through adventure activities, and for gamified apps that pose ongoing exercise challenges. While you would clearly connect with kids, teachers and parents, what secondary research should you conduct?
+Imagine that you are part of the team mentioned in Chapter 7 that is designing a way to encourage kids to be more physically active, and you generated some solution ideas for new afterschool programs, for programs that connect new friends through adventure activities, and for gamified apps that pose ongoing exercise challenges. While you would clearly connect with kids, teachers and parents, what secondary research should you conduct?
 
 -   List at least three different secondary research topics you could explore
 
@@ -61,9 +61,7 @@ If you were part of a design team working to improve access to healthy foods for
 
 ## C.  **Assumptions and Scope Change**
 
-Both the Chapter 7 reading and the article, *How an Improved Food Service Creates a*
-
-*Better Life Quality for Elderly People*, describe the need to change the scope of the project. This is common in design. Most design projects start with a problem statement that is founded on a number of assumptions. As the design team learns more about the challenge through primary and secondary research, they often discover that the underlying issues do not match those initial assumptions, leading to a need to adjust the problem statement or scope.
+Both the Chapter 7 reading and the article, *How an Improved Food Service Creates a Better Life Quality for Elderly People*, describe the need to change the scope of the project. This is common in design. Most design projects start with a problem statement that is founded on a number of assumptions. As the design team learns more about the challenge through primary and secondary research, they often discover that the underlying issues do not match those initial assumptions, leading to a need to adjust the problem statement or scope.
 
 Re-read the portion of the Chapter 7 that discusses the design brief (three paragraphs, beginning with "In any design process, the design brief is key.") and the beginning of the article about the food service project, up through and including the inset box, "Design Challenge: Changing Scope."
 
