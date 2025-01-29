@@ -35,6 +35,8 @@ These three solution-sets undergo some initial building & feedback, until they m
 
 In parallel to the initial round of development that culminated with a user testing session, the team generates and explores new ideas that arise from feedback from users, additional secondary research, and refined project requirements such as appearance and interaction preferences. New ideas go through the same iterative process of evaluate, build, and test to develop Mockups 5 and 6. The team conducted another round of testing with users. The user feedback is combined with guidance from prototyping specialists, instructors/supervisors, and project stakeholders to inform the team on a prototype that represents their design concept. For a real-life example of this process in action for a DTC team, watch the [video describing the development of a one-handed glove donner](https://youtu.be/ZJJdJ1hQywM) [^1].
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJJdJ1hQywM?si=td4ueruzw3PHCJTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This chapter concerns itself with the early portion of the design process highlighted by the dotted box: the selection of solutions sets, generation of questions, early building and revision in preparation for a first user test with three potential solutions for simultaneous and efficient testing by the user.
 
 ## Acknowledging & Celebrating Mismatch between Solution and Problem
