@@ -1,7 +1,9 @@
 # Foundations of Technical and Professional Communication
 
 _Chapter 2
+
 Prepared by Laura Maria Pigozzi, PhD 
+
 Ver. 1 Aug 2020_
 
 ## What is technical and professional communication?
