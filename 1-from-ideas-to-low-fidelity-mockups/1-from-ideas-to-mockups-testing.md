@@ -1,6 +1,6 @@
 # From Ideas to Low-Fidelity Mock-ups and Testing
 
-Emma Tevaarwerk DeCosta and J. Alex Birdwell Ver. 03 September 2020
+_Emma Tevaarwerk DeCosta and J. Alex Birdwell Ver. 03 September 2020_
 
 Many students enter the engineering field because they enjoy math and science and want to solve real world problems. In addition, years of primary school shape first-year college students to be very good at studying for and taking written tests. This schooling often creates a mind well-honed at convergent thinking, a process in which the student determines and shares "the one correct answer" as quickly as possible.
 
@@ -71,7 +71,7 @@ Your team will have dozens or even hundreds of ideas at the conclusion of your i
 
 ## Step 2: Sorting Ideas into Complementary Solution-Sets & Refining Your Exploratory Questions
 
-Sorting Ideas into Complementary Solutions Sets
+### Sorting Ideas into Complementary Solutions Sets
 
 As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](#bookmark3)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
 
@@ -153,6 +153,7 @@ Remember, the goal with your questions is to get answers about broad capabilitie
   </tr>
 </table>
 
+> 
 - Reframe any question that can be answered in just a few words (e.g. 'yes', 'no', 'I like it'), into something that invites more specifics as to why the reworks are necessary.
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -174,6 +175,7 @@ Remember, the goal with your questions is to get answers about broad capabilitie
   </tr>
 </table>
 
+> 
 - During interviews, or during testing when trying to elicit information, phrase questions to be open-ended in order to get an explanation or start a discussion, but then follow your instinct and refine as you begin to understand the user's experiences. Ask them about specific experiences with model and competitive products, and ask for details on exact steps taken, problems experienced, time, cost, and reproducibility. These discussions can then be transformed into storyboards that illustrate the user's current experience and, eventually, the new experience with the new solution.
 
 - Ask users to walk you through the process of using existing solutions step by step. Ask how long specific actions take, how successful they are, and how much experience or expertise they have.
@@ -253,7 +255,7 @@ Wireframes provide information on the structure, layout, architecture of informa
 
 ![*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. [^9]*]( photos/13.png)
 
-*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. \[9\]*
+*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. [^9]*
 
 High-fidelity mock-ups of your final app, the team might end up using [proto.io](https://proto.io/); however, in the early stages of app development, simple hand drawn wireframes suffice. A great free workspace for creating apps on your phone without having to do any coding is the [MIT App Inventor](https://appinventor.mit.edu/). PowerPoint mock-ups with animation can be used to mimic actual features and test for user feedback without needing to do any coding.
 
@@ -279,7 +281,7 @@ Completing a mockup plan can be very helpful in guiding your team in determining
 
 *Figure 13 Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1 [^10]*
 
-Strategies for Success in Building Early Low-Fidelity Mock-ups
+## Strategies for Success in Building Early Low-Fidelity Mock-ups
 
 - Use model and competitive products to learn as much as possible and to save yourself from having to reinvent the wheel. Attribute aspects that you use in your final design to a company, individual, or patent but still build upon the existing knowledge.
 
@@ -295,7 +297,7 @@ Strategies for Success in Building Early Low-Fidelity Mock-ups
 
 - If you set aside time for one "big" build the day before you have to test with the user, you will inevitably become stuck on an unanticipated aspect of the process, and will not have the time to get necessary feedback from others and move ahead.
 
-Proxy-User Testing and Feedback
+### Proxy-User Testing and Feedback
 
 It is important to effectively and carefully use any time that you have with the user to learn the specifics of the user's interactions with your mock-ups, and not aspects that you could have tested yourself. Please watch the following video describing the development of a one-handed glove donner carefully, and mentally note aspects that could be easily proxy tested, along with other aspects that need to be tested with the user herself. In this, you should keep in mind that if it is difficult for you to do without the limitations associated with the disability, it will likely be difficult for the user with the disability. In the table below, questions and tasks that can be proxy tested are noted, along with those that must be tested with the user themselves.
 
@@ -318,9 +320,10 @@ It is important to effectively and carefully use any time that you have with the
   </tr>
 </table>
 
-Design teams are often worried that proxy-user testing has reduced validity because the results are biased. Several useful strategies for reducing
+> 
+Design teams are often worried that proxy-user testing has reduced validity because the results are biased. Several useful strategies for reducing.
 
-Strategies for Success in Removing Bias during testing & Feedback
+### Strategies for Success in Removing Bias during testing & Feedback
 
 - Getting to evaluators really answer why, why, why, several layers down helps to clarify what they like and disliked about designs
 
