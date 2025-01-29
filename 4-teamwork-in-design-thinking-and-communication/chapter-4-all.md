@@ -1,11 +1,11 @@
   # Teamwork in Design Thinking and Communication
-  Composed by Kiki Zissimopoulos and Michele N. Zugnoni
+  _Composed by Kiki Zissimopoulos and Michele N. Zugnoni_
   
-  (Both authors contributed equally to this work.)
+  _(Both authors contributed equally to this work.)_
 
 *With special thanks to Lisa Del Torto for conducting interviews*
 
-Ver. 23 Aug 2020
+_Ver. 23 Aug 2020_
 
 ![](photos/1.png)
 
