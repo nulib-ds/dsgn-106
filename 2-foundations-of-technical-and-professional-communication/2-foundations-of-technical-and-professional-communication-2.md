@@ -18,7 +18,7 @@ this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://crea
 **In science, the credit goes to the person that convinces the
 world, not to whom the idea first occurs [^1]** 
 
-*Francis Darwin (son of Charles Darwin)*
+— *Francis Darwin (son of Charles Darwin)*
 
 As Francis Darwin points out, no matter how spectacular your ideas and designs are, if you can't communicate them effectively to a wide variety of audiences, they will not be recognized.
 
