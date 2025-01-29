@@ -167,9 +167,7 @@ TPC genres include (a) use of headings to organize information into coherent sec
 <p>Purpose</p>
 </td>
 <td>
-<p>To communicate technical and specialized information in a clear,
-accessible, usable manner to people who need to use it to make</p>
-<p>decisions, perform processes, or support company goals.</p>
+<p>To communicate technical and specialized information in a clear, accessible, usable manner to people who need to use it to make decisions, perform processes, or support company goals.</p>
 </td>
 </tr>
 <tr>
@@ -177,10 +175,7 @@ accessible, usable manner to people who need to use it to make</p>
 <p>Audience</p>
 </td>
 <td>
-<p>Varied, but can include fellow employees such as subordinates,
-colleagues, managers, and executives, as well as clients and other
-stakeholders, the general public, and even readers within the legal
-system.</p>
+<p>Varied, but can include fellow employees such as subordinates, colleagues, managers, and executives, as well as clients and other stakeholders, the general public, and even readers within the legal system.</p>
 </td>
 </tr>
 <tr>
@@ -188,10 +183,7 @@ system.</p>
 <p>Writing Style</p>
 </td>
 <td>
-<p>Concise, clear, plain, and direct language; may include specialized
-terminology (with definitions as needed); typically uses short
-sentences</p>
-<p>and paragraphs; uses active voice; makes purpose immediately
+<p>Concise, clear, plain, and direct language; may include specialized terminology (with definitions as needed); typically uses short sentences and paragraphs; uses active voice; makes purpose immediately
 clear.</p>
 </td>
 </tr>
@@ -200,10 +192,7 @@ clear.</p>
 <p>Tone</p>
 </td>
 <td>
-<p>Business/professional in tone, which falls between formal and
-informal; may use first person or second person if appropriate;
-courteous and</p>
-<p>constructive.</p>
+<p>Business/professional in tone, which falls between formal and informal; may use first person or second person if appropriate; courteous and constructive.</p>
 </td>
 </tr>
 <tr>
@@ -211,9 +200,7 @@ courteous and</p>
 <p>Structure</p>
 </td>
 <td style="text-align: left;">
-<p>Highly structured; short paragraphs; clear transitions and structural
-cues (headings and sub-headings) to move the reader through and direct
-the reader.</p>
+<p>Highly structured; short paragraphs; clear transitions and structural cues (headings and sub-headings) to move the reader through and direct the reader.</p>
 </td>
 </tr>
 <tr>
@@ -221,11 +208,7 @@ the reader.</p>
 <p>Format/Formatting</p>
 </td>
 <td>
-<p>Can be in electronic, visual, or printed formats; may be long
-(reports) or short (emails, letters, memos); often uses style guides to
-describe</p>
-<p>required formatting features; uses headings, lists, figures and
-tables.</p>
+<p>Can be in electronic, visual, or printed formats; may be long (reports) or short (emails, letters, memos); often uses style guides to describe required formatting features; uses headings, lists, figures and tables.</p>
 </td>
 </tr>
 <tr>
@@ -233,8 +216,7 @@ tables.</p>
 <p>Other Features</p>
 </td>
 <td>
-<p>Ideas are evidence and data-driven; descriptors are precise and
-quantitative whenever possible.</p>
+<p>Ideas are evidence and data-driven; descriptors are precise and quantitative whenever possible.</p>
 </td>
 </tr>
 </tbody>
