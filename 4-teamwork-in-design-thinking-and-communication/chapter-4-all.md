@@ -63,13 +63,13 @@ Ver. 23 Aug 2020
 
   *Design students present their project [^5].*
  
-  In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in the video on the next page:
+  In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in [this video.](https://youtu.be/drax57Wd_xE)
 
   <a name="bookmark2"></a>
  
   **Team Roles**
  
-  Depending on your instructors' directions, your team may rotate through various roles, as described below, so that each person has an opportunity to guide team development while also expanding their skill set. Each of these roles asks you to facilitate behaviors which foster effective teams. Each team member will hold every role for two or three weeks during the quarter. It is important that your team respects the boundaries of each role. If you are strong at a role that you are not currently assigned to, resist the temptation to take over for the team member who is assigned to this role. This is their opportunity to learn and your opportunity to model effective team behavior as you support them. By rotating roles and respecting the boundary of each role, you're enabling your team to leverage each member's strengths, as discussed by former design student, Joe Burke.
+  Depending on your instructors' directions, your team may rotate through various roles, as described below, so that each person has an opportunity to guide team development while also expanding their skill set. Each of these roles asks you to facilitate behaviors which foster effective teams. Each team member will hold every role for two or three weeks during the quarter. It is important that your team respects the boundaries of each role. If you are strong at a role that you are not currently assigned to, resist the temptation to take over for the team member who is assigned to this role. This is their opportunity to learn and your opportunity to model effective team behavior as you support them. By rotating roles and respecting the boundary of each role, you're enabling your team to leverage each member's strengths, as discussed by former design student, [Joe Burke](https://youtu.be/JbnRTV0IK4Y).
 
   <a name="bookmark3"></a>
 
@@ -118,7 +118,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
  
   In this course, you will have many opportunities to share ideas with your team members. It's important to understand that every idea brings you closer to the solution you're hoping to achieve. As former design student Pravika Joshi notes, "It's really important that you give everyone's voice equal value\... \[W\]hether you think an idea is way out there should be even a consideration at that point. You should be letting people freely talk and think of the craziest ideas and giving those ideas equal weight as well."
  
-  After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid [^3]. When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results [^7]. In the video below, former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
+  After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid [^3]. When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results [^7]. In the [video below](https://youtu.be/HVRJhZMJNKs), former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
  
   As you work with your team on developing ideas, you'll rely on the Idea Mediator for effective discussion. The person filling this role will help ensure that your team members listen to all ideas, which is important as you work to arrive at a final solution.
 
@@ -134,8 +134,8 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
   *A design team works on their prototype [^1].*
  
-  Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students Boss Paspanthong and Amanda Davis have to say about time management in making your decision:
-
+  Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students [Boss Paspanthong and Amanda Davis](https://youtu.be/9fEY_UflzZU) have to say about time management in making your decision.
+  
   <a name="bookmark6"></a>
 
 # Developing a Communication Framework
@@ -486,7 +486,7 @@ Over the last few days, you and your team have had a chance to reflect on and di
  
   and/or initial research presentation. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen?
  
-  NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
+  NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on [teamwork](#bookmark1). Your response will only be visible to you and your instructors.
  
 # Reflection Set Two
  

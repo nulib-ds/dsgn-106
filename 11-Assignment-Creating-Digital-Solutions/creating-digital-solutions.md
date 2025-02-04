@@ -1,9 +1,7 @@
 # Assignment Creating Digital Solutions
 # Overview
 
-> Watch the overview video for how to develop a digital product catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
->
-> \[embed video: \"Overview\" NU Video_FINAL\]
+> Watch the [overview](https://youtu.be/5_FW4lHfUgU) video for how to develop a digital product catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 >
 > *Continue below to view longer tutorial videos.*
 
@@ -109,19 +107,13 @@ While you ideate and explore alternative solutions, you may need to decide if yo
 
 # Using wireframe tools
 
-Watch the tutorial video for how to build a wireframe using Figma catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
-
-> \[embed video: \"Figma Wireframe\" NU Video_FINAL\]
+Watch the [tutorial video](https://youtu.be/lqXY2QjtxBg) for how to build a wireframe using Figma catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
 # Enhancing wireframes to clickable prototypes
 
-Watch the tutorial video for how to enhance a wireframe to be a clickable prototype using Figma, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
+Watch the [tutorial video](https://youtu.be/79CjQTFdckI) for how to enhance a wireframe to be a clickable prototype using Figma, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
-> \[embed video: \"Figma Prototype\" NU Video_FINAL\]
-
-Watch the tutorial video for how to build a wireframe using InVision, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
-
-> \[embed video: \"InVision Prototype\" NU Video_FINAL\]
+Watch the [tutorial video](https://youtu.be/B3cjAu3TvCk) for how to build a wireframe using InVision, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
 ![](_static/image1.jpeg)
 

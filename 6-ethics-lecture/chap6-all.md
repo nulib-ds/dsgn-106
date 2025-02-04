@@ -1,5 +1,5 @@
 # Ethics Lecture
-# Learning Objectives
+## Learning Objectives
 
 1.  Define *ethics* and *morality*
 
@@ -15,13 +15,13 @@
 
 7.  Practice applying ethics to DTC project
 
-# Ethics: Lecture 1
+## Ethics: Lecture 1
 
-I.  10 minutes. *What is ethics?* Warmup question posed to students via Slido; they respond using phone/laptop and we project survey responses on screen.
+I.  10 minutes. **What is ethics?** Warmup question posed to students via Slido; they respond using phone/laptop and we project survey responses on screen.
 
-II. 10 minutes. Brief Lecture: PowerPoint on Ethics
+II. 10 minutes. **Brief Lecture:** PowerPoint on Ethics
 
-III. 15 minutes. 3 Case Studies: Divide auditorium into 3 sections (groups of 4 within sections) and assign each section 1 of the following cases:
+III. 15 minutes. **3 Case Studies:** Divide auditorium into 3 sections (groups of 4 within sections) and assign each section 1 of the following cases:
 
 -   "Unintended Effects"
 
@@ -33,15 +33,14 @@ III. 15 minutes. 3 Case Studies: Divide auditorium into 3 sections (groups of 4 
 
 IV. 15 minutes. **Group Discussion** - Volunteers with mics take question from several groups.
 
-# Ethics: Lecture 2
+## Ethics: Lecture 2
 
 I.  5 minutes. **Ask:** "What kinds of issues come to mind when you hear 'ethics' and design?" Project student responses to screen and respond. (Use Slido.)
 
 II. 5 minutes. **Individual Reflection:** Brainstorm on paper answers to the following:
 
-> -What did you learn from Lecture 1 (Ethics) that you didn't already know?
->
-> -What are 1-3 immediate thoughts you have when asked how 'ethics' is involved (or should be involved) in your design process?
+> - What did you learn from Lecture 1 (Ethics) that you didn't already know?
+> - What are 1-3 immediate thoughts you have when asked how 'ethics' is involved (or should be involved) in your design process?
 
 III. 5 minutes. **Mini Lecture:** Review central points from Lecture 1
 
@@ -57,23 +56,21 @@ V.  10 minutes. **Groups of 4:** Discuss what you came up with in pairs.  Ask q
 
 VI. 15 minutes. **Group Discussion:** Come together to discuss as a large group (instructor with a mic will take questions from volunteer groups.)
 
-# Ethics: Assessment Quiz for Canvas
+## Ethics: Assessment Quiz for Canvas
 
-1)  Though the terms are often used interchangeably, we stated distinct definitions for "Ethics" and "Morals"; give those definitions hea
+1)  Though the terms are often used interchangeably, we stated distinct definitions for "Ethics" and "Morals"; give those definitions here.
 
 2)  Identify the ethical problem in each case study. Describe it in a one-sentence problem statement.
 
 3)  In no more than a paragraph, outline one potential solution responding to an ethical problem in your DTC project.
 
-> ![](_static/chapter1/1.png)
->
 > This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/>
 >
 > or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 
 
-# Case Studies
+## Case Studies
 
 Authors: Dr. Laura Pigozzi and Clara Mitchell
 
@@ -87,9 +84,9 @@ These cases are suitable as homework and/or for classroom discussion. The goal o
 
 Cases range from the mundane to the deadly. While we do not reveal how each particular case turned out, in general they turned out well -- the people involved made the right decisions. But this is not to say that all of these right decisions came without personal cost. A few of the engineers did face negative repercussions and a very few even needed to find new employment. However, overall the interviewees were satisfied with how events turned out, even if they faced negative repercussions for their good decisions. They understood that doing the right thing is good in itself, regardless of the personal consequences they may have faced.
 
-## Case 1
+### Case 1
 
-##### **Unintended Effects**
+**Unintended Effects**
 
 Jack has been working as a project engineer for a mechanical energy technology firm for a few years now, and has recently been promoted to review projects for in-need communities overseas. He has been put in charge of managing the current company's charity projects, and determining how to distribute the funding for them.
 
@@ -97,15 +94,13 @@ Some of the projects are pretty straightforward in their mission and material re
 
 Jack understands their local sponsor would gain a great advantage in featuring solar panels in the community. It would also foster a good business partnership between the two companies. However, Jack feels it is his responsibility to provide the community with a more simple and efficient solution to their problem, without diving into a large project that could possibly lead to negative side effects. Is Jack's company wrong to provide technology to the community when they don't need it?
 
-Nabilah Deen was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.
+*Nabilah Deen was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.*
+> 
+*Aug 26, 2015*
 
-August 2015
+### Case 2
 
-###### **Aug 26, 2015**
-
-## Case 2
-
-##### **Time-Sharing Space**
+**Time-Sharing Space**
 
 Ramona is an intern at an up-and-coming power electronics startup. On her first day of work, she was shown around a laboratory where she would complete most of her projects. During this time, she was also introduced to nine male interns who would be sharing the same lab space. Since the lab could only accommodate five interns at a time, a vote was held to determine who would work in the lab during the day (e.g. 8am to 4pm) and who would work at night (e.g. 4pm to 12am) during certain days of the week. The morning shift was a popular option for a majority of the interns; Ramona was fortunate to be selected for four (out of five) morning shifts.
 
@@ -117,15 +112,13 @@ During the following weeks, Ramona tried to avoid the intern who made the inappr
 
 How should Ramona respond?
 
-Jocelyn Tan was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.
+*Jocelyn Tan was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.*
+> 
+*Aug 26, 2015*
 
-August 2015
+### Case 3
 
-###### **Aug 26, 2015**
-
-## Case 3
-
-##  **A Marshland's Fleeting Flourishing?**
+**A Marshland's Fleeting Flourishing?**
 
 Solomon is a principal engineer at an environmental engineering consulting firm. His main role is to advise clients on what type of action to take when they are faced with risks and liabilities while conducting certain projects.
 
@@ -135,11 +128,9 @@ The client came up with a solution that satisfied, but did not go beyond the bar
 
 Should Solomon push for a more fiscally demanding, yet sustainable strategy\--at the risk of his client backing out of the partnership altogether?
 
-Jocelyn Tan was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.
-
-August 2015
-
-###### **Aug 26, 2015**
+*Jocelyn Tan was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University.*
+> 
+*Aug 26, 2015*
 
 > ![](_static/chapter1/1.png)
 >
