@@ -27,6 +27,23 @@ jobs:
         run: |
           jupyter-book build .
 
+      - name: Check content size and links
+        run: |
+          echo "Total size of build directory:"
+          du -sh _build/html
+          
+          echo "Checking for symlinks:"
+          find _build/html -type l
+          
+          echo "Checking for hard links:"
+          find _build/html -type f -links +1
+          
+      - name: Upload artifact (with checks)
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: _build/html
+          if-no-files-found: error
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
