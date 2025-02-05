@@ -23,12 +23,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: cache executed notebooks
-        uses: actions/cache@v3
-        with:
-          path: _build/.jupyter_cache
-          key: jupyter-book-cache-${{ runner.os }}-${{ hashFiles('requirements.txt') }}-${{ hashFiles('**/*.ipynb') }}
-
       - name: Build the book
         run: |
           jupyter-book build .
@@ -38,6 +32,9 @@ jobs:
         with:
           name: github-pages
           path: _build/html
+          if-no-files-found: error  # Fail if no files are found
+          retention-days: 1         # Only keep for 1 day since we're deploying right away
+          compression-level: 9      # Maximum compression to reduce size
 
       - name: Deploy to GitHub Pages
         id: deployment
