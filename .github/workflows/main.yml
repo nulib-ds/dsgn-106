@@ -44,18 +44,7 @@ jobs:
           name: github-pages
           path: _build/html
           if-no-files-found: error
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: _build/html
-          if-no-files-found: error  # Fail if no files are found
-          retention-days: 1         # Only keep for 1 day since we're deploying right away
-          compression-level: 9      # Maximum compression to reduce size
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          name: book-html
-          path: _build/html
