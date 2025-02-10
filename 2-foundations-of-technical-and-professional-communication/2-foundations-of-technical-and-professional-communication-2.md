@@ -10,9 +10,6 @@ Ver. 1 Aug 2020
 
 ![](photos/1.png)
 
-*<center>This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of
-this license, visit http://creativecommons.org/licenses/by-nc/4.0/]](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</center>*
-
 <br>
 
 > In science, the credit goes to the \[person\] that convinces the
@@ -40,8 +37,6 @@ Thus, TPC is a highly designed form of communication that requires authors to ha
 
 ![1era reunión del grupo de trabajo de Educación by G20 Argentina is licensed under CC BY 2.0](photos/2.png)
 <br>
-*<center>"1era reunión del grupo de trabajo de Educación" is licensed under CC BY 2.0</center>*
-
 
 Good communication skills, particularly in writing, are essential if you are going to succeed in the workplace. The working world depends on written communication because within today's organizations, almost every action is documented in writing.
 
@@ -65,9 +60,6 @@ The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owm
 
 ![](photos/3.png)
 <center></center>
-
-
-*[\"Head of Aristotle. Vienna, Museum of Art History, Collection of Classical Antiquities.\"](https://www.flickr.com/photos/36551225%40N05/3403519465) by [Sergey Sosnovskiy](https://www.flickr.com/photos/36551225%40N05) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)*
 
 Technical and professional communication is grounded in **Rhetoric,** the ancient art and science of persuasion. Unfortunately, in the 21st century, rhetoric tends to be positioned as something separate from everyday communication. However, all human activities are rhetorical, whether or not we are conscious of it.
 
@@ -119,8 +111,6 @@ This chapter contains material taken from
 ## Characteristics and Conventions of Technical and Professional Communication
 
 ![](photos/4.png)
-
-*<center><u>Shuffle</u> by <u>brevity isn't funny</u> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC</a></center>*
 
 ## Characteristics
 
@@ -272,8 +262,6 @@ This chapter contains material taken from:
 
 ![](photos/4.png)
 
-[Visitors from Montenegro](https://www.flickr.com/photos/35538707%40N00/5852223146) by [DavidDin](https://www.flickr.com/photos/35538707%40N00) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
-
 The audience for a technical document---or any written document---is the intended or potential reader or readers. For most technical writers, this is the most important consideration in planning, writing, and reviewing a document. The writing should be adapted to meet the reader's needs, interests, and background. Lack of audience analysis and adaptation is one of main causes of problems in technical and professional documents.
 
 One of the first things to do when you analyze an audience is to identify the *type* of audience (or types---it's rarely just one type). Common audience categories for product design are:
@@ -375,7 +363,7 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
 ![](photos/6.png)
 
-*Figure 4.1 Writing Process Diagram [^10]*
+*Figure 4.1. Writing Process Diagram. [^10]*
 
 Just as we use design processes to creatively solve complex problems, we use writing processes to create complex documents. In both cases, there are steps or stages, but we don't always proceed directly from one step to next in a linear manner. These processes are often iterative, meaning we might return to previous stages in the process from time to time. The more complex the task, the more iteration might be needed. Think about the design process as explained in the introductory video by IDEO and the Writing Process as depicted in Figure 4.1. What similarities and differences can you see in these two processes?
 
@@ -441,7 +429,7 @@ This chapter contains material taken from
 
 ![Figure 7](photos/7.jpg)
 
-*Figure 5.1, Diagram of Design Thinking for Social Justice Process*
+*Figure 5.1. Diagram of Design Thinking for Social Justice Process.*
 
 *Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^11].
 
