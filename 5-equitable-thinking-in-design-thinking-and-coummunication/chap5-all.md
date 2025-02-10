@@ -76,7 +76,3 @@ Now consider your own project.
 -   Identify two primary and two secondary research activities that you could do to confirm or change these assumptions.
 
 > ![](_static/chapter1/1.png)
->
-> This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/>
->
-> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
