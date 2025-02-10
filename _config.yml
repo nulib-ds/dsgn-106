@@ -19,6 +19,8 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+copyright: "© Copyright 2025. CC-BY-NC."
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/executablebooks/jupyter-book  # Online location of your book
