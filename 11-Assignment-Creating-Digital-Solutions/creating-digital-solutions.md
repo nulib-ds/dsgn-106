@@ -116,5 +116,3 @@ Watch the [tutorial video](https://youtu.be/79CjQTFdckI) for how to enhance a wi
 Watch the [tutorial video](https://youtu.be/B3cjAu3TvCk) for how to build a wireframe using InVision, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
 ![](_static/image1.jpeg)
-
-> This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
