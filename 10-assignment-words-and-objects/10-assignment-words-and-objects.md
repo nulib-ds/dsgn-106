@@ -49,9 +49,6 @@ For fun:
 
 [https://www.designboom.com/design/ikea-furniture-forts-05-14-2020/](https://www.designboom.com/design/ikea-furniture-forts-05-14-2020/)
 
-> This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
-> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. 
-
 <a name="cake"></a>
 # Cake Time Directions:
 The images that follow tell part of the story of making cupcakes, but there are important steps missing and the images are not in order. (The measurements and oven temperature are also missing, but do not worry about that for this exercise.)  
