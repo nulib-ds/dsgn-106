@@ -9,10 +9,6 @@ Ver. 23 Aug 2020
 
 ![](photos/1.png)
 
-*This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)*
-
-*Or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.*
-
 # Navigation
 
 [Introduction](#bookmark0)
@@ -268,12 +264,7 @@ While the mission statement is clear, the performance goal sets only a minimal s
 
 
 ## Prepared by Kiki Zissimopoulos, PhD Ver. 29 Aug 2020
-
-
-  This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
- 
-  To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
- 
+  
   **BACKGROUND INFORMATION:**
  
   This activity is useful as an icebreaker and will work best in the first or second week of the quarter. It allows students to discuss their team behaviors in a neutral environment before any team interactions occur in DTC. The goal of this activity is for students to have an open, honest discussion on past teamwork experiences, and to self-reflect on their own teamwork tendencies. This self-disclosure will make discussions that may arise later in the quarter easier to initiate. This icebreaker will also fast-track the team's process in getting to know each other and help the team start to develop empathy for each other. It is important to note that while these behaviors are divided into two polarities to facilitate discussion, they probably operate on a continuum in reality.
@@ -338,9 +329,6 @@ While the mission statement is clear, the performance goal sets only a minimal s
   (Both authors contributed equally to this work)
  
   Ver. 11 Sept. 2020
-
-
-  This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/  or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
  
   **Directions**
  
@@ -449,8 +437,6 @@ While the mission statement is clear, the performance goal sets only a minimal s
   Ver. 11 Sept. 2020
 
 ![]( static/image1.jpeg)
-
-  This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/  or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
  
   **Overview**
  
