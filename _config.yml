@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Design Thinking and Communication
-author: The Jupyter Book Community
+author: Northwestern Faculty
 logo: libraries.png
 
 # Force re-execution of notebooks on each build.
@@ -19,11 +19,11 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
-copyright: "© Copyright 2025. CC-BY-NC."
+copyright: "2025. CC-BY-NC."
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
+  url: https://github.com/nulib-ds/dsgn-106  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
