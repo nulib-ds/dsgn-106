@@ -40,7 +40,3 @@ As a team, share your [\"The Story of the Design Part 1\"](https://canvas.northw
 Once you have finished doing this, you need to write the next part\--the part where the cliffhanger of the background/intro of \"in a world\" pick up. You have us rooting for a solution, and we understand the stakes, so you now have to deliver! Please write the **Design Concept and Rationale** section here. Note that the first paragraph or two should give a thick description (measurements, movements, etc.) of the design, and there should be lots of images. The next part (which is the rationale) is to explain how you have addressed **each requirement** in your project definition. Remember not to make this boring\--you need to sell us on how brilliant this solution is!
 
 > ![](_static/chapter1/1.png)
->
-> This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc/4.0/>
->
-> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
