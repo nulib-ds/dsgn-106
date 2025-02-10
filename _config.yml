@@ -19,7 +19,7 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
-copyright: "2025. CC-BY-NC."
+copyright: "2025. CC-BY-NC"
 
 # Information about where the book exists on the web
 repository:
