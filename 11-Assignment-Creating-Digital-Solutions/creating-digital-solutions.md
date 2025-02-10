@@ -2,8 +2,8 @@
 # Overview
 
 > Watch the [overview](https://youtu.be/5_FW4lHfUgU) video for how to develop a digital product catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
-> <div><iframe width="560" height="315" src="https://www.youtube.com/embed/5_FW4lHfUgU?si=617zkGdGm9FU5w7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-> *Continue below to view longer tutorial videos.*
+> <div><iframe width="560" height="315" src="https://www.youtube.com/embed/5_FW4lHfUgU?si=617zkGdGm9FU5w7D" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+> <i>Continue below to view longer tutorial videos.</i>
 
 # Where to start
 
