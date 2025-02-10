@@ -1,4 +1,4 @@
-# Welcome to DSGN 106!
+# Design Thinking and Communication
 
 Welcome to Northwestern University's Design Thinking and Communication OER website! Design Thinking and Communication (DTC) is a two-course sequence required of all first-year engineering students at Northwestern University. Housed across two schools: Weinberg College of Arts and Sciences and McCormick School of Engineering, the course employs 45+ faculty to partner-teach 70+ sections per year with 1,000+ student enrollments. Each section is taught by a design instructor and a communication instructor.
 
