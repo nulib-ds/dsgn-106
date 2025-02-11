@@ -1,3 +1,5 @@
+# Words and Images: An Imperative Match
+
 **Overview**: This set of exercises asks students to create text directions from a series of pictures and create pictures for a series of text directions. The iterations begin simply and advances through the assignments.  
 
 **Purpose**: These exercises are meant to help students understand how images and text need to work in concert in technical writing. They should help habituate students to putting directions in order in a logical way, labeling and referring to images, writing as a team, and doing peer review. 
