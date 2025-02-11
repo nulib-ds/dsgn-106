@@ -56,6 +56,8 @@ The engineering co-op coordinator added that engineers who are more advanced in 
 
 The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
 
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvAiE7owmeI?si=csEcNNjbtIvpitCV" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 ## What is TPC's foundation?
 
 ![](photos/3.png)
