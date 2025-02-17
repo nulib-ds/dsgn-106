@@ -1,11 +1,7 @@
-  # Teamwork in Design Thinking and Communication
-  Composed by Kiki Zissimopoulos and Michele N. Zugnoni
-  
-  (Both authors contributed equally to this work.)
+# Teamwork in Design Thinking and Communication
+_Kiki Zissimopoulos and Michele N. Zugnoni_
 
 *With special thanks to Lisa Del Torto for conducting interviews*
-
-Ver. 23 Aug 2020
 
 ![](photos/1.png)
 
@@ -61,11 +57,15 @@ Ver. 23 Aug 2020
  
   In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in [this video.](https://youtu.be/drax57Wd_xE)
 
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/drax57Wd_xE?si=rdCJBJWe6Us-yS4x" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
   <a name="bookmark2"></a>
  
   **Team Roles**
  
   Depending on your instructors' directions, your team may rotate through various roles, as described below, so that each person has an opportunity to guide team development while also expanding their skill set. Each of these roles asks you to facilitate behaviors which foster effective teams. Each team member will hold every role for two or three weeks during the quarter. It is important that your team respects the boundaries of each role. If you are strong at a role that you are not currently assigned to, resist the temptation to take over for the team member who is assigned to this role. This is their opportunity to learn and your opportunity to model effective team behavior as you support them. By rotating roles and respecting the boundary of each role, you're enabling your team to leverage each member's strengths, as discussed by former design student, [Joe Burke](https://youtu.be/JbnRTV0IK4Y).
+
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JbnRTV0IK4Y?si=HQTxZ_2LbWhudOqx" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
   <a name="bookmark3"></a>
 
@@ -131,6 +131,8 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
   *A design team works on their prototype [^1].*
  
   Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students [Boss Paspanthong and Amanda Davis](https://youtu.be/9fEY_UflzZU) have to say about time management in making your decision.
+
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9fEY_UflzZU?si=3Px4Rzhc5K3EDhI-" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   
   <a name="bookmark6"></a>
 
@@ -538,6 +540,8 @@ Over the last few days, you and your team have had a chance to reflect on and di
   \(b\) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
 
   <a name="bookmark9"></a>
+
+> Ver. 23 Aug 2020
 
 # References
 
