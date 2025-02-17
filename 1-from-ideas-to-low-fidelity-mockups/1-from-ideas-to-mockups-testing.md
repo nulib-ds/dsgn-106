@@ -420,6 +420,8 @@ There are multiple ways to represent your ideas and you can often disassemble th
   </tr>
 </table>
 
+> Ver. 03 September 2020
+
 ## References
 
 [^1]: Team-1_Section-12, The One-Handed Glove Donner, Evanston: DTC, 2017 Fall.
@@ -449,5 +451,3 @@ There are multiple ways to represent your ideas and you can often disassemble th
 [^11]: D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020].
 
 [^12]: J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].
-
-> Ver. 03 September 2020
