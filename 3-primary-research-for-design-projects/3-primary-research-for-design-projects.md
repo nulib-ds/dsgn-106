@@ -1,16 +1,12 @@
 # Primary Research for Design Projects
 
-Prepared by Stacy Benjamin, Kaara Kallen, and Michele Zugnoni
-
-(All authors contributed equally to this work.)
-
-Ver. 23 Aug 2020
+_Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_
 
 # What is primary research?
 
 ![Image of two people at a table speaking to each other.](photos/1.png)
 
-Photo by [Christina @ wocintechchat.com](https://unsplash.com/%40wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photo by [Christina @ wocintechchat.com](https://unsplash.com/%40wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Introduction 
 
@@ -151,15 +147,15 @@ The following links offer resources for understanding and addressing gender bias
 
 -   A discussion on how the dynamics women experience in the course of their lives tend to be overlooked in policy and design decisions: [Design Thinking in Business and Workplace Gender](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html) [Bias](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html)
 
-#### This section contains material taken from: 
+> This section contains material taken from: 
 
--   The first two paragraphs of the Introduction section, and the section "Ethics of primary research," were taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   The first two paragraphs of the Introduction section, and the section "Ethics of primary research," were taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a CC-BY-NC-SA 3.0 License.
 
 ## What are the goals of primary research and how do you reach those goals?
 
 ![Image of two people. One is holding a camera as the other looks on](photos/2.png)
 
-> Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Clarify the research question(s) 
 
@@ -227,7 +223,7 @@ In other cases, you might realize that new information contradicts information y
 
 The bottom line is that as you and your team conduct research, you'll uncover important facts pertinent to your project. Keep an open mind as you uncover these facts, and use your research to bolster your knowledge to ensure the design works well with the user's needs.
 
-#### This section contains material taken from: 
+> This section contains material taken from: 
 
 -   Parts of the section "Developing research questions or hypotheses" were taken from [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License].(https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
@@ -235,7 +231,7 @@ The bottom line is that as you and your team conduct research, you'll uncover im
 
 ![](photos/3.png)
 
-Photo by [UX Indonesia](https://unsplash.com/%40uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photo by [UX Indonesia](https://unsplash.com/%40uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Observing 
 
@@ -397,7 +393,7 @@ Or perhaps you want to survey engineering undergrads. You could post notices aro
 
 See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing surveys.
 
-#### This section contains material taken from: 
+> This section contains material taken from: 
 
 -   Parts of the section "Writing questions for virtual surveys" and the first four paragraphs of the Surveys section are taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll , and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
@@ -407,7 +403,7 @@ See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing s
 
 ![](photos/4.png)
 
-Photo by [Felipe Furtado](https://unsplash.com/%40furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photo by [Felipe Furtado](https://unsplash.com/%40furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 As you engage in observation, you'll want to ensure that you focus on the details and the facts. According to Driscoll (2011):
 
@@ -434,37 +430,37 @@ Let's consider each of these columns in detail.
 <table border="1" cellpadding="10">
   <thead>
     <tr>
-      <th>Details of observation</th>
-      <th>Knowledge making</th>
-      <th>Knowledge re-making</th>
-      <th>Internal biases</th>
-      <th>Things to consider</th>
+      <th style="border: 1px solid black; padding: 8px;">Details of observation</th>
+      <th style="border: 1px solid black; padding: 8px;">Knowledge making</th>
+      <th style="border: 1px solid black; padding: 8px;">Knowledge re-making</th>
+      <th style="border: 1px solid black; padding: 8px;">Internal biases</th>
+      <th style="border: 1px solid black; padding: 8px;">Things to consider</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>User’s hand shakes when they hold a pencil.</td>
-      <td>User seems to have difficulty holding a pencil.</td>
-      <td>Maybe the pencil is too small for user’s large hand.</td>
-      <td>My hand is small, so maybe I’m misjudging how big user’s hand is.</td>
-      <td>
+      <td style="border: 1px solid black; padding: 8px;">User’s hand shakes when they hold a pencil.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems to have difficulty holding a pencil.</td>
+      <td style="border: 1px solid black; padding: 8px;">Maybe the pencil is too small for user’s large hand.</td>
+      <td style="border: 1px solid black; padding: 8px;">My hand is small, so maybe I’m misjudging how big user’s hand is.</td>
+      <td style="border: 1px solid black; padding: 8px;">
         I’m really not sure whether user always has trouble holding pencils, or maybe if it’s just this pencil.
         I also understand that I can be judgmental because I have such good penmanship.
       </td>
     </tr>
     <tr>
-      <td>User corrects their grip by pushing the pencil further into their grip.</td>
-      <td>User seems to be working hard to hold the pencil in their grip.</td>
-      <td>Maybe user needs to relearn how to hold a pencil.</td>
-      <td>I have really good penmanship, so I don’t understand when others can’t hold pencils right.</td>
-      <td>
+      <td style="border: 1px solid black; padding: 8px;">User corrects their grip by pushing the pencil further into their grip.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems to be working hard to hold the pencil in their grip.</td>
+      <td style="border: 1px solid black; padding: 8px;">Maybe user needs to relearn how to hold a pencil.</td>
+      <td style="border: 1px solid black; padding: 8px;">I have really good penmanship, so I don’t understand when others can’t hold pencils right.</td>
+      <td style="border: 1px solid black; padding: 8px;">
         To bolster my knowledge, I’ll conduct an interview with user and have user demonstrate with pencils of varying sizes.
       </td>
     </tr>
     <tr>
-      <td>User’s writing is wobbly.</td>
-      <td>User seems unable to write legibly.</td>
-      <td>Maybe
+      <td style="border: 1px solid black; padding: 8px;">User’s writing is wobbly.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems unable to write legibly.</td>
+      <td style="border: 1px solid black; padding: 8px;">Maybe
       </td>
     </tr>
   </tbody>
@@ -487,46 +483,46 @@ Table 3.2 Observation notes on user trying to write
 <table style="border=1px">
   <thead>
     <tr>
-      <th>Details of observation</th>
-      <th>Knowledge making</th>
-      <th>Knowledge re-making</th>
-      <th>Internal biases</th>
-      <th>Things to consider</th>
+      <th style="border: 1px solid black; padding: 8px;">Details of observation</th>
+      <th style="border: 1px solid black; padding: 8px;">Knowledge making</th>
+      <th style="border: 1px solid black; padding: 8px;">Knowledge re-making</th>
+      <th style="border: 1px solid black; padding: 8px;">Internal biases</th>
+      <th style="border: 1px solid black; padding: 8px;">Things to consider</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>User’s hand shakes when they hold a pencil.</td>
-      <td>User seems to have difficulty holding a pencil.</td>
-      <td>Maybe the pencil is too small for user’s large hand.</td>
-      <td>My hand is small, so maybe I’m misjudging how big user’s hand is.</td>
-      <td>
+      <td style="border: 1px solid black; padding: 8px;">User’s hand shakes when they hold a pencil.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems to have difficulty holding a pencil.</td>
+      <td style="border: 1px solid black; padding: 8px;">Maybe the pencil is too small for user’s large hand.</td>
+      <td style="border: 1px solid black; padding: 8px;">My hand is small, so maybe I’m misjudging how big user’s hand is.</td>
+      <td style="border: 1px solid black; padding: 8px;">
         I’m really not sure whether user always has trouble holding pencils, or maybe if it’s just this pencil.
         I also understand that I can be judgmental because I have such good penmanship.
       </td>
     </tr>
     <tr>
-      <td>User corrects their grip by pushing the pencil further into their grip.</td>
-      <td>User seems to be working hard to hold the pencil in their grip.</td>
-      <td>Maybe user needs to relearn how to hold a pencil.</td>
-      <td>I have really good penmanship, so I don’t understand when others can’t hold pencils right.</td>
-      <td>
+      <td style="border: 1px solid black; padding: 8px;">User corrects their grip by pushing the pencil further into their grip.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems to be working hard to hold the pencil in their grip.</td>
+      <td style="border: 1px solid black; padding: 8px;">Maybe user needs to relearn how to hold a pencil.</td>
+      <td style="border: 1px solid black; padding: 8px;">I have really good penmanship, so I don’t understand when others can’t hold pencils right.</td>
+      <td style="border: 1px solid black; padding: 8px;">
         To bolster my knowledge, I’ll conduct an interview with user and have user demonstrate with pencils of varying sizes.
       </td>
     </tr>
     <tr>
-      <td>User’s writing is wobbly.</td>
-      <td>User seems unable to write legibly.</td>
-      <td>Maybe user’s handwriting is always illegible, even without carpal tunnel.</td>
-      <td>See above</td>
-      <td></td>
+      <td style="border: 1px solid black; padding: 8px;">User’s writing is wobbly.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems unable to write legibly.</td>
+      <td style="border: 1px solid black; padding: 8px;">Maybe user’s handwriting is always illegible, even without carpal tunnel.</td>
+      <td style="border: 1px solid black; padding: 8px;">See above</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
     </tr>
     <tr>
-      <td>User sighs and tosses pencil onto the table without finishing their letter.</td>
-      <td>User seems frustrated and gives up.</td>
-      <td>User is impatient and gave up too easily.</td>
-      <td>I don’t really understand what it’s like to have carpal tunnel, so I’m judging user.</td>
-      <td style="width: 30%">
+      <td style="border: 1px solid black; padding: 8px;">User sighs and tosses pencil onto the table without finishing their letter.</td>
+      <td style="border: 1px solid black; padding: 8px;">User seems frustrated and gives up.</td>
+      <td style="border: 1px solid black; padding: 8px;">User is impatient and gave up too easily.</td>
+      <td style="border: 1px solid black; padding: 8px;">I don’t really understand what it’s like to have carpal tunnel, so I’m judging user.</td>
+      <td style="border: 1px solid black; padding: 8px; width: 30%">
         Maybe “not giving up” actually aggravates the problem. The fact that I’ve never had chronic pain is making it a little hard for me to empathize.
       </td>
     </tr>
@@ -535,7 +531,7 @@ Table 3.2 Observation notes on user trying to write
 
 In this example, the researcher realizes that there's more they need to know about carpal tunnel syndrome -- not only the mechanics of the syndrome, but its psychological and lifestyle implications. As such, they choose to conduct a contextual inquiry where they have the user demonstrate their grip with writing implements of various sizes and ask the user questions about the effects carpal tunnel has had on their everyday life.
 
-#### This section contains material taken from: 
+> This section contains material taken from: 
 
 -   [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
@@ -589,7 +585,9 @@ To write and distribute your survey, first carefully read the information about 
 
 **How will you access your sample population?** Strive to reach beyond a convenience sample.
 
--   Watch this [[short and useful video].](https://www.youtube.com/watch?v=r1R00l8Z5lg)
+-   Watch this [short and useful video.](https://www.youtube.com/watch?v=r1R00l8Z5lg)
+
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1R00l8Z5lg?si=cKF_EEk11Is3ezI2" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 -   Proactively seek to reduce implicit bias by seeking out user groups that are commonly underrepresented in research (while it varies by topic, this generally includes racial and ethnic minorities, women, and, for the type of research you are doing, non-students).
 
@@ -599,7 +597,7 @@ To write and distribute your survey, first carefully read the information about 
 
 ## Know how to write survey questions 
 
-Here are a few common types. For examples and more types, look at this [brief and readable resource](https://www.surveymonkey.com/mp/survey-question-types/) from SurveyMonkeys.
+Here are a few common types. For examples and more types, look at this [brief and readable resource](https://www.surveymonkey.com/mp/survey-question-types/) from SurveyMonkey.
 
 -   **Single-answer multiple choice**. Use for clear, relatively simple questions. This type of question is useful for filtering and sorting the data you collect. \[example\]
 
@@ -643,6 +641,10 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 **Write an introduction** to your survey to tell people in a sentence or two its purpose, its content, and how long it will take.
 
+**Thank people** at the end of the survey.
+
+> Ver. 23 Aug 2020
+
 ## References
 
 [^1]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
@@ -668,5 +670,3 @@ Adapted with permission pending.
 [^10]:  "Observe." *Lexico.com Dictionary*, Oxford English and Spanish Dictionary, Thesaurus, and Spanish to English Translator, [https://www.lexico.com/en/definition/observe](https://www.lexico.com/en/definition/observe) (Accessed Aug. 23, 2020).
 
 [^11]:  W. Shadish, T. Cook and D. Campbell. *Quasi-Experimentation: Design and Analysis Issues.* Boston, MA: Houghton Mifflin Company, 1979.
-
-**Thank people** at the end of the survey.
