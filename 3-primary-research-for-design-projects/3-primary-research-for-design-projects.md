@@ -161,9 +161,9 @@ _Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash
 
 In her article, *Introduction to Primary Research*, Dana Lynn Driscoll (2011) [^6] discusses primary research. Consider the excerpt from Driscoll's article below, taking note of how you might apply this information to your own research:
 
-Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill in the nineteenth century in his book *Philosophy of the Scientific Method* [^7]*.* Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process. [^6]
+Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill in the nineteenth century in his book *Philosophy of the Scientific Method [^6].* Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process. [^7]
 
-Driscoll goes on to discuss Fred Leavitt's *Evaluating Scientific Research: Separating Fact from Fiction* [^8]*,* explaining that primary research is useful for questions that can be answered through asking others and direct observation:
+Driscoll goes on to discuss Fred Leavitt's *Evaluating Scientific Research: Separating Fact from Fiction [^8],* explaining that primary research is useful for questions that can be answered through asking others and direct observation:
 
 Primary research is particularly useful when you want to learn about a problem that does not have a wealth of published information. This may be because the problem is a recent event or it is something not commonly studied. For example, if you are designing a device for a particular user with carpal tunnel syndrome, which is a condition that affects people in different ways, you may not know exactly how this condition affects this user. You'll want to collect data about this user directly, perhaps through observation or interview. Or if you're developing a website for teachers who are required to teach online during a pandemic, and you'd like to include information about developing lesson plans, you might want to survey a population of teachers to determine what information they'd find most necessary. [^8]
 
@@ -173,7 +173,7 @@ Just like the writing process, you should start your primary research process wi
 
 #### Developing research questions or hypotheses 
 
-As John Stuart Mill describes in his book, *Philosophy of the Scientific Method*, primary research can use both *inductive* and *deductive* approaches, and the type of approach is usually based on the field of inquiry. Some fields use *deductive reasoning,* where researchers start with a hypothesis or general conclusion and then collect specific data to support or refute their hypothesis. Other fields use *inductive reasoning,* where researchers start with a question and collect information that eventually leads to a conclusion. [^7]
+As John Stuart Mill describes in his book, *Philosophy of the Scientific Method*, primary research can use both *inductive* and *deductive* approaches, and the type of approach is usually based on the field of inquiry. Some fields use *deductive reasoning,* where researchers start with a hypothesis or general conclusion and then collect specific data to support or refute their hypothesis. Other fields use *inductive reasoning,* where researchers start with a question and collect information that eventually leads to a conclusion. [^6]
 
 Once you have spent some time reviewing the secondary research on your topic, you are ready to write a primary research question or hypothesis. A research question or hypothesis should be something that is specific, narrow, and discoverable through primary research methods. Just like a thesis statement for a paper, if your research question or hypothesis is too broad, your research will be unfocused and your data will be difficult to analyze and write about. Here is a set of sample research questions:
 
@@ -659,9 +659,9 @@ Adapted with permission pending.
 
 [^5]:  K. Jones and T. Okun. "The Characteristics of White Supremacy Culture," ChangeWork, 2001. Accessed: Aug. 20, 2020. \[Online\]. Available: [https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html)
 
-[^6]:  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
+[^6]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
 
-[^7]:  J. S. Mill, *Philosophy of Scientific Method*. New York, NY, USA: Hafner Publishing Co, 1950.
+[^7]:  D. L. Driscoll, "Introduction to Primary Research: Observations, Surveys, and Interviews," Writing Spaces, 2011. Accessed: 20 Aug. 2020. \[Online\]. Available at: [https://wac.colostate.edu/books/writingspaces2/driscoll\--introduction-to-primary-research.pdf](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf)
 
 [^8]:  F. Leavitt, *Evaluating Scientific Research: Separating Fact from Fiction.* Long Grove, IL: Waveland Press, 2004.
 
