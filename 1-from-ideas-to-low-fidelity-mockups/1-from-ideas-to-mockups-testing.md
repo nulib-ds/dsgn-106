@@ -1,6 +1,6 @@
 # From Ideas to Low-Fidelity Mock-ups and Testing
 
-Emma Tevaarwerk DeCosta and J. Alex Birdwell Ver. 03 September 2020
+_Emma Tevaarwerk DeCosta and J. Alex Birdwell_
 
 Many students enter the engineering field because they enjoy math and science and want to solve real world problems. In addition, years of primary school shape first-year college students to be very good at studying for and taking written tests. This schooling often creates a mind well-honed at convergent thinking, a process in which the student determines and shares "the one correct answer" as quickly as possible.
 
@@ -22,7 +22,7 @@ Strategically and effectively guiding early phases of the design process to hone
 
 4. Refining the problem and ideating several potential solutions to address the refined problem.
 
-An example to demonstrate what this process might look like after the initial interview with your project partner and conducting user interviews starts with many ideas generated during an ideation session, such as brainstorming with your group. The initial ideas are shown on the left in [Figure 1](#figure1) and are sorted into groups representing similar ideas (green, orange, and purple). Each group represents a potential solution-set of ideas and an initial evaluation can help your team determine which ideas are worth exploring further. This example shows three groups and each group will be explored further. You may have more groups and will determine which and how many will be pursued. An alternatives matrix can be helpful for making the initial and subsequent evaluations.
+An example to demonstrate what this process might look like after the initial interview with your project partner and conducting user interviews starts with many ideas generated during an ideation session, such as brainstorming with your group. The initial ideas are shown below in [Figure 1](#figure1) and are sorted into groups representing similar ideas (green, orange, and purple). Each group represents a potential solution-set of ideas and an initial evaluation can help your team determine which ideas are worth exploring further. This example shows three groups and each group will be explored further. You may have more groups and will determine which and how many will be pursued. An alternatives matrix can be helpful for making the initial and subsequent evaluations.
 
 <a name="figure1"></a>
 
@@ -41,17 +41,19 @@ This chapter concerns itself with the early portion of the design process highli
 
 Before we embark on the rest of the chapter, it is important to acknowledge that **not only is the solution to the problem unknown, but quite often, the problem itself is poorly defined and understood even by the project partner/client and the user themselves.** As the team builds and tests early mockups, their understanding of the problems that need to be solved very often shifts, sometimes quite dramatically. Although initial research and user observation provide much necessary information and insight, the first round of testing often significantly changes the team's understanding of the user's needs. These shifts are best captured by the evolution of the "mission statement," a one sentence description of the user's problem. Below, we provide an example project in which the client initially approached the team with a need for better boots to protect dogs walking on cold, icy winter streets, as defined by Section 12, Team 1 during Spring Quarter 2018 DTC2.
 
-Week 2: After Initial Interview with client/project partner
+# Project Example
 
-- Our mission is to reinvent "doggie boots" so that they not only protect against moisture, extreme temperatures, and toxic chemicals like salt, but prioritize the dog's comfort and an easier, more efficient user interface.
+> ## Week 2: After Initial Interview with client/project partner
 
-Week 5: After User Observation & Expert Interviews
+> - Our mission is to reinvent "doggie boots" so that they not only protect against moisture, extreme temperatures, and toxic chemicals like salt, but prioritize the dog's comfort and an easier, more efficient user interface.
 
-- Our mission is to design a digital app that serves to size a dog accurately via iPhone or iPad touch screen and recommend brands based on user-inputted preferences. In this manner, our team aspires to improve owner convenience and satisfaction by removing the frustrations and inefficiencies from improperly sized booties and trying to find the right product from a large market.
+> ## Week 5: After User Observation & Expert Interviews
 
-Week 8: After User testing and Further User & Expert Interviews
+> - Our mission is to design a digital app that serves to size a dog accurately via iPhone or iPad touch screen and recommend brands based on user-inputted preferences. In this manner, our team aspires to improve owner convenience and satisfaction by removing the frustrations and inefficiencies from improperly sized booties and trying to find the right product from a large market.
 
-Pet owners struggle to find footwear for their dogs in a confusing, massive market due to widely differing bootie models and sizing scales. To remedy the frustrations and inefficiencies associated with purchasing dog shoes, our team aspires to design an iOS application that quickly and accurately sizes dog paws and recommends the best booties for canines' needs.
+> ## Week 8: After User testing and Further User & Expert Interviews
+
+> - Pet owners struggle to find footwear for their dogs in a confusing, massive market due to widely differing bootie models and sizing scales. To remedy the frustrations and inefficiencies associated with purchasing dog shoes, our team aspires to design an iOS application that quickly and accurately sizes dog paws and recommends the best booties for canines' needs.
 
 It is natural and common for student teams to feel frustrated as their understanding of users' needs evolve and result in an update to their project's direction. It is important to remember that gaining these insights is never a 'failure.' Testing out ideas is successful when you learn both what will and will not address the problem. Pivoting away from a previously pursued concept can be difficult, but it is better to do this early in the design process when there is still plenty of time to explore new ideas and directions. As designers and engineers, we can best help solve problems when we have an accurate understanding of the users' needs.
 
@@ -71,7 +73,7 @@ Your team will have dozens or even hundreds of ideas at the conclusion of your i
 
 ## Step 2: Sorting Ideas into Complementary Solution-Sets & Refining Your Exploratory Questions
 
-Sorting Ideas into Complementary Solutions Sets
+### Sorting Ideas into Complementary Solutions Sets
 
 As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](#bookmark3)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
 
@@ -447,3 +449,5 @@ There are multiple ways to represent your ideas and you can often disassemble th
 [^11]: D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020].
 
 [^12]: J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].
+
+> Ver. 03 September 2020
