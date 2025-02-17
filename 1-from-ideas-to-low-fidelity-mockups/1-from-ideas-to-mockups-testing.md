@@ -26,12 +26,12 @@ An example to demonstrate what this process might look like after the initial in
 
 <a name="figure1"></a>
 
-![Figure 1. Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users. [^1]](photos/1.png)
+![Figure 1. Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users.](photos/1.png)
 
 These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](#figure2)).
 
 <a name="figure2"></a>
-![*Figure 2. Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.*]( photos/2.png)
+![Figure 2. Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.]( photos/2.png)
 
 In parallel to the initial round of development that culminated with a user testing session, the team generates and explores new ideas that arise from feedback from users, additional secondary research, and refined project requirements such as appearance and interaction preferences. New ideas go through the same iterative process of evaluate, build, and test to develop Mockups 5 and 6. The team conducted another round of testing with users. The user feedback is combined with guidance from prototyping specialists, instructors/supervisors, and project stakeholders to inform the team on a prototype that represents their design concept. For a real-life example of this process in action for a DTC team, watch the [video describing the development of a one-handed glove donner](https://youtu.be/ZJJdJ1hQywM) [^1].
 
@@ -69,7 +69,7 @@ Your team will have dozens or even hundreds of ideas at the conclusion of your i
 
 ![Figure 3. Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.]( photos/3.png)
 
-*Figure 3. Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.[^2]*
+*Figure 3. Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.*
 
 ## Step 2: Sorting Ideas into Complementary Solution-Sets & Refining Your Exploratory Questions
 
@@ -79,7 +79,7 @@ As you develop ideas, either during the process or after you've generated many i
 
 ![Figure 4. Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets.]( photos/4.png)
 
-*Figure 4. Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets.*[^2]
+*Figure 4. Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets.*
 
 Alternatives matrices are useful tools that can help you evaluate each idea's potential in addressing user needs. User needs are listed in the top row and ideas are listed in the first column. Ideas are evaluated against each need and given a score if it addresses that idea. Scoring can binary (e.g. 0 or 1) or span a range to indicate the priority of the associated need (e.g. 0, 1, 2, or 3 with large values indicating a higher priority). Ideas that meet multiple needs and or high-priority needs will rank higher and this information, along with other design considerations, can help a team decide on which ideas to pursue further.
 
@@ -92,7 +92,7 @@ Alternatives matrices are useful tools that can help you evaluate each idea's po
 
 ![figure 5]( photos/5.png)
 
-*Figure 5. Grouped ideas focused on increasing safety for infants who fall asleep in a lounger. Clockwise from top-left: Transitional devices, Inherently safe devices, Miscellaneous, & App/phone ideas. Images courtesy of all teams from 2019 Fall DTC - Section 15. [^2]*
+*Figure 5. Grouped ideas focused on increasing safety for infants who fall asleep in a lounger. Clockwise from top-left: Transitional devices, Inherently safe devices, Miscellaneous, & App/phone ideas. Images courtesy of all teams from 2019 Fall DTC - Section 15.*
 
 ### Creating & Refining your Exploratory Questions
 
@@ -114,13 +114,13 @@ Answers to these questions will help you understand more about how well this ide
 
 *Case Study: Ride-On Vehicle for Robbie*
 
-A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [See Robbie's Design Story Card here](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) and an excerpt is shown in [Figure 6](#figure6) [^3].
+A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [See Robbie's Design Story Card here](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) and an excerpt is shown in [Figure 6](#figure6).
 
 <a name="figure6"></a>
 
 ![Figure 6 Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.]( photos/6.png) 
 
-*Figure 6. Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.* [^3]
+*Figure 6. Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.*
 
 This team settled on several potential ways for Robbie to steer his car. The associated questions were devised *before* any mockups were built and helped guide the team in determining what should be built and tested. As you develop your list of questions you may need support in figuring out how to refine your exploratory questions; this is normal.
 
@@ -200,17 +200,17 @@ Physical mockups can also be useful to demonstrate a process, which can be impra
 
 <a name="figure7"></a>
 
-![*Figure 7 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin [^12]*]( photos/7.png)
+![*Figure 7 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin*]( photos/7.png)
 
-*Figure 7. Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. [^12]*
+*Figure 7. Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].*
 
 [Figure 7](#figure7) shows a mock-up of a museum exposition, with the different exhibits, signs and tables that allows for a discussion of the user experience in the space: who will greet them and where they will pay, where the bathroom is and how hard it is to get there, where signs directing visitors will be situated, etc. Designer Jess McMullin says the inclusion of pictures helps connect "observations in field to possibilities in the future expressed through prototypes, and also creates 'better empathy.'" When testing for users responses to different forms, you can also use paper and cardstock to build low fidelity "looks-like" mock-ups, which can be presented to various users and audiences to get feedback on appearance, comprehension, or use of a space. [Figure 8](#figure8) shows a "looks-like" mock-up of a backpack, used to get feedback from potential customers on the form and placement of the features including front pockets, buckle and straps. This "looks-like" mock- up would not be a good way to test how much load the backpack could hold, and the durability of the straps, or even the fit on a person. Danielle Panther, designer of this mock-up, said 'Bag prototype made using card, masking tape, and glue. I am happy with the size and style of my bag and I am looking forward to making it in my faux leather material.'
 
 <a name="figure8"></a>
 
-![*Figure 8 This is a low fidelity mock-up of a bag made by a Danielle Panther [^11]*]( photos/8.png)
+![*Figure 8 This is a low fidelity mock-up of a bag made by a Danielle Panther*]( photos/8.png)
 
-*Figure 8. This is a low fidelity mock-up of a bag made by a Danielle Panther. [^11]*
+*Figure 8. This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020].*
 
 ## Concept Sketches
 
@@ -221,14 +221,14 @@ Concept sketches are frequently used to illustrate different appearances very qu
 ![*Figure 9 pt. 1 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*](photos/9.png)
 ![*Figure 9 pt. 2 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*]( photos/10.png)
 
-*Figure 9 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5. [^4]*
+*Figure 9 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*
 
 The sketches in [Figure 10](#figure10) show how multiple concept sketches can be used to test the reaction of potential customers to different forms of a lockbox (and placements of a battery compartment, latch, handle and opening mechanism) without having to physically build anything.
 
 <a name="figure10"></a>
-![*Figure 10 Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism.* [^5]]( photos/11.png)
+![*Figure 10 Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism.*]( photos/11.png)
 
-*Figure 10. Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. [^5]*
+*Figure 10. Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020].*
 
 ## StoryBoards
 
@@ -237,9 +237,9 @@ Storyboards are a good way to demonstrate a process and interactions in order to
 <a name="figure11"></a>
 ![]( photos/12.png)
 
-*Figure 11. Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12. [^6]*
+*Figure 11. Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12.*
 
-These storyboards are often used to focus the development team on the key aspect of the application that have value to the customer. In this case the value add for the user was the paw measurement tool in conjunction with the database of highly recommended doggie booties to recommend a specific brand to suit the usage situation and dog breed. For a great reference on Agile software development, we recommend reading "The Agile Samuari: How Agile Masters Deliver Great Software." [^7]
+These storyboards are often used to focus the development team on the key aspect of the application that have value to the customer. In this case the value add for the user was the paw measurement tool in conjunction with the database of highly recommended doggie booties to recommend a specific brand to suit the usage situation and dog breed. For a great reference on Agile software development, we recommend reading "The Agile Samuari: How Agile Masters Deliver Great Software." [^2]
 
 ## Process Mimics/Try-On/Walk-Through/Novel Processes
 
@@ -249,13 +249,13 @@ Testing a novel way of accomplishing a task can add value to the user without th
 
 In app and website development, simple sketching and "wireframing", a low-fidelity method for creating a two-dimensional skeletal outline of an interface such as a web page or app.
 
-Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](figure12)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^8] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
+Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](figure12)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
 
 <a name="figure12"></a>
 
-![*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. [^9]*]( photos/13.png)
+![*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12.*]( photos/13.png)
 
-*Figure 12. Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12. \[9\]*
+*Figure 12. Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12.*
 
 High-fidelity mock-ups of your final app, the team might end up using [proto.io](https://proto.io/); however, in the early stages of app development, simple hand drawn wireframes suffice. A great free workspace for creating apps on your phone without having to do any coding is the [MIT App Inventor](https://appinventor.mit.edu/). PowerPoint mock-ups with animation can be used to mimic actual features and test for user feedback without needing to do any coding.
 
@@ -279,7 +279,7 @@ Completing a mockup plan can be very helpful in guiding your team in determining
 
 <a name="figure13"></a>
 
-*Figure 13. Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1. [^10]*
+*Figure 13. Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1.*
 
 Strategies for Success in Building Early Low-Fidelity Mock-ups
 
@@ -426,28 +426,6 @@ There are multiple ways to represent your ideas and you can often disassemble th
 
 [^1]: Team-1_Section-12, The One-Handed Glove Donner, Evanston: DTC, 2017 Fall.
 
-[^2]: Section-15, Ideation Results, Evanston: DTC, 2019 Fall.
+[^2]: J. Rasmusson and a. O. M. C. Safari, The Agile Samurai, Web: Pragmatic Bookshelf, 2010.
 
-[^3]: Section-2, Design Story Card, Evanston: DTC, 2017 Fall.
-
-[^4]: Team-5_Section-5, Design Sketches - Build-A-Bra, Evanston: DTC, 2016 Spring.
-
-[^5]: M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020].
-
-[^6]: Team-1_Section-12, Pawdacity, Evanston: DTC, 2018 Spring.
-
-[^7]: J. Rasmusson and a. O. M. C. Safari, The Agile Samurai, Web: Pragmatic Bookshelf, 2010.
-
-[^8]: J. Hannah, "What Exactly is Wireframing? A Comprehensive Guide," CareerFoundry, 1 August 2019. [Online]. Available: <https://careerfoundry.com/en/blog/ux-design/wha-is-a-wireframe-> guide/#1-what-is-a-wireframe-and-who-uses-them. Accessed 2020.
-
-[^9]: Team-2_Section-12, Hotplate wireframe, Evanston: DTC, 2017 Spring.
-
-[^10]: Team-1_Section-1, Mat with Rolled End mockup plan, Evanston: DTC, 2018 Fall.
-
-[^11]: D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: https://www.pinterest.com/pin/305611524704884823/?autologin=true. [Accessed 2020].
-
-[^12]: J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: https://twitter.com/jessmcmullin. [Accessed 2020].
-
-[^11]: D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020].
-
-[^12]: J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].
+[^3]: J. Hannah, "What Exactly is Wireframing? A Comprehensive Guide," CareerFoundry, 1 August 2019. [Online]. Available: <https://careerfoundry.com/en/blog/ux-design/wha-is-a-wireframe-> guide/#1-what-is-a-wireframe-and-who-uses-them. Accessed 2020.
