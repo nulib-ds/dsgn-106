@@ -1,10 +1,6 @@
 # Foundations of Technical and Professional Communication
 
-Chapter 2
-
-Prepared by Laura Maria Pigozzi, PhD 
-
-Ver. 1 Aug 2020
+_Prepared by Laura Maria Pigozzi, PhD_
 
 ## What is technical and professional communication?
 
@@ -54,7 +50,7 @@ communication skills than on technical skills
 
 The engineering co-op coordinator added that engineers who are more advanced in their careers spend only 5-10% of their time engaged in problem solving of some kind and 90-95% of their time engaging in related communications tasks: researching, writing and reading reports, proposals, emails, letters, memos; giving or attending presentations; discussing and meeting with colleagues, team mates, managers, clients, and so forth. In a recent survey of over 1,000 professionals from various professions, over 70% of engineers and almost 50% of programmers rated the quality of their writing as either "very important" or "extremely important" to the performance of their jobs [^4]. It should be noted that while problem solving tasks and communication tasks are shown as separate activities, the reality is they are intertwined and work together.
 
-The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
+The video [Writing in the Workplace](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvAiE7owmeI?si=csEcNNjbtIvpitCV" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -99,7 +95,7 @@ Rhetoric teaches us that our communications must be shaped by an understanding o
 
 2.  Visit the website of a car manufacturer. Identify the use of ethos, pathos, and logos in both the text and the visual elements.
 
-This chapter contains material taken from
+> This section contains material taken from
 
 -   [A Guide to Technical Communications: Strategies & Applications](https://ohiostate.pressbooks.pub/engrtechcomm) by Lynn Hall & Leah Wahlin, and is used under a [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -142,93 +138,74 @@ TPC genres include (a) use of headings to organize information into coherent sec
 
 TABLE 2.1 Conventions of Technical Writing
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <colgroup>
 <col style="width: 27%" />
 <col style="width: 72%" />
 </colgroup>
 <tbody>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Criteria</p>
 </td>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Technical Writing</p>
-</td>
+</td style="border: 1px solid black; padding: 8px;">
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Purpose</p>
 </td>
-<td>
-<p>To communicate technical and specialized information in a clear,
-accessible, usable manner to people who need to use it to make</p>
-<p>decisions, perform processes, or support company goals.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>To communicate technical and specialized information in a clear, accessible, usable manner to people who need to use it to make decisions, perform processes, or support company goals.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Audience</p>
 </td>
-<td>
-<p>Varied, but can include fellow employees such as subordinates,
-colleagues, managers, and executives, as well as clients and other
-stakeholders, the general public, and even readers within the legal
-system.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Varied, but can include fellow employees such as subordinates, colleagues, managers, and executives, as well as clients and other stakeholders, the general public, and even readers within the legal system.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Writing Style</p>
 </td>
-<td>
-<p>Concise, clear, plain, and direct language; may include specialized
-terminology (with definitions as needed); typically uses short
-sentences</p>
-<p>and paragraphs; uses active voice; makes purpose immediately
-clear.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Concise, clear, plain, and direct language; may include specialized terminology (with definitions as needed); typically uses short sentences and paragraphs; uses active voice; makes purpose immediately clear.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Tone</p>
 </td>
-<td>
-<p>Business/professional in tone, which falls between formal and
-informal; may use first person or second person if appropriate;
-courteous and</p>
-<p>constructive.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Business/professional in tone, which falls between formal and informal; may use first person or second person if appropriate; courteous and constructive.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Structure</p>
 </td>
-<td style="text-align: left;">
-<p>Highly structured; short paragraphs; clear transitions and structural
-cues (headings and sub-headings) to move the reader through and direct
-the reader.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Highly structured; short paragraphs; clear transitions and structural cues (headings and sub-headings) to move the reader through and direct the reader.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Format/Formatting</p>
 </td>
-<td>
-<p>Can be in electronic, visual, or printed formats; may be long
-(reports) or short (emails, letters, memos); often uses style guides to
-describe</p>
-<p>required formatting features; uses headings, lists, figures and
-tables.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Can be in electronic, visual, or printed formats; may be long (reports) or short (emails, letters, memos); often uses style guides to describe required formatting features; uses headings, lists, figures and tables.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Other Features</p>
 </td>
-<td>
-<p>Ideas are evidence and data-driven; descriptors are precise and
-quantitative whenever possible.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Ideas are evidence and data-driven; descriptors are precise and quantitative whenever possible.</p>
 </td>
 </tr>
 </tbody>
@@ -254,7 +231,7 @@ Finally, your writing may be legible and readable, but how well can your audienc
 
 2.  Locate an instruction manual for a product you may own. Analyze it against the characteristics listed in the chapter for good technical writing. Submit your analysis in a memo to your instructor.
 
-This chapter contains material taken from:
+> This section contains material taken from:
 
 -   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-tc) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
 
@@ -298,36 +275,36 @@ The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OW
 
 Table 3.1
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th>Readers</th>
-    <th>Needs</th>
-    <th>Values</th>
-    <th>Attitudes</th>
+    <th style="border: 1px solid black; padding: 8px;">Readers</th>
+    <th style="border: 1px solid black; padding: 8px;">Needs</th>
+    <th style="border: 1px solid black; padding: 8px;">Values</th>
+    <th style="border: 1px solid black; padding: 8px;">Attitudes</th>
   </tr>
   <tr>
-    <td>Gatekeeper</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Gatekeeper</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
   <tr>
-    <td>Primary</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Primary</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
   <tr>
-    <td>Secondary</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Secondary</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
   <tr>
-    <td>Shadow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Shadow</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
 </table>
 
@@ -355,7 +332,7 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
     b.  For a health inspector training course
 
-> This chapter contains material taken from
+> This section contains material taken from
 
 -   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
@@ -423,7 +400,7 @@ The genre of a Progress Report often contains the following sections:
 
 Describe, generally, how you might apply the elements of the writing process to this genre.
 
-This chapter contains material taken from
+> This section contains material taken from
 
 -   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
@@ -454,6 +431,8 @@ There is terminology that reflects the two perspectives, one from a person's imp
 Human-centered design, as practiced at Northwestern University's Segal Design Institute promotes social justice by empowering users with diverse abilities. The products the students design are intended to make the lives of these users easier, allowing them to better negotiate the physical context in which they live. The design process is human-centered by following the participatory approach shown in Figure 5.1. It starts with talking to users about the challenge they are trying to address. This allows the user to be the expert on the issue and honors that expertise. The user remains the focus as the design progresses, with the user providing input and participating in usability testing.
 
 The supporting documentation for the design process, as well as correspondence with the user, can also work toward the user's agency. Care should be taken not reinforce the characterization of bodies as normal or deviant. Users must not be portrayed as damaged or lacking. Finally, there should be consideration on how the information is presented (e.g. visually, textually, aurally).
+
+> Ver. 1 Aug 2020
 
 ## References
 
