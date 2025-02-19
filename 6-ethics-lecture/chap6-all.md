@@ -46,11 +46,11 @@ III. 5 minutes. **Mini Lecture:** Review central points from Lecture 1
 
 IV. 10 minutes. **In pairs:** Challenge yourself to think more about ethical issues, questions, or concerns with your design process.  Come up with 2-6 potential issues you hadn't previously considered. Base your discussion on the following areas:
 
-> 1-Design process: how might ethics impact or guide your group dynamics as well as the design process?
+> 1. Design process: how might ethics impact or guide your group dynamics as well as the design process?
 >
-> 2-Deliverables: what are challenges, questions, or concerns with the ethics of your design deliverables? Written deliverables?
+> 2. Deliverables: what are challenges, questions, or concerns with the ethics of your design deliverables? Written deliverables?
 >
-> 3-Big picture: how do you see your group design fitting into a bigger picture re: ethics? Think history of ethical failures/successes in design as well as how ethical concerns might inform the physical output of your process...
+> 3. Big picture: how do you see your group design fitting into a bigger picture re: ethics? Think history of ethical failures/successes in design as well as how ethical concerns might inform the physical output of your process...
 
 V.  10 minutes. **Groups of 4:** Discuss what you came up with in pairs.  Ask questions, present ambiguities, and use your larger group to gain a clearer sense of how ethics impacts design at various levels.  As a group, formulate 1 question you'd like to pose to the whole gathered group and designate a speaker to pose the question with the mic.
 
@@ -126,4 +126,4 @@ Should Solomon push for a more fiscally demanding, yet sustainable strategy\--at
 > 
 *Aug 26, 2015*
 
-> ![](_static/chapter1/1.png)
+![](_static/chapter1/1.png)
