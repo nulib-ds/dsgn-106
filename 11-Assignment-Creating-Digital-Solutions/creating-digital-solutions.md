@@ -113,6 +113,8 @@ Watch the [tutorial video](https://youtu.be/lqXY2QjtxBg) for how to build a wire
 
 Watch the [tutorial video](https://youtu.be/79CjQTFdckI) for how to enhance a wireframe to be a clickable prototype using Figma, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/79CjQTFdckI?si=PRJFNDkWKgXD3o-9" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Watch the [tutorial video](https://youtu.be/B3cjAu3TvCk) for how to build a wireframe using InVision, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
-![](_static/image1.jpeg)
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B3cjAu3TvCk?si=mu6rUdj4js7lcUy6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
