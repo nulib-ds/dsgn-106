@@ -59,6 +59,7 @@ As a team, put the images in order and label them figure 1, figure 2, etc. Then,
 
 Share your final version with another team. Note any differences between the choices each team made.  
 ### Images:
+Image(filename = photos/cake/1.jpg, width=400)
 ![](photos/cake/1.jpg) ![](photos/cake/2.jpg) ![](photos/cake/3.jpg) ![](photos/cake/4.jpg) ![](photos/cake/5.jpg) ![](photos/cake/6.jpg) ![](photos/cake/7.jpg) ![](photos/cake/8.jpg) ![](photos/cake/9.jpg) [^1]
 
 <a name="bookmark0"></a>
