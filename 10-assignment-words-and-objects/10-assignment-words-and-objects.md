@@ -281,7 +281,8 @@ Finishing Touches
 <img src=photos/bench/8.jpg style="width:600px" />
 <img src=photos/bench/9.jpg style="width:600px" />
 <img src=photos/bench/10.jpg style="width:600px" />
-<img src=photos/bench/11.jpg style="width:600px" /> [^4]
+<img src=photos/bench/11.jpg style="width:600px" /> 
+[^4]
 
 <a name="bookmark6"></a>
 # Building Furniture Round 1 Peer Review
