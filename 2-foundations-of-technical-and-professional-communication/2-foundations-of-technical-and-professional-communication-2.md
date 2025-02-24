@@ -1,10 +1,6 @@
 # Foundations of Technical and Professional Communication
 
-Chapter 2
-
-Prepared by Laura Maria Pigozzi, PhD 
-
-Ver. 1 Aug 2020
+_Prepared by Laura Maria Pigozzi, PhD_
 
 ## What is technical and professional communication?
 
@@ -18,8 +14,7 @@ of Charles Darwin)
 
 As Francis Darwin points out, no matter how spectacular your ideas and designs are, if you can't communicate them effectively to a wide variety of audiences, they will not be recognized.
 
-Effective communication is the vehicle to get your work documented,
-legitimized, recognized, utilized.
+Effective communication is the vehicle to get your work documented, legitimized, recognized, utilized.
 
 When you hear the term *technical communication*, what comes to mind? Perhaps you think of scientific reports, specifications, instructions, software documentation, proposals, or technical manuals. Perhaps you think of writing done by engineers to document a design project. Yes, all of this. However, technical communication is more than that. Technical communication includes writing produced in day-to-day business operations such as emails, memos, meeting minutes, and a variety of reports. These day-to-day communications can be described as *business communication* or *professional communication.* And because oral and visual presentations are such an important part of professional life, technical communication also encompasses these as well. Websites and blogs are technical communication and increasingly, social media has also been included.
 
@@ -54,7 +49,7 @@ communication skills than on technical skills
 
 The engineering co-op coordinator added that engineers who are more advanced in their careers spend only 5-10% of their time engaged in problem solving of some kind and 90-95% of their time engaging in related communications tasks: researching, writing and reading reports, proposals, emails, letters, memos; giving or attending presentations; discussing and meeting with colleagues, team mates, managers, clients, and so forth. In a recent survey of over 1,000 professionals from various professions, over 70% of engineers and almost 50% of programmers rated the quality of their writing as either "very important" or "extremely important" to the performance of their jobs [^4]. It should be noted that while problem solving tasks and communication tasks are shown as separate activities, the reality is they are intertwined and work together.
 
-The video [[Writing in the Workplace]](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
+The video [Writing in the Workplace](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvAiE7owmeI?si=csEcNNjbtIvpitCV" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -99,7 +94,7 @@ Rhetoric teaches us that our communications must be shaped by an understanding o
 
 2.  Visit the website of a car manufacturer. Identify the use of ethos, pathos, and logos in both the text and the visual elements.
 
-This chapter contains material taken from
+> This section contains material taken from
 
 -   [A Guide to Technical Communications: Strategies & Applications](https://ohiostate.pressbooks.pub/engrtechcomm) by Lynn Hall & Leah Wahlin, and is used under a [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -142,93 +137,74 @@ TPC genres include (a) use of headings to organize information into coherent sec
 
 TABLE 2.1 Conventions of Technical Writing
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <colgroup>
 <col style="width: 27%" />
 <col style="width: 72%" />
 </colgroup>
 <tbody>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Criteria</p>
 </td>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Technical Writing</p>
-</td>
+</td style="border: 1px solid black; padding: 8px;">
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Purpose</p>
 </td>
-<td>
-<p>To communicate technical and specialized information in a clear,
-accessible, usable manner to people who need to use it to make</p>
-<p>decisions, perform processes, or support company goals.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>To communicate technical and specialized information in a clear, accessible, usable manner to people who need to use it to make decisions, perform processes, or support company goals.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Audience</p>
 </td>
-<td>
-<p>Varied, but can include fellow employees such as subordinates,
-colleagues, managers, and executives, as well as clients and other
-stakeholders, the general public, and even readers within the legal
-system.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Varied, but can include fellow employees such as subordinates, colleagues, managers, and executives, as well as clients and other stakeholders, the general public, and even readers within the legal system.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Writing Style</p>
 </td>
-<td>
-<p>Concise, clear, plain, and direct language; may include specialized
-terminology (with definitions as needed); typically uses short
-sentences</p>
-<p>and paragraphs; uses active voice; makes purpose immediately
-clear.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Concise, clear, plain, and direct language; may include specialized terminology (with definitions as needed); typically uses short sentences and paragraphs; uses active voice; makes purpose immediately clear.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Tone</p>
 </td>
-<td>
-<p>Business/professional in tone, which falls between formal and
-informal; may use first person or second person if appropriate;
-courteous and</p>
-<p>constructive.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Business/professional in tone, which falls between formal and informal; may use first person or second person if appropriate; courteous and constructive.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Structure</p>
 </td>
-<td style="text-align: left;">
-<p>Highly structured; short paragraphs; clear transitions and structural
-cues (headings and sub-headings) to move the reader through and direct
-the reader.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Highly structured; short paragraphs; clear transitions and structural cues (headings and sub-headings) to move the reader through and direct the reader.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Format/Formatting</p>
 </td>
-<td>
-<p>Can be in electronic, visual, or printed formats; may be long
-(reports) or short (emails, letters, memos); often uses style guides to
-describe</p>
-<p>required formatting features; uses headings, lists, figures and
-tables.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Can be in electronic, visual, or printed formats; may be long (reports) or short (emails, letters, memos); often uses style guides to describe required formatting features; uses headings, lists, figures and tables.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 1px solid black; padding: 8px;">
 <p>Other Features</p>
 </td>
-<td>
-<p>Ideas are evidence and data-driven; descriptors are precise and
-quantitative whenever possible.</p>
+<td style="border: 1px solid black; padding: 8px;">
+<p>Ideas are evidence and data-driven; descriptors are precise and quantitative whenever possible.</p>
 </td>
 </tr>
 </tbody>
@@ -254,7 +230,7 @@ Finally, your writing may be legible and readable, but how well can your audienc
 
 2.  Locate an instruction manual for a product you may own. Analyze it against the characteristics listed in the chapter for good technical writing. Submit your analysis in a memo to your instructor.
 
-This chapter contains material taken from:
+> This section contains material taken from:
 
 -   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-tc) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
 
@@ -298,36 +274,36 @@ The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OW
 
 Table 3.1
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th>Readers</th>
-    <th>Needs</th>
-    <th>Values</th>
-    <th>Attitudes</th>
+    <th style="border: 1px solid black; padding: 8px;">Readers</th>
+    <th style="border: 1px solid black; padding: 8px;">Needs</th>
+    <th style="border: 1px solid black; padding: 8px;">Values</th>
+    <th style="border: 1px solid black; padding: 8px;">Attitudes</th>
   </tr>
   <tr>
-    <td>Gatekeeper</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Gatekeeper</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
   <tr>
-    <td>Primary</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Primary</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
   <tr>
-    <td>Secondary</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Secondary</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
   <tr>
-    <td>Shadow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="border: 1px solid black; padding: 8px;">Shadow</td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
+    <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
 </table>
 
@@ -355,7 +331,7 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
     b.  For a health inspector training course
 
-> This chapter contains material taken from
+> This section contains material taken from
 
 -   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
@@ -365,7 +341,7 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
 ![](photos/6.png)
 
-*Figure 4.1. Writing Process Diagram. [^10]*
+*Figure 4.1. Writing Process Diagram. M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission*
 
 Just as we use design processes to creatively solve complex problems, we use writing processes to create complex documents. In both cases, there are steps or stages, but we don't always proceed directly from one step to next in a linear manner. These processes are often iterative, meaning we might return to previous stages in the process from time to time. The more complex the task, the more iteration might be needed. Think about the design process as explained in the introductory video by IDEO and the Writing Process as depicted in Figure 4.1. What similarities and differences can you see in these two processes?
 
@@ -423,7 +399,7 @@ The genre of a Progress Report often contains the following sections:
 
 Describe, generally, how you might apply the elements of the writing process to this genre.
 
-This chapter contains material taken from
+> This section contains material taken from
 
 -   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
@@ -431,41 +407,41 @@ This chapter contains material taken from
 
 ![Figure 7](photos/7.jpg)
 
-*Figure 5.1. Diagram of Design Thinking for Social Justice Process.*
+*Figure 5.1. Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's Processus de Design Thinking. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [here](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) Used with permission.*
 
-*Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^11].
+*Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^10].
 
 The design process we are learning is human-centered design (HCD). This process focuses on designing to meet the needs and desires of the users. Technical and professional communication (TPC) mirrors this goal, producing communication that focuses on the needs and desires of its users. They are also both concerned with the human experience and with the context---the rhetorical situation.
 
-In a foundational TPC journal article, Carolyn Miller [^12] makes an argument for the humanistic value of technical writing. She says that technical writing is not neutral, as many people believe. Technical writing does not follow the positivistic windowpane theory of language, which holds that language can provide an unobstructed view of reality -- as if you are looking through a window. In fact, all design and all TPC take place within economic and political systems, and at a specific historical time. They are not neutral nor are they subjective. They are created using particular choices, and as such they demonstrate viewpoints and perspectives.
+In a foundational TPC journal article, Carolyn Miller [^11] makes an argument for the humanistic value of technical writing. She says that technical writing is not neutral, as many people believe. Technical writing does not follow the positivistic windowpane theory of language, which holds that language can provide an unobstructed view of reality -- as if you are looking through a window. In fact, all design and all TPC take place within economic and political systems, and at a specific historical time. They are not neutral nor are they subjective. They are created using particular choices, and as such they demonstrate viewpoints and perspectives.
 
 Human-centered design and TPC can provide an opportunity to advocate and create equitable design solutions. Buchanan observes,
 
-Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37) [^13].
+Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37) [^12].
 
 ## Designing for persons with diverse abilities 
 
-According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^14]. As with HCD and TPC, the context in which a person experiences the disability is important:
+According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^13]. As with HCD and TPC, the context in which a person experiences the disability is important:
 
-In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs [^14].
+In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs [^13].
 
-There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term *people with disabilities* signifies that the challenges faced by an individual are a result of the impairment. The term *disabled people* signifies that the challenges faced are a result of the person's environment [^15]. The people-first term *people with disabilities* is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
+There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term *people with disabilities* signifies that the challenges faced by an individual are a result of the impairment. The term *disabled people* signifies that the challenges faced are a result of the person's environment [^14]. The people-first term *people with disabilities* is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
 
 Human-centered design, as practiced at Northwestern University's Segal Design Institute promotes social justice by empowering users with diverse abilities. The products the students design are intended to make the lives of these users easier, allowing them to better negotiate the physical context in which they live. The design process is human-centered by following the participatory approach shown in Figure 5.1. It starts with talking to users about the challenge they are trying to address. This allows the user to be the expert on the issue and honors that expertise. The user remains the focus as the design progresses, with the user providing input and participating in usability testing.
 
 The supporting documentation for the design process, as well as correspondence with the user, can also work toward the user's agency. Care should be taken not reinforce the characterization of bodies as normal or deviant. Users must not be portrayed as damaged or lacking. Finally, there should be consideration on how the information is presented (e.g. visually, textually, aurally).
 
+> Ver. 1 Aug 2020
+
 ## References
 
-[^11]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," *Journal of Technical Writing and Communication,* vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
+[^1]: E. Knowles (ed) \"Francis Darwin.\" in *Oxford Dictionary of Modern Quotations*., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
 
-[^12]: C. R. Miller, "A humanistic rationale for technical writing," *College English,* vol.40, no. 6, pp. 610-617.
+[^2]: S. Pinker, "The source of bad writing," *The Wall Street Journal*, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
 
-[^13]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," *Design Issues,* vol. 17, no. 3, pp. 35-39.
+[^3]: S. McConkey, "Writing a work term report," *ENGR 120 Plenary Lecture*, University of Victoria, March 3, 2017
 
-[^14]: "Disability," 2020. Accessed on July 20, 2020. \[Online\].  Available:  https://www.who.int/health-topics/disability#tab=tab_1
-
-[^15]: G. Pullin, *design meets disability,* Cambridge, MA, The MIT Press, 2009. Figure 5.1
+[^4]: J. Swartz, S. Pigg, J. Larsen, J. Helo Gonzalez, R. De Haas, and E. Wagner, \"Communication in the workplace: What can NC State students expect?\" Professional Writing Program, North Carolina State University, 2018 \[Online\] at [[https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit) [[oB-sGUrtRswD7feuRB0/edit]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit)
 
 [^5]: M. Markell, *Technical communication*, 11^th^ ed., Boston, MA, USA: Bedford/St. Martins, 2015.
 
@@ -477,13 +453,12 @@ The supporting documentation for the design process, as well as correspondence w
 
 [^9]: W. Zinsser, W. *On writing well*, New York, NY, USA: HarperCollins Publishers, 2006, p. 5.
 
-[^10] M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission
+[^10]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," *Journal of Technical Writing and Communication,* vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
 
-[^1]: E. Knowles (ed) \"Francis Darwin.\" in *Oxford Dictionary of Modern Quotations*., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
-[^2]: S. Pinker, "The source of bad writing," *The Wall Street Journal*, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
+[^11]: C. R. Miller, "A humanistic rationale for technical writing," *College English,* vol.40, no. 6, pp. 610-617.
 
-[^3]: S. McConkey, "Writing a work term report," *ENGR 120 Plenary Lecture*, University of Victoria, March 3, 2017
+[^12]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," *Design Issues,* vol. 17, no. 3, pp. 35-39.
 
-[^4]: J. Swartz, S. Pigg, J. Larsen, J. Helo Gonzalez, R. De Haas, and E. Wagner, \"Communication in the workplace: What can NC State students expect?\" Professional Writing Program, North Carolina State University, 2018 \[Online\] at [[https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit) [[oB-sGUrtRswD7feuRB0/edit]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit)
+[^13]: "Disability," 2020. Accessed on July 20, 2020. \[Online\].  Available:  https://www.who.int/health-topics/disability#tab=tab_1
 
-Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's [Processus de] [Design Thinking]. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [[http://contested-]](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) [[cities.net/wpcontent/ uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-]](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) [[FromTechnicalToPolitical.pdf].](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) Used with permission.
+[^14]: G. Pullin, *design meets disability,* Cambridge, MA, The MIT Press, 2009. 

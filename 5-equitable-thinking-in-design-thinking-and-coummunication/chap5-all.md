@@ -1,7 +1,7 @@
 # Equitable Thinking in Design Thinking and Communication
 **Assignments for What is Design Thinking and Communication and What Does it Have to do with Equity?**
 
-by Dr. Laura Pigozzi
+_Dr. Laura Pigozzi_
 
 ## Possible reflection topics
 
