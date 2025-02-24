@@ -59,7 +59,15 @@ As a team, put the images in order and label them figure 1, figure 2, etc. Then,
 
 Share your final version with another team. Note any differences between the choices each team made.  
 ### Images:
-![](photos/cake/1.jpg) ![](photos/cake/2.jpg) ![](photos/cake/3.jpg) ![](photos/cake/4.jpg) ![](photos/cake/5.jpg) ![](photos/cake/6.jpg) ![](photos/cake/7.jpg) ![](photos/cake/8.jpg) ![](photos/cake/9.jpg) [^1]
+<img src=photos/cake/1.jpg style="width:600px" />
+<img src=photos/cake/2.jpg style="width:600px" />
+<img src=photos/cake/3.jpg style="width:600px" />
+<img src=photos/cake/4.jpg style="width:600px" />
+<img src=photos/cake/5.jpg style="width:600px" />
+<img src=photos/cake/6.jpg style="width:600px" />
+<img src=photos/cake/7.jpg style="width:600px" />
+<img src=photos/cake/8.jpg style="width:600px" />
+<img src=photos/cake/9.jpg style="width:600px" /> [^1]
 
 <a name="bookmark0"></a>
 # Cake Time! Peer Feedback
@@ -102,7 +110,11 @@ ________Are the figures and text interspersed (not all the images are at the bot
 - Turn the fly right side up and drape it over the tent with a brim rod over each door. Wrap and secure the Velcro straps around the poles to keep the fly in place. Insert each end of a brim rod into the corresponding grommet on the tent. Set the hoods to the same height. If the fly has shifted, adjust the Velcro straps on the frame. Fasten the side release buckles at all of the corners and tension until wrinkles are gone. 8. Stake out the tent through the corner rings. Stake opposite corners while applying tension to square the tent and remove wrinkles from the floor. Stake out the fly through the rings on the side of the fly. Stake down the side pull outs to provide maximum floor space.
 
 **Images**
-![](photos/tent1/1.jpg)![](photos/tent1/2.jpg)![](photos/tent1/3.jpg)![](photos/tent1/4.jpg)![](photos/tent1/5.jpg) [^2]
+<img src=photos/tent1/1.jpg style="width:600px" />
+<img src=photos/tent1/2.jpg style="width:600px" />
+<img src=photos/tent1/3.jpg style="width:600px" />
+<img src=photos/tent1/4.jpg style="width:600px" />
+<img src=photos/tent1/5.jpg style="width:600px" /> [^2]
 
 <a name="bookmark2"></a>
 # Tent 2 Text and Image Directions
@@ -133,7 +145,14 @@ Attach Rainfly
 - Attach and stake out guylines.
 
 **Images**
-![](photos/tent2/1.jpg)![](photos/tent2/2.jpg)![](photos/tent2/3.jpg)![](photos/tent2/4.jpg)![](photos/tent2/5.jpg)![](photos/tent2/6.jpg)![](photos/tent2/7.jpg)![](photos/tent2/8.jpg) [^3]
+<img src=photos/tent1/1.jpg style="width:600px" />
+<img src=photos/tent1/2.jpg style="width:600px" />
+<img src=photos/tent1/3.jpg style="width:600px" />
+<img src=photos/tent1/4.jpg style="width:600px" />
+<img src=photos/tent1/5.jpg style="width:600px" />
+<img src=photos/tent1/6.jpg style="width:600px" />
+<img src=photos/tent1/7.jpg style="width:600px" />
+<img src=photos/tent1/8.jpg style="width:600px" /> [^2]
 
 <a name="bookmark3"></a>
 # Pitching a Tent Peer Feedback
@@ -207,17 +226,17 @@ Finishing Touches
 - Let the finish dry for a couple of days before using the chair.
 
 **Images**
-![](photos/chair/1.jpg)
-![](photos/chair/2.png)
-![](photos/chair/3.jpg)
-![](photos/chair/4.jpg)
-![](photos/chair/5.jpg)
-![](photos/chair/6.jpg)
-![](photos/chair/7.jpg)
-![](photos/chair/8.jpg)
-![](photos/chair/9.jpg)
-![](photos/chair/10.jpg)
-![](photos/chair/11.jpg) [^4]
+<img src=photos/tent2/1.jpg style="width:600px" />
+<img src=photos/tent2/2.jpg style="width:600px" />
+<img src=photos/tent2/3.jpg style="width:600px" />
+<img src=photos/tent2/4.jpg style="width:600px" />
+<img src=photos/tent2/5.jpg style="width:600px" />
+<img src=photos/tent2/6.jpg style="width:600px" />
+<img src=photos/tent2/7.jpg style="width:600px" />
+<img src=photos/tent2/8.jpg style="width:600px" />
+<img src=photos/tent2/9.jpg style="width:600px" />
+<img src=photos/tent2/10.jpg style="width:600px" />
+<img src=photos/tent2/11.jpg style="width:600px" /> [^3]
 
 <a name="bookmark5"></a>
 # Bench Text and Image Directions
@@ -252,17 +271,18 @@ Finishing Touches
 - Finished the bench with Cabot Australian Timber Oil.
 
 **Images**
-![](photos/bench/1.png)
-![](photos/bench/2.png)
-![](photos/bench/3.png)
-![](photos/bench/4.png)
-![](photos/bench/5.png)
-![](photos/bench/6.png)
-![](photos/bench/7.png)
-![](photos/bench/8.png)
-![](photos/bench/9.png)
-![](photos/bench/10.png)
-![](photos/bench/11.png) [^4]
+<img src=photos/bench/1.jpg style="width:600px" />
+<img src=photos/bench/2.jpg style="width:600px" />
+<img src=photos/bench/3.jpg style="width:600px" />
+<img src=photos/bench/4.jpg style="width:600px" />
+<img src=photos/bench/5.jpg style="width:600px" />
+<img src=photos/bench/6.jpg style="width:600px" />
+<img src=photos/bench/7.jpg style="width:600px" />
+<img src=photos/bench/8.jpg style="width:600px" />
+<img src=photos/bench/9.jpg style="width:600px" />
+<img src=photos/bench/10.jpg style="width:600px" />
+<img src=photos/bench/11.jpg style="width:600px" /> 
+[^4]
 
 <a name="bookmark6"></a>
 # Building Furniture Round 1 Peer Review
