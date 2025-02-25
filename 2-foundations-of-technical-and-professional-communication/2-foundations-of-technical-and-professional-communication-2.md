@@ -127,7 +127,7 @@ Technical and professional writing focuses on audience, is rhetorical, persuasiv
 
 **Ethical:** Lastly, technical communication is ethical. All workplace writers have ethical obligations, many of which are closely linked to legal obligations that include liability laws, copyright laws, contract laws, and trademark laws.
 
-Related, on October 13, 2010, President Obama signed into law the [Plain Writing Act of 2010](https:/plainlanguage.gov/law/) (the Act) which is designed to promote clear government communication that the public can understand and use. The Act calls for writing that is clear, concise, and well-organized.
+Related, on October 13, 2010, President Obama signed into law the [Plain Writing Act of 2010](https://plainlanguage.gov/law/) (the Act) which is designed to promote clear government communication that the public can understand and use. The Act calls for writing that is clear, concise, and well-organized.
 
 Another important consideration is to make sure electronic media, including e-learning documents, meet ADA (American Disabilities Act) laws for accessibility. More information is available on the [American with Disabilities Act website](https://www.ada.gov/).
 
@@ -367,7 +367,7 @@ Step 1: Planning
 
 -   Write first draft Step 3: Improving style
 
--   Choose a style guide (for engineering courses it might be [IEEE style guide](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/style_references_manual.pdf))
+-   Choose a style guide (for engineering courses it might be [IEEE style guide](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf)
 
 -   Attend to tone, spelling, punctuation, word choice, arrangement, design---all these are choices are rhetorical choices that work toward the effectiveness of the document
 
