@@ -537,7 +537,7 @@ Over the last few days, you and your team have had a chance to reflect on and di
 
 # References
 
-[^1]:  Lencioni, P. "The five dysfunctions of a team." *The Organizational Health People*: *The Table Group*. Accessed 8/22/20 from [[https://www.tablegroup.com/download/the-five-dysfunctions-model-and-]{.underline}](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/) [[summary/]{.underline}](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/)
+[^1]:  Lencioni, P. "The five dysfunctions of a team." *The Organizational Health People*: *The Table Group*. Accessed 8/22/20 from [https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary](https://www.tablegroup.com/download/the-five-dysfunctions-model-and-summary/)
 
 [^2]:  J. Wang, G. H.-L. Cheng, T. Chen, and K. Leung. \"Team creativity/innovation in culturally diverse teams: A meta‐analysis.\" *Journal of Organizational Behavior,* vol. 40.6, pp. 693-708, Feb. 2019, doi: 10.1002/job.2362.
 
