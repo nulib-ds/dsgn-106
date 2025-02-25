@@ -433,4 +433,4 @@ There are multiple ways to represent your ideas and you can often disassemble th
 
 [^2]: J. Rasmusson and a. O. M. C. Safari, The Agile Samurai, Web: Pragmatic Bookshelf, 2010.
 
-[^3]: J. Hannah, "What Exactly is Wireframing? A Comprehensive Guide," CareerFoundry, 1 August 2019. [Online]. Available: <https://careerfoundry.com/en/blog/ux-design/wha-is-a-wireframe-> guide/#1-what-is-a-wireframe-and-who-uses-them. Accessed 2020.
+[^3]: J. Hannah, "What Exactly is Wireframing? A Comprehensive Guide," CareerFoundry, 1 August 2019. [Online]. Available: <https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them>. Accessed 2020.
