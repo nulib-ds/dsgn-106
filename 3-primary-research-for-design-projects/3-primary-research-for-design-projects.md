@@ -6,7 +6,7 @@ _Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_
 
 ![Image of two people at a table speaking to each other.](photos/1.png)
 
-_Photo by [Christina @ wocintechchat.com](https://unsplash.com/%40wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Photo by Christina @ wocintechchat.com on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Introduction 
 
@@ -155,7 +155,7 @@ The following links offer resources for understanding and addressing gender bias
 
 ![Image of two people. One is holding a camera as the other looks on](photos/2.png)
 
-_Photo by [Aaron Burden](https://unsplash.com/%40aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Photo by Aaron Burden on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Clarify the research question(s) 
 
@@ -225,13 +225,13 @@ The bottom line is that as you and your team conduct research, you'll uncover im
 
 > This section contains material taken from: 
 
--   Parts of the section "Developing research questions or hypotheses" were taken from [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License].(https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+-   Parts of the section "Developing research questions or hypotheses" were taken from [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 # Tips, models, and templates
 
 ![](photos/3.png)
 
-_Photo by [UX Indonesia](https://unsplash.com/%40uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Photo by UX Indonesia on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## Observing 
 
@@ -403,7 +403,7 @@ See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing s
 
 ![](photos/4.png)
 
-_Photo by [Felipe Furtado](https://unsplash.com/%40furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Photo by Felipe Furtado on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 As you engage in observation, you'll want to ensure that you focus on the details and the facts. According to Driscoll (2011):
 
@@ -651,7 +651,7 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 [^2]:  E. Babbie, *The Practice of Social Research.* 10th ed. Belmont, CA: Wadsworth publishing, 2003.
 
-[^3]:  K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [https://www.childtrends.org/wp-](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) [content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf](https://www.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) 
+[^3]:  K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [https://cms.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf](https://cms.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf) 
 
 Adapted with permission pending.
 
