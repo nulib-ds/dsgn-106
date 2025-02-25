@@ -68,6 +68,7 @@ Share your final version with another team. Note any differences between the cho
 <img src=photos/cake/7.jpg style="width:600px" />
 <img src=photos/cake/8.jpg style="width:600px" />
 <img src=photos/cake/9.jpg style="width:600px" /> 
+
 [^1]
 
 <a name="bookmark0"></a>
@@ -147,15 +148,16 @@ Attach Rainfly
 - Attach and stake out guylines.
 
 **Images**
-<img src=photos/tent1/1.jpg style="width:600px" />
-<img src=photos/tent1/2.jpg style="width:600px" />
-<img src=photos/tent1/3.jpg style="width:600px" />
-<img src=photos/tent1/4.jpg style="width:600px" />
-<img src=photos/tent1/5.jpg style="width:600px" />
-<img src=photos/tent1/6.jpg style="width:600px" />
-<img src=photos/tent1/7.jpg style="width:600px" />
-<img src=photos/tent1/8.jpg style="width:600px" /> 
-[^2]
+<img src=photos/tent2/1.jpg style="width:600px" />
+<img src=photos/tent2/2.jpg style="width:600px" />
+<img src=photos/tent2/3.jpg style="width:600px" />
+<img src=photos/tent2/4.jpg style="width:600px" />
+<img src=photos/tent2/5.jpg style="width:600px" />
+<img src=photos/tent2/6.jpg style="width:600px" />
+<img src=photos/tent2/7.jpg style="width:600px" />
+<img src=photos/tent2/8.jpg style="width:600px" /> 
+
+[^3]
 
 <a name="bookmark3"></a>
 # Pitching a Tent Peer Feedback
@@ -229,18 +231,19 @@ Finishing Touches
 - Let the finish dry for a couple of days before using the chair.
 
 **Images**
-<img src=photos/tent2/1.jpg style="width:600px" />
-<img src=photos/tent2/2.jpg style="width:600px" />
-<img src=photos/tent2/3.jpg style="width:600px" />
-<img src=photos/tent2/4.jpg style="width:600px" />
-<img src=photos/tent2/5.jpg style="width:600px" />
-<img src=photos/tent2/6.jpg style="width:600px" />
-<img src=photos/tent2/7.jpg style="width:600px" />
-<img src=photos/tent2/8.jpg style="width:600px" />
-<img src=photos/tent2/9.jpg style="width:600px" />
-<img src=photos/tent2/10.jpg style="width:600px" />
-<img src=photos/tent2/11.jpg style="width:600px" /> 
-[^3]
+<img src=photos/chair/1.jpg style="width:600px" />
+<img src=photos/chair/2.jpg style="width:600px" />
+<img src=photos/chair/3.jpg style="width:600px" />
+<img src=photos/chair/4.jpg style="width:600px" />
+<img src=photos/chair/5.jpg style="width:600px" />
+<img src=photos/chair/6.jpg style="width:600px" />
+<img src=photos/chair/7.jpg style="width:600px" />
+<img src=photos/chair/8.jpg style="width:600px" />
+<img src=photos/chair/9.jpg style="width:600px" />
+<img src=photos/chair/10.jpg style="width:600px" />
+<img src=photos/chair/11.jpg style="width:600px" /> 
+
+[^4]
 
 <a name="bookmark5"></a>
 # Bench Text and Image Directions
@@ -286,6 +289,7 @@ Finishing Touches
 <img src=photos/bench/9.jpg style="width:600px" />
 <img src=photos/bench/10.jpg style="width:600px" />
 <img src=photos/bench/11.jpg style="width:600px" /> 
+
 [^4]
 
 <a name="bookmark6"></a>
