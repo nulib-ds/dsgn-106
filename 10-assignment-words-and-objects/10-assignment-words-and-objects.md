@@ -67,7 +67,8 @@ Share your final version with another team. Note any differences between the cho
 <img src=photos/cake/6.jpg style="width:600px" />
 <img src=photos/cake/7.jpg style="width:600px" />
 <img src=photos/cake/8.jpg style="width:600px" />
-<img src=photos/cake/9.jpg style="width:600px" /> [^1]
+<img src=photos/cake/9.jpg style="width:600px" /> 
+[^1]
 
 <a name="bookmark0"></a>
 # Cake Time! Peer Feedback
@@ -114,7 +115,8 @@ ________Are the figures and text interspersed (not all the images are at the bot
 <img src=photos/tent1/2.jpg style="width:600px" />
 <img src=photos/tent1/3.jpg style="width:600px" />
 <img src=photos/tent1/4.jpg style="width:600px" />
-<img src=photos/tent1/5.jpg style="width:600px" /> [^2]
+<img src=photos/tent1/5.jpg style="width:600px" /> 
+[^2]
 
 <a name="bookmark2"></a>
 # Tent 2 Text and Image Directions
@@ -152,7 +154,8 @@ Attach Rainfly
 <img src=photos/tent1/5.jpg style="width:600px" />
 <img src=photos/tent1/6.jpg style="width:600px" />
 <img src=photos/tent1/7.jpg style="width:600px" />
-<img src=photos/tent1/8.jpg style="width:600px" /> [^2]
+<img src=photos/tent1/8.jpg style="width:600px" /> 
+[^2]
 
 <a name="bookmark3"></a>
 # Pitching a Tent Peer Feedback
@@ -236,7 +239,8 @@ Finishing Touches
 <img src=photos/tent2/8.jpg style="width:600px" />
 <img src=photos/tent2/9.jpg style="width:600px" />
 <img src=photos/tent2/10.jpg style="width:600px" />
-<img src=photos/tent2/11.jpg style="width:600px" /> [^3]
+<img src=photos/tent2/11.jpg style="width:600px" /> 
+[^3]
 
 <a name="bookmark5"></a>
 # Bench Text and Image Directions
@@ -331,5 +335,5 @@ ________Are the figures and text interspersed (not all the images are at the bot
 # References
 [^1]: Linuxmom, ["How to Make Cake"](https://www.instructables.com/How-to-make-cake-2/) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0)  
 [^2]: Coleman, Inc, [“Tent Setup Instructions, Model 2000004559”](https://images-eu.ssl-images-amazon.com/images/I/A1IqnG4BI%2BS.pdf)  is included with permission.  
-[^3]: Eureka! [“Assembly Instruction for the Titan Tent”](https://www.eurekacamping.com/sites/eurekacamping_site/files/Archive/TITAN09IM.pdf) is included on the basis of fair use.   
+[^3]: Eureka! [“Assembly Instruction for the Titan Tent”](https://www.reelschematic.com/wp-content/uploads/schematics/Eureka/Titan.pdf) is included on the basis of fair use.   
 [^4]: Family Handyman [“How to Build a Garden Bench”](https://www.familyhandyman.com/project/how-to-build-a-garden-bench/) and [“How to Build a Patio Chair”](https://www.familyhandyman.com/project/how-to-build-a-patio-chair/) are included on the basis of fair use.
