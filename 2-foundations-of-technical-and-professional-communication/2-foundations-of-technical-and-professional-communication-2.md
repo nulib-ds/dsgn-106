@@ -98,7 +98,7 @@ Rhetoric teaches us that our communications must be shaped by an understanding o
 
 -   [A Guide to Technical Communications: Strategies & Applications](https://ohiostate.pressbooks.pub/engrtechcomm) by Lynn Hall & Leah Wahlin, and is used under a [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
--   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-tc) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+-   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 -   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
@@ -127,7 +127,7 @@ Technical and professional writing focuses on audience, is rhetorical, persuasiv
 
 **Ethical:** Lastly, technical communication is ethical. All workplace writers have ethical obligations, many of which are closely linked to legal obligations that include liability laws, copyright laws, contract laws, and trademark laws.
 
-Related, on October 13, 2010, President Obama signed into law the [Plain Writing Act of 2010](https:/lainlanguage.gov/law/) (the Act) which is designed to promote clear government communication that the public can understand and use. The Act calls for writing that is clear, concise, and well-organized.
+Related, on October 13, 2010, President Obama signed into law the [Plain Writing Act of 2010](https:/plainlanguage.gov/law/) (the Act) which is designed to promote clear government communication that the public can understand and use. The Act calls for writing that is clear, concise, and well-organized.
 
 Another important consideration is to make sure electronic media, including e-learning documents, meet ADA (American Disabilities Act) laws for accessibility. More information is available on the [American with Disabilities Act website](https://www.ada.gov/).
 
@@ -232,9 +232,11 @@ Finally, your writing may be legible and readable, but how well can your audienc
 
 > This section contains material taken from:
 
--   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-tc) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
+-   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
 
--   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
+-   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License
+
+-   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
 # Audience
 
@@ -407,7 +409,7 @@ Describe, generally, how you might apply the elements of the writing process to 
 
 ![Figure 7](photos/7.jpg)
 
-*Figure 5.1. Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's Processus de Design Thinking. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [here](http://contested-cities.net/wpcontent/%20uploads/sites/8/2016/07/WPCC-165008-StatonKramerGordonValdez-FromTechnicalToPolitical.pdf) Used with permission.*
+*Figure 5.1. Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's Processus de Design Thinking. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [here](https://www.researchgate.net/publication/306107677) Used with permission.*
 
 *Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^10].
 
