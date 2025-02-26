@@ -232,7 +232,7 @@ Finishing Touches
 
 **Images**
 <img src=photos/chair/1.jpg style="width:600px" />
-<img src=photos/chair/2.jpg style="width:600px" />
+<img src=photos/chair/2.png style="width:600px" />
 <img src=photos/chair/3.jpg style="width:600px" />
 <img src=photos/chair/4.jpg style="width:600px" />
 <img src=photos/chair/5.jpg style="width:600px" />
@@ -278,17 +278,19 @@ Finishing Touches
 - Finished the bench with Cabot Australian Timber Oil.
 
 **Images**
-<img src=photos/bench/1.jpg style="width:600px" />
+<img src=photos/bench/1.png style="width:600px" />
 <img src=photos/bench/2.jpg style="width:600px" />
-<img src=photos/bench/3.jpg style="width:600px" />
-<img src=photos/bench/4.jpg style="width:600px" />
-<img src=photos/bench/5.jpg style="width:600px" />
-<img src=photos/bench/6.jpg style="width:600px" />
+<img src=photos/bench/3.png style="width:600px" />
+<img src=photos/bench/4.png style="width:600px" />
+<img src=photos/bench/5.png style="width:600px" />
+<img src=photos/bench/6.png style="width:600px" />
 <img src=photos/bench/7.jpg style="width:600px" />
-<img src=photos/bench/8.jpg style="width:600px" />
-<img src=photos/bench/9.jpg style="width:600px" />
-<img src=photos/bench/10.jpg style="width:600px" />
-<img src=photos/bench/11.jpg style="width:600px" /> 
+<img src=photos/bench/8.png style="width:600px" />
+<img src=photos/bench/9.png style="width:600px" />
+<img src=photos/bench/10.png style="width:600px" />
+<img src=photos/bench/11.png style="width:600px" /> 
+<img src=photos/bench/12.jpg style="width:600px" /> 
+<img src=photos/bench/13.jpg style="width:600px" /> 
 
 [^4]
 
