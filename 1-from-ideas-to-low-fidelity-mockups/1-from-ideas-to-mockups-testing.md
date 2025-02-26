@@ -24,16 +24,23 @@ Strategically and effectively guiding early phases of the design process to hone
 
 4. Refining the problem and ideating several potential solutions to address the refined problem.
 
-An example to demonstrate what this process might look like after the initial interview with your project partner and conducting user interviews starts with many ideas generated during an ideation session, such as brainstorming with your group. The initial ideas are shown below in [Figure 1](#figure1) and are sorted into groups representing similar ideas (green, orange, and purple). Each group represents a potential solution-set of ideas and an initial evaluation can help your team determine which ideas are worth exploring further. This example shows three groups and each group will be explored further. You may have more groups and will determine which and how many will be pursued. An alternatives matrix can be helpful for making the initial and subsequent evaluations.
+An example to demonstrate what this process might look like after the initial interview with your project partner and conducting user interviews starts with many ideas generated during an ideation session, such as brainstorming with your group. The initial ideas are shown below in [Figure 1](one) and are sorted into groups representing similar ideas (green, orange, and purple). Each group represents a potential solution-set of ideas and an initial evaluation can help your team determine which ideas are worth exploring further. This example shows three groups and each group will be explored further. You may have more groups and will determine which and how many will be pursued. An alternatives matrix can be helpful for making the initial and subsequent evaluations.
 
-<a name="figure1"></a>
+```{figure} ./photos/1.png
+---
+name: one
+---
+Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users.
+```
 
-![Figure 1. Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users.](photos/1.png)
+These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](two)).
 
-These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](#figure2)).
-
-<a name="figure2"></a>
-![Figure 2. Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.](photos/2.png)
+```{figure} ./photos/2.png
+---
+name: two
+---
+Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.
+```
 
 In parallel to the initial round of development that culminated with a user testing session, the team generates and explores new ideas that arise from feedback from users, additional secondary research, and refined project requirements such as appearance and interaction preferences. New ideas go through the same iterative process of evaluate, build, and test to develop Mockups 5 and 6. The team conducted another round of testing with users. The user feedback is combined with guidance from prototyping specialists, instructors/supervisors, and project stakeholders to inform the team on a prototype that represents their design concept. For a real-life example of this process in action for a DTC team, watch the [video describing the development of a one-handed glove donner](https://youtu.be/ZJJdJ1hQywM) [^1].
 
@@ -65,33 +72,38 @@ To assure that some subset of the ideas tested will succeed, the team must appro
 
 There are many methods to generate ideas (brainstorming and brainwriting are commonly used in DTC) and it is assumed you and your team will go through one or more of these. It can be helpful, but not necessary, to have a facilitator guide you through the ideation process. Facilitators may be your instructor or supervisor but can also be a teammate or colleague.
 
-Your team will have dozens or even hundreds of ideas at the conclusion of your initial ideation phase. It is important to note that these ideas should include a combination of full and partial solutions, with some ideas addressing only a single user need while other ideas aim to address multiple needs. Each idea should be documented so it can be referenced later. The example below shows initial ideas quickly sketched on sticky notes with a description or title for identification ([Figure 3](#figure3)). You and your team may document using graphics and text, an online collaboration tool, and or other means.
+Your team will have dozens or even hundreds of ideas at the conclusion of your initial ideation phase. It is important to note that these ideas should include a combination of full and partial solutions, with some ideas addressing only a single user need while other ideas aim to address multiple needs. Each idea should be documented so it can be referenced later. The example below shows initial ideas quickly sketched on sticky notes with a description or title for identification ([Figure 3](three)). You and your team may document using graphics and text, an online collaboration tool, and or other means.
 
-<a name="figure3"></a>
-
-![Figure 3. Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.](photos/3.png)
-
-_Figure 3. Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15._
+```{figure} ./photos/3.png
+---
+name: three
+---
+Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.
+```
 
 ## Step 2: Sorting Ideas into Complementary Solution-Sets
 
-As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](#bookmark3)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
+As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](four)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
 
-![Figure 4. Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets.](photos/4.png)
-
-_Figure 4. Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets._
+```{figure} ./photos/4.png
+---
+name: four
+---
+Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets.
+```
 
 Alternatives matrices are useful tools that can help you evaluate each idea's potential in addressing user needs. User needs are listed in the top row and ideas are listed in the first column. Ideas are evaluated against each need and given a score if it addresses that idea. Scoring can binary (e.g. 0 or 1) or span a range to indicate the priority of the associated need (e.g. 0, 1, 2, or 3 with large values indicating a higher priority). Ideas that meet multiple needs and or high-priority needs will rank higher and this information, along with other design considerations, can help a team decide on which ideas to pursue further.
 
 > ## Case Study: Designing Safer Sleeping Conditions for Infants
 >
-> [Figure 5](#figure5) shows an example of grouped ideas seeking to design safer sleeping conditions for infants who fall asleep while in a baby lounger. The groups naturally fell into four categories (clockwise from top-left): transitional devices, devices that are inherently safe to sleep in, miscellaneous ideas that didn't fit another category, and app/phone-related solutions.
+> [Figure 5](five) shows an example of grouped ideas seeking to design safer sleeping conditions for infants who fall asleep while in a baby lounger. The groups naturally fell into four categories (clockwise from top-left): transitional devices, devices that are inherently safe to sleep in, miscellaneous ideas that didn't fit another category, and app/phone-related solutions.
 >
-> <a name="figure5"></a>
->
-> ![figure 5](photos/5.png)
->
-> _Figure 5. Grouped ideas focused on increasing safety for infants who fall asleep in a lounger. Clockwise from top-left: Transitional devices, Inherently safe devices, Miscellaneous, & App/phone ideas. Images courtesy of all teams from 2019 Fall DTC - Section 15._
+> ```{figure} ./photos/5.png
+> ---
+> name: five
+> ---
+> Grouped ideas focused on increasing safety for infants who fall asleep in a lounger. Clockwise from top-left: Transitional devices, Inherently safe devices, Miscellaneous, & App/phone ideas. Images courtesy of all teams from 2019 Fall DTC - Section 15.
+> ```
 
 ## Step 3: Creating & Refining your Exploratory Questions
 
@@ -417,6 +429,8 @@ There are multiple ways to represent your ideas and you can often disassemble th
     </td>
   </tr>
 </table>
+
+---
 
 > Ver. 03 September 2020
 
