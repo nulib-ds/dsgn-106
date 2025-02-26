@@ -125,13 +125,14 @@ Answers to these questions will help you understand more about how well this ide
 
 > ## Case Study: Ride-On Vehicle for Robbie
 >
-> A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [See Robbie's Design Story Card here](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) and an excerpt is shown in [Figure 6](#figure6).
+> A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [See Robbie's Design Story Card here](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) and an excerpt is shown in [Figure 6](six).
 >
-> <a name="figure6"></a>
->
-> ![Figure 6 Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.](photos/6.png)
->
-> _Figure 6. Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2._
+> ```{figure} ./photos/6.png
+> ---
+> name: six
+> ---
+> Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.
+> ```
 >
 > This team settled on several potential ways for Robbie to steer his car. The associated questions were devised _before_ any mockups were built and helped guide the team in determining what should be built and tested.
 
@@ -209,45 +210,56 @@ Low-fidelity physical mock-ups are often built with very different materials tha
 
 Physical mockups can also be useful to demonstrate a process, which can be impractical to build at-scale.
 
-<a name="figure7"></a>
+```{figure} ./photos/7.png
+---
+name: seven
+---
+Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].
+```
 
-![*Figure 7 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin*](photos/7.png)
+[Figure 7](seven) shows a mock-up of a museum exposition, with the different exhibits, signs and tables that allows for a discussion of the user experience in the space: who will greet them and where they will pay, where the bathroom is and how hard it is to get there, where signs directing visitors will be situated, etc. Designer Jess McMullin says the inclusion of pictures helps connect "observations in field to possibilities in the future expressed through prototypes, and also creates 'better empathy.'" When testing for users responses to different forms, you can also use paper and cardstock to build low fidelity "looks-like" mock-ups, which can be presented to various users and audiences to get feedback on appearance, comprehension, or use of a space. [Figure 8](eight) shows a "looks-like" mock-up of a backpack, used to get feedback from potential customers on the form and placement of the features including front pockets, buckle and straps. This "looks-like" mock- up would not be a good way to test how much load the backpack could hold, and the durability of the straps, or even the fit on a person. Danielle Panther, designer of this mock-up, said 'Bag prototype made using card, masking tape, and glue. I am happy with the size and style of my bag and I am looking forward to making it in my faux leather material.'
 
-_Figure 7. Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020]._
-
-[Figure 7](#figure7) shows a mock-up of a museum exposition, with the different exhibits, signs and tables that allows for a discussion of the user experience in the space: who will greet them and where they will pay, where the bathroom is and how hard it is to get there, where signs directing visitors will be situated, etc. Designer Jess McMullin says the inclusion of pictures helps connect "observations in field to possibilities in the future expressed through prototypes, and also creates 'better empathy.'" When testing for users responses to different forms, you can also use paper and cardstock to build low fidelity "looks-like" mock-ups, which can be presented to various users and audiences to get feedback on appearance, comprehension, or use of a space. [Figure 8](#figure8) shows a "looks-like" mock-up of a backpack, used to get feedback from potential customers on the form and placement of the features including front pockets, buckle and straps. This "looks-like" mock- up would not be a good way to test how much load the backpack could hold, and the durability of the straps, or even the fit on a person. Danielle Panther, designer of this mock-up, said 'Bag prototype made using card, masking tape, and glue. I am happy with the size and style of my bag and I am looking forward to making it in my faux leather material.'
-
-<a name="figure8"></a>
-
-![*Figure 8 This is a low fidelity mock-up of a bag made by a Danielle Panther*](photos/8.png)
-
-_Figure 8. This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020]._
+```{figure} ./photos/8.png
+---
+name: eight
+---
+This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020]._
+```
 
 ### Concept Sketches
 
-Concept sketches are frequently used to illustrate different appearances very quickly for physical objects or software layouts but can also be used to illustrate a solution to a problem and gauge user interest and concerns. Such sketches are used in conjunction with a "concept walk thru" that could be held in person or remotely in order to gauge user interest and feedback. This can be done quickly (5-10 min) and with multiple people (5-10) in the targeted user population. [Figure 9](#figure9) demonstrates when a design team looking to build a better bra used a focused concept sketches to illustrate an idea for keeping bra straps on the shoulders, a problem for many women regardless of age. The second more comprehensive concept sketch looks to illustrate how the "build a bra" idea to help pregnant and nursing women adjust their bra as their body changes during pregnancy, childbirth, and lactation. These concept sketches were shown to women in the target audience, and reactions and questions used to determine which ideas resonated with them. Concept sketches do not need to be 'perfect', but rather only good enough so that you are able to communicate the idea to someone else who can provide feedback. In this case, the "sticky straps" concept resonated with a broader user base, while "build a bra" raised concerns about the users' ability to correctly adjust the bra themselves.
+Concept sketches are frequently used to illustrate different appearances very quickly for physical objects or software layouts but can also be used to illustrate a solution to a problem and gauge user interest and concerns. Such sketches are used in conjunction with a "concept walk thru" that could be held in person or remotely in order to gauge user interest and feedback. This can be done quickly (5-10 min) and with multiple people (5-10) in the targeted user population. [Figure 9](nine) demonstrates when a design team looking to build a better bra used a focused concept sketches to illustrate an idea for keeping bra straps on the shoulders, a problem for many women regardless of age. The second more comprehensive concept sketch looks to illustrate how the "build a bra" idea to help pregnant and nursing women adjust their bra as their body changes during pregnancy, childbirth, and lactation. These concept sketches were shown to women in the target audience, and reactions and questions used to determine which ideas resonated with them. Concept sketches do not need to be 'perfect', but rather only good enough so that you are able to communicate the idea to someone else who can provide feedback. In this case, the "sticky straps" concept resonated with a broader user base, while "build a bra" raised concerns about the users' ability to correctly adjust the bra themselves.
 
-<a name="figure9"></a>
-![*Figure 9 pt. 1 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*](photos/9.png)
-![*Figure 9 pt. 2 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.*](photos/10.png)
+```{figure} ./photos/9.png
+---
+name: nine
+```
+```{figure} ./photos/10.png
+---
+name: nineb
+---
+Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5._
+```
 
-_Figure 9 Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5._
+The sketches in [Figure 10](ten) show how multiple concept sketches can be used to test the reaction of potential customers to different forms of a lockbox (and placements of a battery compartment, latch, handle and opening mechanism) without having to physically build anything.
 
-The sketches in [Figure 10](#figure10) show how multiple concept sketches can be used to test the reaction of potential customers to different forms of a lockbox (and placements of a battery compartment, latch, handle and opening mechanism) without having to physically build anything.
-
-<a name="figure10"></a>
-![*Figure 10 Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism.*](photos/11.png)
-
-_Figure 10. Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020]._
+```{figure} ./photos/11.png
+---
+name: ten
+---
+Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020]._
+```
 
 ### StoryBoards
 
-Storyboards are a good way to demonstrate a process and interactions in order to test and represent the user's experience. Storyboards use sketches, pictures, and words to illustrate key aspects of the user's experience, particularly the users "pain points" and how the design eases the pain point. This can be particularly useful for software designs getting feedback without needing to build any new software. The story board below ([Figure 11](#figure11)) illustrates how the app "Pawdacity\'\' helps the user Jody to measure her pet's paw, understand the different functions and features for her particular need, and finally order the right "doggie boot" product she needs.
+Storyboards are a good way to demonstrate a process and interactions in order to test and represent the user's experience. Storyboards use sketches, pictures, and words to illustrate key aspects of the user's experience, particularly the users "pain points" and how the design eases the pain point. This can be particularly useful for software designs getting feedback without needing to build any new software. The story board below ([Figure 11](eleven)) illustrates how the app "Pawdacity\'\' helps the user Jody to measure her pet's paw, understand the different functions and features for her particular need, and finally order the right "doggie boot" product she needs.
 
-<a name="figure11"></a>
-![](photos/12.png)
-
-_Figure 11. Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12._
+```{figure} ./photos/12.png
+---
+name: eleven
+---
+Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12.
+```
 
 These storyboards are often used to focus the development team on the key aspect of the application that have value to the customer. In this case the value add for the user was the paw measurement tool in conjunction with the database of highly recommended doggie booties to recommend a specific brand to suit the usage situation and dog breed. For a great reference on Agile software development, we recommend reading "The Agile Samuari: How Agile Masters Deliver Great Software." [^2]
 
@@ -259,13 +271,14 @@ Testing a novel way of accomplishing a task can add value to the user without th
 
 In app and website development, simple sketching and "wireframing", a low-fidelity method for creating a two-dimensional skeletal outline of an interface such as a web page or app.
 
-Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](figure12)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
+Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](twelve)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
 
-<a name="figure12"></a>
-
-![*Figure 12 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12.*](photos/13.png)
-
-_Figure 12. Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12._
+```{figure} ./photos/13.png
+---
+name: twelve
+---
+Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12.
+```
 
 High-fidelity mock-ups of your final app, the team might end up using [proto.io](https://proto.io/); however, in the early stages of app development, simple hand drawn wireframes suffice. A great free workspace for creating apps on your phone without having to do any coding is the [MIT App Inventor](https://appinventor.mit.edu/). PowerPoint mock-ups with animation can be used to mimic actual features and test for user feedback without needing to do any coding.
 
@@ -275,7 +288,7 @@ We have discussed many types of mockups, above, as well as the iterative nature 
 
 Determining what type(s) of mockups to build will start with developing your exploratory questions. Think about what you need to learn to determine if your idea is a 'good' one or not. Once you have your exploratory questions, then ask yourself what you need to build to help you answer these questions.
 
-Completing a mockup plan can be very helpful in guiding your team in determining appropriate mockups to build and what the purpose of each will be. Your team should approach each mockup plan by following the listed steps. An example is shown below ([Figure 13](#figure13)).
+Completing a mockup plan can be very helpful in guiding your team in determining appropriate mockups to build and what the purpose of each will be. Your team should approach each mockup plan by following the listed steps. An example is shown below ([Figure 13](thirteen)).
 
 1. List your exploratory questions
 
@@ -285,11 +298,12 @@ Completing a mockup plan can be very helpful in guiding your team in determining
 
 4. Describe your testing plan with a user to get feedback that will answer your exploratory questions
 
-![](photos/14.png)
-
-<a name="figure13"></a>
-
-_Figure 13. Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1._
+```{figure} ./photos/14.png
+---
+name: thirteen
+---
+Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1.
+```
 
 ### Strategies for Success in Building Early Low-Fidelity Mock-ups
 
