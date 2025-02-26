@@ -4,9 +4,12 @@ _Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_
 
 # What is primary research?
 
-![Image of two people at a table speaking to each other.](photos/1.png)
-
-_Photo by Christina @ wocintechchat.com on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+```{figure} ./photos/1.png
+---
+name: one
+---
+Photo by Christina @ wocintechchat.com on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+```
 
 ## Introduction 
 
@@ -153,9 +156,12 @@ The following links offer resources for understanding and addressing gender bias
 
 ## What are the goals of primary research and how do you reach those goals?
 
-![Image of two people. One is holding a camera as the other looks on](photos/2.png)
-
-_Photo by Aaron Burden on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+```{figure} ./photos/2.png
+---
+name: two
+---
+Photo by Aaron Burden on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+```
 
 ## Clarify the research question(s) 
 
@@ -229,9 +235,12 @@ The bottom line is that as you and your team conduct research, you'll uncover im
 
 # Tips, models, and templates
 
-![](photos/3.png)
-
-_Photo by UX Indonesia on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+```{figure} ./photos/3.png
+---
+name: three
+---
+Photo by UX Indonesia on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+```
 
 ## Observing 
 
@@ -401,9 +410,12 @@ See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing s
 
 ## Mitigating bias in your observation notes
 
-![](photos/4.png)
-
-_Photo by Felipe Furtado on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+```{figure} ./photos/4.png
+---
+name: four
+---
+Photo by Felipe Furtado on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+```
 
 As you engage in observation, you'll want to ensure that you focus on the details and the facts. According to Driscoll (2011):
 
