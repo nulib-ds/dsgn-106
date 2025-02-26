@@ -655,6 +655,7 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 **Thank people** at the end of the survey.
 
+---
 > Ver. 23 Aug 2020
 
 ## References
