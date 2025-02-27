@@ -24,20 +24,20 @@ Strategically and effectively guiding early phases of the design process to hone
 
 4. Refining the problem and ideating several potential solutions to address the refined problem.
 
-An example to demonstrate what this process might look like after the initial interview with your project partner and conducting user interviews starts with many ideas generated during an ideation session, such as brainstorming with your group. The initial ideas are shown below in [Figure 1](one) and are sorted into groups representing similar ideas (green, orange, and purple). Each group represents a potential solution-set of ideas and an initial evaluation can help your team determine which ideas are worth exploring further. This example shows three groups and each group will be explored further. You may have more groups and will determine which and how many will be pursued. An alternatives matrix can be helpful for making the initial and subsequent evaluations.
+An example to demonstrate what this process might look like after the initial interview with your project partner and conducting user interviews starts with many ideas generated during an ideation session, such as brainstorming with your group. The initial ideas are shown below in [Figure 1](one-one) and are sorted into groups representing similar ideas (green, orange, and purple). Each group represents a potential solution-set of ideas and an initial evaluation can help your team determine which ideas are worth exploring further. This example shows three groups and each group will be explored further. You may have more groups and will determine which and how many will be pursued. An alternatives matrix can be helpful for making the initial and subsequent evaluations.
 
 ```{figure} ./photos/1.png
 ---
-name: one
+name: one-one
 ---
 Initial ideas sorted into potential solution-sets. Ideas go through initial evaluation, building, and testing that result in mockups to be tested with users.
 ```
 
-These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](two)).
+These three solution-sets undergo some initial building & feedback, until they manifest in several low fidelity mockups that go through user testing. User testing indicated partially successful and desired features, which are combined and refined. Iterating the process with additional ideation, evaluation, building, and testing yielded a new concept. The new concept is represented with Mockup 4 ([Figure 2](one-two)).
 
 ```{figure} ./photos/2.png
 ---
-name: two
+name: one-two
 ---
 Initial ideas result in user-tested mockups (dashed box). Successful features are kept, combined, and refined into Mockup 4. New ideas are generated based on feedback and research. Iterations leads to new mockups.
 ```
@@ -72,22 +72,22 @@ To assure that some subset of the ideas tested will succeed, the team must appro
 
 There are many methods to generate ideas (brainstorming and brainwriting are commonly used in DTC) and it is assumed you and your team will go through one or more of these. It can be helpful, but not necessary, to have a facilitator guide you through the ideation process. Facilitators may be your instructor or supervisor but can also be a teammate or colleague.
 
-Your team will have dozens or even hundreds of ideas at the conclusion of your initial ideation phase. It is important to note that these ideas should include a combination of full and partial solutions, with some ideas addressing only a single user need while other ideas aim to address multiple needs. Each idea should be documented so it can be referenced later. The example below shows initial ideas quickly sketched on sticky notes with a description or title for identification ([Figure 3](three)). You and your team may document using graphics and text, an online collaboration tool, and or other means.
+Your team will have dozens or even hundreds of ideas at the conclusion of your initial ideation phase. It is important to note that these ideas should include a combination of full and partial solutions, with some ideas addressing only a single user need while other ideas aim to address multiple needs. Each idea should be documented so it can be referenced later. The example below shows initial ideas quickly sketched on sticky notes with a description or title for identification ([Figure 3](one-three)). You and your team may document using graphics and text, an online collaboration tool, and or other means.
 
 ```{figure} ./photos/3.png
 ---
-name: three
+name: one-three
 ---
 Example concept ideas generated during an ideation session focused on infant safe sleeping. Each idea should be documented with a quick sketch and descriptor. Image courtesy of all teams from 2019 Fall DTC - Section 15.
 ```
 
 ## Step 2: Sorting Ideas into Complementary Solution-Sets
 
-As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](four)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
+As you develop ideas, either during the process or after you've generated many ideas, group them according to a shared characteristic. These characteristics should be readily apparent and ones that you identify. Some examples may include 'things that squeeze' or 'requires the user to lift/push.' Each group of ideas represents a potential solution set and you should aim to have several complementary solution sets ([Figure 4](one-four)). It is extremely common that the final design will comprise features and ideas from multiple solution sets and will not be one single idea developed from your initial ideation phase. This is illustrated in the following video describing the development of a one-handed glove donner where aspects of several design ideas were represented in the various features of the final product.
 
 ```{figure} ./photos/4.png
 ---
-name: four
+name: one-four
 ---
 Grouped ideas become potential solution sets, which have some unknown intersection with not fully defined problem sets.
 ```
@@ -96,11 +96,11 @@ Alternatives matrices are useful tools that can help you evaluate each idea's po
 
 > ## Case Study: Designing Safer Sleeping Conditions for Infants
 >
-> [Figure 5](five) shows an example of grouped ideas seeking to design safer sleeping conditions for infants who fall asleep while in a baby lounger. The groups naturally fell into four categories (clockwise from top-left): transitional devices, devices that are inherently safe to sleep in, miscellaneous ideas that didn't fit another category, and app/phone-related solutions.
+> [Figure 5](one-five) shows an example of grouped ideas seeking to design safer sleeping conditions for infants who fall asleep while in a baby lounger. The groups naturally fell into four categories (clockwise from top-left): transitional devices, devices that are inherently safe to sleep in, miscellaneous ideas that didn't fit another category, and app/phone-related solutions.
 >
 > ```{figure} ./photos/5.png
 > ---
-> name: five
+> name: one-five
 > ---
 > Grouped ideas focused on increasing safety for infants who fall asleep in a lounger. Clockwise from top-left: Transitional devices, Inherently safe devices, Miscellaneous, & App/phone ideas. Images courtesy of all teams from 2019 Fall DTC - Section 15.
 > ```
@@ -125,11 +125,11 @@ Answers to these questions will help you understand more about how well this ide
 
 > ## Case Study: Ride-On Vehicle for Robbie
 >
-> A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [See Robbie's Design Story Card here](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) and an excerpt is shown in [Figure 6](six).
+> A young boy Robbie, born without arms, wants to steer a ride-on car with his foot. The team brainstormed over 25-50 different ideas, and eventually settled on three functionally distinct solution sets to meet Robbie's needs. While each solution set is represented by a single sketch and idea, there are many ways to build and test each of these solution sets. [See Robbie's Design Story Card here](https://docs.google.com/document/d/1_sTvfSKa25W4MTQ1hT_9D_I6mUyQhYUtl2fplygB3SU/edit?usp=sharing) and an excerpt is shown in [Figure 6](one-six).
 >
 > ```{figure} ./photos/6.png
 > ---
-> name: six
+> name: one-six
 > ---
 > Portion of a Design Story Card to learn more about how ideas address Robbie's need of steering and driving a ride-on car. The team's current mission statement is at the top and three potential solutions with, exploratory questions, are below. Images courtesy of all teams from 2017 Fall DTC - Section 2.
 > ```
@@ -212,51 +212,52 @@ Physical mockups can also be useful to demonstrate a process, which can be impra
 
 ```{figure} ./photos/7.png
 ---
-name: seven
+name: one-seven
 ---
 Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].
 ```
 
-[Figure 7](seven) shows a mock-up of a museum exposition, with the different exhibits, signs and tables that allows for a discussion of the user experience in the space: who will greet them and where they will pay, where the bathroom is and how hard it is to get there, where signs directing visitors will be situated, etc. Designer Jess McMullin says the inclusion of pictures helps connect "observations in field to possibilities in the future expressed through prototypes, and also creates 'better empathy.'" When testing for users responses to different forms, you can also use paper and cardstock to build low fidelity "looks-like" mock-ups, which can be presented to various users and audiences to get feedback on appearance, comprehension, or use of a space. [Figure 8](eight) shows a "looks-like" mock-up of a backpack, used to get feedback from potential customers on the form and placement of the features including front pockets, buckle and straps. This "looks-like" mock- up would not be a good way to test how much load the backpack could hold, and the durability of the straps, or even the fit on a person. Danielle Panther, designer of this mock-up, said 'Bag prototype made using card, masking tape, and glue. I am happy with the size and style of my bag and I am looking forward to making it in my faux leather material.'
+[Figure 7](one-seven) shows a mock-up of a museum exposition, with the different exhibits, signs and tables that allows for a discussion of the user experience in the space: who will greet them and where they will pay, where the bathroom is and how hard it is to get there, where signs directing visitors will be situated, etc. Designer Jess McMullin says the inclusion of pictures helps connect "observations in field to possibilities in the future expressed through prototypes, and also creates 'better empathy.'" When testing for users responses to different forms, you can also use paper and cardstock to build low fidelity "looks-like" mock-ups, which can be presented to various users and audiences to get feedback on appearance, comprehension, or use of a space. [Figure 8](one-eight) shows a "looks-like" mock-up of a backpack, used to get feedback from potential customers on the form and placement of the features including front pockets, buckle and straps. This "looks-like" mock- up would not be a good way to test how much load the backpack could hold, and the durability of the straps, or even the fit on a person. Danielle Panther, designer of this mock-up, said 'Bag prototype made using card, masking tape, and glue. I am happy with the size and style of my bag and I am looking forward to making it in my faux leather material.'
 
 ```{figure} ./photos/8.png
 ---
-name: eight
+name: one-eight
 ---
-This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020]._
+This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020].
 ```
 
 ### Concept Sketches
 
-Concept sketches are frequently used to illustrate different appearances very quickly for physical objects or software layouts but can also be used to illustrate a solution to a problem and gauge user interest and concerns. Such sketches are used in conjunction with a "concept walk thru" that could be held in person or remotely in order to gauge user interest and feedback. This can be done quickly (5-10 min) and with multiple people (5-10) in the targeted user population. [Figure 9](nine) demonstrates when a design team looking to build a better bra used a focused concept sketches to illustrate an idea for keeping bra straps on the shoulders, a problem for many women regardless of age. The second more comprehensive concept sketch looks to illustrate how the "build a bra" idea to help pregnant and nursing women adjust their bra as their body changes during pregnancy, childbirth, and lactation. These concept sketches were shown to women in the target audience, and reactions and questions used to determine which ideas resonated with them. Concept sketches do not need to be 'perfect', but rather only good enough so that you are able to communicate the idea to someone else who can provide feedback. In this case, the "sticky straps" concept resonated with a broader user base, while "build a bra" raised concerns about the users' ability to correctly adjust the bra themselves.
+Concept sketches are frequently used to illustrate different appearances very quickly for physical objects or software layouts but can also be used to illustrate a solution to a problem and gauge user interest and concerns. Such sketches are used in conjunction with a "concept walk thru" that could be held in person or remotely in order to gauge user interest and feedback. This can be done quickly (5-10 min) and with multiple people (5-10) in the targeted user population. [Figures 9](one-nine) and [10](one-ten) demonstrate when a design team looking to build a better bra used a focused concept sketches to illustrate an idea for keeping bra straps on the shoulders, a problem for many women regardless of age. The second more comprehensive concept sketch looks to illustrate how the "build a bra" idea to help pregnant and nursing women adjust their bra as their body changes during pregnancy, childbirth, and lactation. These concept sketches were shown to women in the target audience, and reactions and questions used to determine which ideas resonated with them. Concept sketches do not need to be 'perfect', but rather only good enough so that you are able to communicate the idea to someone else who can provide feedback. In this case, the "sticky straps" concept resonated with a broader user base, while "build a bra" raised concerns about the users' ability to correctly adjust the bra themselves.
 
 ```{figure} ./photos/9.png
 ---
-name: nine
-```
-```{figure} ./photos/10.png
----
-name: nineb
----
-Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5._
+name: one-nine
 ```
 
-The sketches in [Figure 10](ten) show how multiple concept sketches can be used to test the reaction of potential customers to different forms of a lockbox (and placements of a battery compartment, latch, handle and opening mechanism) without having to physically build anything.
+```{figure} ./photos/10.png
+---
+name: one-ten
+---
+Bra redesign concept sketches. Images courtesy of Team 3 - 2016 Spring DTC Section 5.
+```
+
+The sketches in [Figure 11](one-eleven) show how multiple concept sketches can be used to test the reaction of potential customers to different forms of a lockbox (and placements of a battery compartment, latch, handle and opening mechanism) without having to physically build anything.
 
 ```{figure} ./photos/11.png
 ---
-name: ten
+name: one-eleven
 ---
-Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020]._
+Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020].
 ```
 
 ### StoryBoards
 
-Storyboards are a good way to demonstrate a process and interactions in order to test and represent the user's experience. Storyboards use sketches, pictures, and words to illustrate key aspects of the user's experience, particularly the users "pain points" and how the design eases the pain point. This can be particularly useful for software designs getting feedback without needing to build any new software. The story board below ([Figure 11](eleven)) illustrates how the app "Pawdacity\'\' helps the user Jody to measure her pet's paw, understand the different functions and features for her particular need, and finally order the right "doggie boot" product she needs.
+Storyboards are a good way to demonstrate a process and interactions in order to test and represent the user's experience. Storyboards use sketches, pictures, and words to illustrate key aspects of the user's experience, particularly the users "pain points" and how the design eases the pain point. This can be particularly useful for software designs getting feedback without needing to build any new software. The story board below ([Figure 12](one-twelve)) illustrates how the app "Pawdacity\'\' helps the user Jody to measure her pet's paw, understand the different functions and features for her particular need, and finally order the right "doggie boot" product she needs.
 
 ```{figure} ./photos/12.png
 ---
-name: eleven
+name: one-twelve
 ---
 Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12.
 ```
@@ -271,11 +272,11 @@ Testing a novel way of accomplishing a task can add value to the user without th
 
 In app and website development, simple sketching and "wireframing", a low-fidelity method for creating a two-dimensional skeletal outline of an interface such as a web page or app.
 
-Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](twelve)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
+Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 13](one-thirteen)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
 
 ```{figure} ./photos/13.png
 ---
-name: twelve
+name: one-thirteen
 ---
 Lo-Fi wireframe from mock-up sheet for an app which helps users figure out where to eat based on recommendations from their friends. Image Courtesy of Team 2 Spring DTC 2017 - Section 12.
 ```
@@ -288,7 +289,7 @@ We have discussed many types of mockups, above, as well as the iterative nature 
 
 Determining what type(s) of mockups to build will start with developing your exploratory questions. Think about what you need to learn to determine if your idea is a 'good' one or not. Once you have your exploratory questions, then ask yourself what you need to build to help you answer these questions.
 
-Completing a mockup plan can be very helpful in guiding your team in determining appropriate mockups to build and what the purpose of each will be. Your team should approach each mockup plan by following the listed steps. An example is shown below ([Figure 13](thirteen)).
+Completing a mockup plan can be very helpful in guiding your team in determining appropriate mockups to build and what the purpose of each will be. Your team should approach each mockup plan by following the listed steps. An example is shown below ([Figure 14](one-fourteen)).
 
 1. List your exploratory questions
 
@@ -300,7 +301,7 @@ Completing a mockup plan can be very helpful in guiding your team in determining
 
 ```{figure} ./photos/14.png
 ---
-name: thirteen
+name: one-fourteen
 ---
 Mockup plan courtesy of Team 1 of Fall 2018 DTC - Section 1.
 ```
