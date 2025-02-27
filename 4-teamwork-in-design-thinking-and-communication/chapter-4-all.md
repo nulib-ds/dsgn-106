@@ -37,7 +37,7 @@ name: four-one
 
 ```{figure} ./photos/2.png
 ---
-name: two
+name: four-two
 ---
 A team of design students poses with their prototype. Presentations (Photo 1). Photographed by McCormick School of Engineering, Northwestern University.
 ```
@@ -60,7 +60,7 @@ Gretchen Vogt, a former design student, reflected on how this class pushed her o
 
 ```{figure} ./photos/3.png
 ---
-name: three
+name: four-three
 ---
 Design students present their project. Presentations (Photo 9). Photographed by McCormick School of Engineering, Northwestern University.
 ```
@@ -87,7 +87,7 @@ This teammate is responsible for advocating for ideas during brainstorming, and 
 
 ```{figure} ./photos/4.png
 ---
-name: four
+name: four-four
 ```
 
 This person also makes sure that everyone understands the conversation, and that jargon isn't being used that might be understood differently by different people. This person checks in with other teammates to ensure everyone has had a chance to share their points-of-view and ideas.
@@ -100,7 +100,7 @@ This teammate is responsible for updating and referencing the project management
 
 ```{figure} ./photos/5.png
 ---
-name: five
+name: four-five
 ```
 
 This person keeps the team on track.
@@ -109,7 +109,7 @@ This person keeps the team on track.
 
 ```{figure} ./photos/6.png
 ---
-name: six
+name: four-six
 ```
 
 This person records notes during team meetings; client interactions; and presentations (i.e., such as comments from teachers and classmates). This person also shares these notes with all other teammates so that everyone is up-to-date with what's currently happening in terms of teamwork and project design. In addition, this person is responsible for communicating with external partners, such as clients and project partners, to complete tasks such as scheduling and email communications.
@@ -131,7 +131,7 @@ name: seven
 
 ```{figure} ./photos/8.png
 ---
-name: eight
+name: four-eight
 ---
 A team of design students meets to discuss their ideas. DTC Small Group Meeting. Photographed by McCormick School of Engineering, Northwestern University.
 ```
@@ -152,7 +152,7 @@ As you assign work to your team members, you'll want to ensure that each team me
 
 ```{figure} ./photos/9.png
 ---
-name: nine
+name: four-nine
 ---
 A design team works on their prototype. DTC Fair Dec. 7. Photographed by McCormick School of Engineering, Northwestern University.
 ```

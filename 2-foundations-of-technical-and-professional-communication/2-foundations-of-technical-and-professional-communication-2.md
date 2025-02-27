@@ -1,29 +1,30 @@
 # Foundations of Technical and Professional Communication
 
-_Prepared by Laura Maria Pigozzi, PhD_
+_Laura Maria Pigozzi, PhD_
 
 ## What is technical and professional communication?
 
 ```{figure} ./photos/1.png
+:no-number:
 ---
-name: one
+name: two-one
 ```
 
 > In science, the credit goes to the \[person\] that convinces the
-world, not to whom the idea first occurs [^1] \~ Francis Darwin (son
-of Charles Darwin)
+> world, not to whom the idea first occurs. \~ _Francis Darwin (son
+> of Charles Darwin)_[^1]
 
 As Francis Darwin points out, no matter how spectacular your ideas and designs are, if you can't communicate them effectively to a wide variety of audiences, they will not be recognized.
 
 Effective communication is the vehicle to get your work documented, legitimized, recognized, utilized.
 
-When you hear the term *technical communication*, what comes to mind? Perhaps you think of scientific reports, specifications, instructions, software documentation, proposals, or technical manuals. Perhaps you think of writing done by engineers to document a design project. Yes, all of this. However, technical communication is more than that. Technical communication includes writing produced in day-to-day business operations such as emails, memos, meeting minutes, and a variety of reports. These day-to-day communications can be described as *business communication* or *professional communication.* And because oral and visual presentations are such an important part of professional life, technical communication also encompasses these as well. Websites and blogs are technical communication and increasingly, social media has also been included.
+When you hear the term _technical communication_, what comes to mind? Perhaps you think of scientific reports, specifications, instructions, software documentation, proposals, or technical manuals. Perhaps you think of writing done by engineers to document a design project. Yes, all of this. However, technical communication is more than that. Technical communication includes writing produced in day-to-day business operations such as emails, memos, meeting minutes, and a variety of reports. These day-to-day communications can be described as _business communication_ or _professional communication._ And because oral and visual presentations are such an important part of professional life, technical communication also encompasses these as well. Websites and blogs are technical communication and increasingly, social media has also been included.
 
 Specifically, technical and professional communication (TPC) involves communicating complex information to a specific audience who will use it to accomplish some goal or task. TPC provides specific information for practical and specific purposes (informing, instructing, persuading).
 
 Engineers, especially, must be able to communicate within their teams and also be able to communicate complex information to a variety of audiences with different knowledge backgrounds. As Stephen Pinker explains,
 
-The curse of knowledge is the single best explanation of why good people write bad prose. It simply doesn't occur to the writer that her readers don't know what she knows---that they haven't mastered the argot of her guild, can't divine the missing steps that seem too obvious to mention, have no way to visualize a scene that to her is as clear as day. And so the writer doesn't bother to explain the jargon, or spell out the logic, or supply the necessary detail [^2].
+The curse of knowledge is the single best explanation of why good people write bad prose. It simply doesn't occur to the writer that her readers don't know what she knows---that they haven't mastered the argot of her guild, can't divine the missing steps that seem too obvious to mention, have no way to visualize a scene that to her is as clear as day. And so the writer doesn't bother to explain the jargon, or spell out the logic, or supply the necessary detail. [^2]
 
 Essentially, anyone who has developed a specific area of expertise needs to be mindful that not everyone around them knows the same information or even sees the world in the same way.
 
@@ -32,8 +33,9 @@ Thus, TPC is a highly designed form of communication that requires authors to ha
 ## Why should you care?
 
 ```{figure} ./photos/2.png
+:no-number:
 ---
-name: two
+name: two-two
 ```
 
 Good communication skills, particularly in writing, are essential if you are going to succeed in the workplace. The working world depends on written communication because within today's organizations, almost every action is documented in writing.
@@ -54,13 +56,14 @@ The engineering co-op coordinator added that engineers who are more advanced in 
 
 The video [Writing in the Workplace](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
 
-<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvAiE7owmeI?si=csEcNNjbtIvpitCV" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvAiE7owmeI?si=csEcNNjbtIvpitCV" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## What is TPC's foundation?
 
 ```{figure} ./photos/3.png
+:no-number:
 ---
-name: three
+name: two-three
 ```
 
 Technical and professional communication is grounded in **Rhetoric,** the ancient art and science of persuasion. Unfortunately, in the 21st century, rhetoric tends to be positioned as something separate from everyday communication. However, all human activities are rhetorical, whether or not we are conscious of it.
@@ -99,27 +102,27 @@ Rhetoric teaches us that our communications must be shaped by an understanding o
 
 2.  Visit the website of a car manufacturer. Identify the use of ethos, pathos, and logos in both the text and the visual elements.
 
-> This section contains material taken from
-
--   [A Guide to Technical Communications: Strategies & Applications](https://ohiostate.pressbooks.pub/engrtechcomm) by Lynn Hall & Leah Wahlin, and is used under a [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
-
--   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
--   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
-
--   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
-
+> This section contains material taken from:
+>
+> - [A Guide to Technical Communications: Strategies & Applications](https://ohiostate.pressbooks.pub/engrtechcomm) by Lynn Hall & Leah Wahlin, and is used under a [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+>
+> - [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+>
+> - [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
+>
+> - [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
 ## Characteristics and Conventions of Technical and Professional Communication
 
 ```{figure} ./photos/4.png
+:no-number:
 ---
-name: four
+name: two-four
 ```
 
 ## Characteristics
 
-Mike Markell [^5], Sidney Dobrin [^6], Elizabeth Tebeaux [^7], Sam Dragga [^7], and other technical communication scholars all identify similar characteristics of technical communication.
+Mike Markell,[^5] Sidney Dobrin,[^6] Elizabeth Tebeaux,[^7] Sam Dragga,[^7] and other technical communication scholars all identify similar characteristics of technical communication.
 
 Technical and professional writing focuses on audience, is rhetorical, persuasive, purposeful, and problem-oriented, and is professional.
 
@@ -139,7 +142,7 @@ Related, on October 13, 2010, President Obama signed into law the [Plain Writing
 
 Another important consideration is to make sure electronic media, including e-learning documents, meet ADA (American Disabilities Act) laws for accessibility. More information is available on the [American with Disabilities Act website](https://www.ada.gov/).
 
-Technical and Professional Communication (TPC) is often taught using a **genre**-based approach. As explained by Richardohnson-Sheehan [^8], "Genres are patterns that reflect how communities, including people in technical workplaces, get things done. A genre shapes a project's content, organization, style, and design, as well as the medium in which it is delivered" (p. 2). Specific document-types can also be referred to as genres. Memos, proposals, progress reports are all genres -- and each of those have unique characteristics and rules (conventions).
+Technical and Professional Communication (TPC) is often taught using a **genre**-based approach. As explained by Richardohnson-Sheehan,[^8] "Genres are patterns that reflect how communities, including people in technical workplaces, get things done. A genre shapes a project's content, organization, style, and design, as well as the medium in which it is delivered" (p. 2). Specific document-types can also be referred to as genres. Memos, proposals, progress reports are all genres -- and each of those have unique characteristics and rules (conventions).
 
 TPC genres include (a) use of headings to organize information into coherent sections, (b) use of lists to present informationoncisely, (c) use of figures and tables to present data and information visually, and (d) use of visual design to enhance readability. Table 2.1 provides a summary of conventions of TPCs.
 
@@ -222,7 +225,7 @@ TABLE 2.1 Conventions of Technical Writing
 
 Technical documentation is intended to communicate information to the people who need it, in a way that is clear and easy to read, at the right time to help make decisions, and to support productivity. Designing technical communication is like designing any other product for an intended user\--the ultimate goal is to make it "user friendly."
 
-The late William Zinsser, author of *On Writing Well*, states, \"Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it\'s not a question of gimmick to personalize the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.\" [^9]
+The late William Zinsser, author of _On Writing Well_, states, \"Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it\'s not a question of gimmick to personalize the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.\" [^9]
 
 First, make sure your writing is **legible**. Is the font large enough to be read by a variety of audiences? Is it an easy to read font style that is appropriate for the content? If you are writing for electronic media, these considerations are especially significant.
 
@@ -239,23 +242,24 @@ Finally, your writing may be legible and readable, but how well can your audienc
 2.  Locate an instruction manual for a product you may own. Analyze it against the characteristics listed in the chapter for good technical writing. Submit your analysis in a memo to your instructor.
 
 > This section contains material taken from:
-
--   [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
-
--   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License
-
--   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
+>
+> - [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) by Tiffani Reardon, Tamara Powell, Jonathan Arnett, Monique Logan, and Cassandra Race is used under a [CC-BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
+>
+> - [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License
+>
+> - [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
 # Audience
 
 ```{figure} ./photos/5.png
+:no-number:
 ---
-name: five
+name: two-five
 ```
 
 The audience for a technical document---or any written document---is the intended or potential reader or readers. For most technical writers, this is the most important consideration in planning, writing, and reviewing a document. The writing should be adapted to meet the reader's needs, interests, and background. Lack of audience analysis and adaptation is one of main causes of problems in technical and professional documents.
 
-One of the first things to do when you analyze an audience is to identify the *type* of audience (or types---it's rarely just one type). Common audience categories for product design are:
+One of the first things to do when you analyze an audience is to identify the _type_ of audience (or types---it's rarely just one type). Common audience categories for product design are:
 
 **Experts:** These are the people who know the business or organization and their products and offerings very well. They have designed and tested their products. Often they have advanced degrees and work in academic settings or the research and development departments in industry or government.
 
@@ -269,21 +273,21 @@ One of the first things to do when you analyze an audience is to identify the *t
 
 Once you have identified the stakeholders, the types of audience who will read or listen to your communication, you need to conduct an audience analysis. This will enable you to create a user-centered and persuasive communication. It is necessary to understand your audience's level of understanding, their expectations, and their preferences.
 
-Some key questions (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis) to ask about your readers are the "5 W's and H":
+Some key questions (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis)) to ask about your readers are the "5 W's and H":
 
--   Who are they?
+- Who are they?
 
--   What do they need?
+- What do they need?
 
--   Where will they be reading?
+- Where will they be reading?
 
--   When will they be reading?
+- When will they be reading?
 
--   Why will they reading?
+- Why will they reading?
 
--   How will they be reading?
+- How will they be reading?
 
-The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis) is effective to conduct an audience analysis:
+The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis)) is effective to conduct an audience analysis:
 
 Table 3.1
 
@@ -334,32 +338,33 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 
 1.  You have been asked to write a report on Maintaining Internet Privacy for
 
-    a.  A new internet user who just signed up for internet service
+    a. A new internet user who just signed up for internet service
 
-    b.  A start-up ecommerce website developer
+    b. A start-up ecommerce website developer
 
 2.  Prepare a document on Food-born Diseases for
 
-    a.  Restaurant workers (servers and kitchen staff)
+    a. Restaurant workers (servers and kitchen staff)
 
-    b.  For a health inspector training course
+    b. For a health inspector training course
 
-> This section contains material taken from
-
--   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
-
--   [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
+> This section contains material taken from:
+>
+> - [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
+>
+> - [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
 ## Writing Process
 
 ```{figure} ./photos/6.png
+:no-number:
 ---
-name: six
+name: two-six
 ---
-Figure 4.1. Writing Process Diagram. M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission.
+*Fig 4.1* Writing Process Diagram. M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission.
 ```
 
-Just as we use design processes to creatively solve complex problems, we use writing processes to create complex documents. In both cases, there are steps or stages, but we don't always proceed directly from one step to next in a linear manner. These processes are often iterative, meaning we might return to previous stages in the process from time to time. The more complex the task, the more iteration might be needed. Think about the design process as explained in the introductory video by IDEO and the Writing Process as depicted in Figure 4.1. What similarities and differences can you see in these two processes?
+Just as we use design processes to creatively solve complex problems, we use writing processes to create complex documents. In both cases, there are steps or stages, but we don't always proceed directly from one step to next in a linear manner. These processes are often iterative, meaning we might return to previous stages in the process from time to time. The more complex the task, the more iteration might be needed. Think about the design process as explained in the introductory video by IDEO and the Writing Process as depicted in [Figure 4.1](two-six). What similarities and differences can you see in these two processes?
 
 You may have come across a "writing process" before, and it may or may not have worked well for you. There is no single process that works for everyone in every situation. The key is to recognize the various steps in a typical writing process and figure out how to use or adapt them most effectively for your situation.
 
@@ -367,118 +372,107 @@ Generally, we can think of the elements of the process in this way:
 
 Step 1: Planning
 
--   Conduct research
+- Conduct research
 
--   Perform audience analysis
+- Perform audience analysis
 
--   Define document purpose
+- Define document purpose
 
--   Create task list (RAM Chart)
+- Create task list (RAM Chart)
 
--   Create timeline (Gant Chart) Step 2: Organizing and drafting
+- Create timeline (Gant Chart) Step 2: Organizing and drafting
 
--   Chose the genre (e.g. report, memo, appendix)
+- Chose the genre (e.g. report, memo, appendix)
 
--   Write first draft Step 3: Improving style
+- Write first draft Step 3: Improving style
 
--   Choose a style guide (for engineering courses it might be [IEEE style guide](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf)
+- Choose a style guide (for engineering courses it might be [IEEE style guide](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf))
 
--   Attend to tone, spelling, punctuation, word choice, arrangement, design---all these are choices are rhetorical choices that work toward the effectiveness of the document
+- Attend to tone, spelling, punctuation, word choice, arrangement, design---all these are choices are rhetorical choices that work toward the effectiveness of the document
 
 Step 4: Revising, editing, and proofreading
 
--   Examine the document keeping in mind the subject, purpose, and audience
+- Examine the document keeping in mind the subject, purpose, and audience
 
--   Seek feedback from others e.g. peers, users, and subject matter experts (SMEs)
+- Seek feedback from others e.g. peers, users, and subject matter experts (SMEs)
 
--   Revise content and organization as needed
+- Revise content and organization as needed
 
--   Edit sentences, paragraphs, graphics and style choices.
+- Edit sentences, paragraphs, graphics and style choices.
 
--   Proofread to eliminate spelling, grammar and typographical errors
+- Proofread to eliminate spelling, grammar and typographical errors
 
-These steps look like a rigid sequence, but writing is not linear. Writing is an iterative, or recursive process, going in and out of the steps. For example, you might draft a section, reread it, and correct some spelling errors. You have moved ahead to proofreading. Or, you might reread a section and determine that your argument is lacking, so you do some more research. You have now moved back to the first step. The circular representation shown in Figure 4.1 is representative of the recursive nature of writing.
+These steps look like a rigid sequence, but writing is not linear. Writing is an iterative, or recursive process, going in and out of the steps. For example, you might draft a section, reread it, and correct some spelling errors. You have moved ahead to proofreading. Or, you might reread a section and determine that your argument is lacking, so you do some more research. You have now moved back to the first step. The circular representation shown in [Figure 4.1](two-six) is representative of the recursive nature of writing.
 
 ## Possible Exercise
 
 The genre of a Progress Report often contains the following sections:
 
--   Introduction
+- Introduction
 
--   Summary of completed activities
+- Summary of completed activities
 
--   Discussion of ongoing activities
+- Discussion of ongoing activities
 
--   Projection of future activities
+- Projection of future activities
 
--   Conclusion
+- Conclusion
 
 Describe, generally, how you might apply the elements of the writing process to this genre.
 
-> This section contains material taken from
+> This section contains material taken from:
 
--   [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
+- [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
 ## Design, Technical and Professional Communication, and Social Justice
 
-```{figure} ./photos/7.png
+```{figure} ./photos/7.jpg
+:no-number:
 ---
-name: seven
+name: two-seven
 ---
-Figure 5.1. Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's Processus de Design Thinking. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [here](https://www.researchgate.net/publication/306107677) Used with permission.
+*Fig. 5.1* Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's Processus de Design Thinking. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [here](https://www.researchgate.net/publication/306107677) Used with permission.
 ```
 
-*Chapter 7 Introduction to Design Equity* tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered" [^10].
+_Chapter 7 Introduction to Design Equity_ tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered."[^10]
 
 The design process we are learning is human-centered design (HCD). This process focuses on designing to meet the needs and desires of the users. Technical and professional communication (TPC) mirrors this goal, producing communication that focuses on the needs and desires of its users. They are also both concerned with the human experience and with the context---the rhetorical situation.
 
-In a foundational TPC journal article, Carolyn Miller [^11] makes an argument for the humanistic value of technical writing. She says that technical writing is not neutral, as many people believe. Technical writing does not follow the positivistic windowpane theory of language, which holds that language can provide an unobstructed view of reality -- as if you are looking through a window. In fact, all design and all TPC take place within economic and political systems, and at a specific historical time. They are not neutral nor are they subjective. They are created using particular choices, and as such they demonstrate viewpoints and perspectives.
+In a foundational TPC journal article, Carolyn Miller[^11] makes an argument for the humanistic value of technical writing. She says that technical writing is not neutral, as many people believe. Technical writing does not follow the positivistic windowpane theory of language, which holds that language can provide an unobstructed view of reality -- as if you are looking through a window. In fact, all design and all TPC take place within economic and political systems, and at a specific historical time. They are not neutral nor are they subjective. They are created using particular choices, and as such they demonstrate viewpoints and perspectives.
 
 Human-centered design and TPC can provide an opportunity to advocate and create equitable design solutions. Buchanan observes,
 
-Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37) [^12].
+Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37).[^12]
 
-## Designing for persons with diverse abilities 
+## Designing for persons with diverse abilities
 
 According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^13]. As with HCD and TPC, the context in which a person experiences the disability is important:
 
 In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs [^13].
 
-There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term *people with disabilities* signifies that the challenges faced by an individual are a result of the impairment. The term *disabled people* signifies that the challenges faced are a result of the person's environment [^14]. The people-first term *people with disabilities* is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
+There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term _people with disabilities_ signifies that the challenges faced by an individual are a result of the impairment. The term _disabled people_ signifies that the challenges faced are a result of the person's environment [^14]. The people-first term _people with disabilities_ is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
 
 Human-centered design, as practiced at Northwestern University's Segal Design Institute promotes social justice by empowering users with diverse abilities. The products the students design are intended to make the lives of these users easier, allowing them to better negotiate the physical context in which they live. The design process is human-centered by following the participatory approach shown in Figure 5.1. It starts with talking to users about the challenge they are trying to address. This allows the user to be the expert on the issue and honors that expertise. The user remains the focus as the design progresses, with the user providing input and participating in usability testing.
 
 The supporting documentation for the design process, as well as correspondence with the user, can also work toward the user's agency. Care should be taken not reinforce the characterization of bodies as normal or deviant. Users must not be portrayed as damaged or lacking. Finally, there should be consideration on how the information is presented (e.g. visually, textually, aurally).
 
 ---
+
 > Ver. 1 Aug 2020
 
 ## References
 
-[^1]: E. Knowles (ed) \"Francis Darwin.\" in *Oxford Dictionary of Modern Quotations*., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
-
-[^2]: S. Pinker, "The source of bad writing," *The Wall Street Journal*, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
-
-[^3]: S. McConkey, "Writing a work term report," *ENGR 120 Plenary Lecture*, University of Victoria, March 3, 2017
-
+[^1]: E. Knowles (ed) \"Francis Darwin.\" in _Oxford Dictionary of Modern Quotations_., Oxford University Press, 2008. [https://www-oxfordreference- com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443.](https://www-oxfordreference-com.turing.library.northwestern.edu/view/10.1093/acref/9780199208951.001.0001/q-author-00005-00000443)
+[^2]: S. Pinker, "The source of bad writing," _The Wall Street Journal_, 2014, Retrieved from <http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188>
+[^3]: S. McConkey, "Writing a work term report," _ENGR 120 Plenary Lecture_, University of Victoria, March 3, 2017
 [^4]: J. Swartz, S. Pigg, J. Larsen, J. Helo Gonzalez, R. De Haas, and E. Wagner, \"Communication in the workplace: What can NC State students expect?\" Professional Writing Program, North Carolina State University, 2018 \[Online\] at [[https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit) [[oB-sGUrtRswD7feuRB0/edit]](https://docs.google.com/document/d/1pMpVbDRWIN6HssQQQ4MeQ6U-oB-sGUrtRswD7feuRB0/edit)
-
-[^5]: M. Markell, *Technical communication*, 11^th^ ed., Boston, MA, USA: Bedford/St. Martins, 2015.
-
-[^6]: S. Dobrin, C. Keller, C. Weisser, *Technical communication in the twenty first century,* 2^nd^ ed., Upper Saddle River, NJ, USA: Pearson Prentice Hall, 2010.
-
-[^7]: E. Tebeaux, S. Dragga, *The essentials of technical communication,* 2^nd^ ed., Oxford, England: Oxford University Press, 2012.
-
-[^8]: R. Johnson-Sheehan, R. *Technical communication today,* 6^th^ ed., New York, NY, USA: Pearson, 2018.
-
-[^9]: W. Zinsser, W. *On writing well*, New York, NY, USA: HarperCollins Publishers, 2006, p. 5.
-
-[^10]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," *Journal of Technical Writing and Communication,* vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
-
-[^11]: C. R. Miller, "A humanistic rationale for technical writing," *College English,* vol.40, no. 6, pp. 610-617.
-
-[^12]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," *Design Issues,* vol. 17, no. 3, pp. 35-39.
-
-[^13]: "Disability," 2020. Accessed on July 20, 2020. \[Online\].  Available:  https://www.who.int/health-topics/disability#tab=tab_1
-
-[^14]: G. Pullin, *design meets disability,* Cambridge, MA, The MIT Press, 2009. 
+[^5]: M. Markell, _Technical communication_, 11^th^ ed., Boston, MA, USA: Bedford/St. Martins, 2015.
+[^6]: S. Dobrin, C. Keller, C. Weisser, _Technical communication in the twenty first century,_ 2^nd^ ed., Upper Saddle River, NJ, USA: Pearson Prentice Hall, 2010.
+[^7]: E. Tebeaux, S. Dragga, _The essentials of technical communication,_ 2^nd^ ed., Oxford, England: Oxford University Press, 2012.
+[^8]: R. Johnson-Sheehan, R. _Technical communication today,_ 6^th^ ed., New York, NY, USA: Pearson, 2018.
+[^9]: W. Zinsser, W. _On writing well_, New York, NY, USA: HarperCollins Publishers, 2006, p. 5.
+[^10]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," _Journal of Technical Writing and Communication,_ vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
+[^11]: C. R. Miller, "A humanistic rationale for technical writing," _College English,_ vol.40, no. 6, pp. 610-617.
+[^12]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," _Design Issues,_ vol. 17, no. 3, pp. 35-39.
+[^13]: "Disability," 2020. Accessed on July 20, 2020. \[Online\]. Available: https://www.who.int/health-topics/disability#tab=tab_1
+[^14]: G. Pullin, _design meets disability,_ Cambridge, MA, The MIT Press, 2009.

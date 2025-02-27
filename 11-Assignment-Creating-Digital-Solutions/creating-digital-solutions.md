@@ -1,7 +1,9 @@
 # Assignment Creating Digital Solutions
+
 # Overview
 
 > Watch the [overview](https://youtu.be/5_FW4lHfUgU) video for how to develop a digital product catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
+>
 > <div><iframe width="560" height="315" src="https://www.youtube.com/embed/5_FW4lHfUgU?si=617zkGdGm9FU5w7D" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 > <i>Continue below to view longer tutorial videos.</i>
 
@@ -19,15 +21,15 @@ You have conducted secondary research, gathered insights from interviews and obs
 
 To help you decide, consider places where digital solutions excel. For example, a digital solution might be suitable if your research uncovered requirements such as:
 
--   The ability to collect information from users
+- The ability to collect information from users
 
--   The ability to display to real-time information visually
+- The ability to display to real-time information visually
 
--   The ability to share, comment, or collaborate virtually
+- The ability to share, comment, or collaborate virtually
 
--   The ability to take and share photos or videos
+- The ability to take and share photos or videos
 
--   The ability to use geolocation to provide directions or information based on location
+- The ability to use geolocation to provide directions or information based on location
 
 > One helpful hint is to consider whether or not a screen connected to the internet is an essential component of your design. This is a helpful rule of thumb in many but **not all** cases (e.g. Amazon Echo, Google Home all use voice commands without a screen).
 
@@ -47,31 +49,31 @@ While you ideate and explore alternative solutions, you may need to decide if yo
 
 ## Figma [www.figma.com](http://www.figma.com/)
 
--   Preferred tool for many professional designers due to the easy-to-use features
+- Preferred tool for many professional designers due to the easy-to-use features
 
--   Works in a browser (no app download needed)
+- Works in a browser (no app download needed)
 
--   Includes libraries of free templates and accelerators
+- Includes libraries of free templates and accelerators
 
--   Free to set up an account and get started right away (more advanced features are available on their Tier1 plan, which is [free to students](https://www.figma.com/education/) with a valid NU email address)
+- Free to set up an account and get started right away (more advanced features are available on their Tier1 plan, which is [free to students](https://www.figma.com/education/) with a valid NU email address)
 
 ## Miro [www.miro.com](http://www.miro.com/)
 
--   Quick way to create wireframes using pre-built templates
+- Quick way to create wireframes using pre-built templates
 
--   Makes it easy to shift from brainstorming into mockups and collaborate as a team
+- Makes it easy to shift from brainstorming into mockups and collaborate as a team
 
--   Works in a browser (no app download needed)
+- Works in a browser (no app download needed)
 
--   Free to set up an account and get started right away (instructors also have free access -- speak with them if you would like to use MIRO)
+- Free to set up an account and get started right away (instructors also have free access -- speak with them if you would like to use MIRO)
 
 ## InVision [www.invision.com](http://www.invision.com/)
 
--   Easy option for creating a prototype using static images
+- Easy option for creating a prototype using static images
 
--   Works in a browser (no app download needed)
+- Works in a browser (no app download needed)
 
--   Free to set up an account and get started right away
+- Free to set up an account and get started right away
 
 # Design resources for digital solutions
 
@@ -79,31 +81,31 @@ While you ideate and explore alternative solutions, you may need to decide if yo
 
 ## Usability basics
 
--   Jakob Nielsen's Usability Heuristics: <https://www.nngroup.com/articles/ten-usability-heuristics/>
+- Jakob Nielsen's Usability Heuristics: <https://www.nngroup.com/articles/ten-usability-heuristics/>
 
--   Accessible design for the web: <https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/>
+- Accessible design for the web: <https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/>
 
 ## Design systems
 
 > Many organizations have created their own "design system", which is essentially a library of different styles, colors, and components that help all of their digital solutions look and feel cohesive to end users. As you prepare your final design, you may want to draw inspiration from an existing design system -- many of which are free and publicly available.
 
--   Google Material Design: <https://material.io/design/introduction#principles>
+- Google Material Design: <https://material.io/design/introduction#principles>
 
--   Apple UI Kit: <https://developer.apple.com/design/tips/>
+- Apple UI Kit: <https://developer.apple.com/design/tips/>
 
--   Microsoft\'s Fluent Design System: [https://www.microsoft.com/design/fluent/#/](https://www.microsoft.com/design/fluent/%23/)
+- Microsoft\'s Fluent Design System: [https://www.microsoft.com/design/fluent/#/](https://www.microsoft.com/design/fluent/%23/)
 
 ## Icons
 
--   The Noun Project: [www.thenounproject.com](http://www.thenounproject.com/)
+- The Noun Project: [www.thenounproject.com](http://www.thenounproject.com/)
 
--   Font Awesome: [www.fontawesome.com](http://www.fontawesome.com/)
+- Font Awesome: [www.fontawesome.com](http://www.fontawesome.com/)
 
 ## Imagery
 
--   Unsplash: [www.unsplash.com](http://www.unsplash.com/)
+- Unsplash: [www.unsplash.com](http://www.unsplash.com/)
 
--   Pexels: [[www.pexels.com]](http://www.pexels.com/)
+- Pexels: [[www.pexels.com]](http://www.pexels.com/)
 
 # Using wireframe tools
 

@@ -33,6 +33,10 @@ html:
   use_issues_button: true
   use_repository_button: true
 
+html:
+  extra_css:
+    - _static/custom.css
+
 toc: 
   maxdepth: 5
   showtoc: true
