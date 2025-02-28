@@ -5,10 +5,13 @@ _Laura Maria Pigozzi, PhD_
 ## What is technical and professional communication?
 
 ```{figure} ./photos/1.png
-:no-number:
 ---
 name: two-one
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p><a href="https://www.flickr.com/photos/35468141621%40N01/6258398639">"Desk at work"</a> by <a href="https://www.flickr.com/photos/kmore/">kerry morrison</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">CC BY 2.0</a></p>
+</div>
 
 > In science, the credit goes to the \[person\] that convinces the
 > world, not to whom the idea first occurs. \~ _Francis Darwin (son
@@ -30,41 +33,47 @@ Essentially, anyone who has developed a specific area of expertise needs to be m
 
 Thus, TPC is a highly designed form of communication that requires authors to have a heightened awareness of the conventions (rules and expectations) and rhetorical situations (audience, purpose, context) in which they are communicating.
 
-## Why should you care?
+### Why should you care?
 
 ```{figure} ./photos/2.png
-:no-number:
 ---
 name: two-two
 ```
 
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p><a href="https://www.flickr.com/photos/153742361%40N05/40516660395">"1era reunión del grupo de trabajo de educación"</a> by <a href="https://www.flickr.com/photos/g20argentina/">G20 Argentina</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">CC BY 2.0</a></p>
+</div>
+
 Good communication skills, particularly in writing, are essential if you are going to succeed in the workplace. The working world depends on written communication because within today's organizations, almost every action is documented in writing.
 
-In a recent presentation on the topic of Co-op Work Term Reports [^3], the Engineering co-op coordinator for the University of Victoria presented the following statistics regarding the importance of communication skills in the professional world of engineering:
+In a recent presentation on the topic of Co-op Work Term Reports,[^3] the Engineering co-op coordinator for the University of Victoria presented the following statistics regarding the importance of communication skills in the professional world of engineering:
 
-**The Reality: Technical Writing and Communication**
+> #### The Reality: Technical Writing and Communication
+>
+> How graduate engineers spend their time:
+>
+> - 25-50%: Problem solving of some kind
+> - 50-75%: Communicating (Writing and reading reports, letters, memos,
+>   proposals, presentations, discussions w/colleagues, managers, clients)
+>
+> Performance evaluations and job advancement usually depend more on communication skills than on technical skills.
 
-How graduate engineers spend their time: 25-50% Problem solving of some kind
-
-50-75% Communicating (Writing and reading reports, letters, memos,
-proposals, presentations, discussions w/colleagues, managers, clients)
-
-Performance evaluations and job advancement usually depend more on
-communication skills than on technical skills
-
-The engineering co-op coordinator added that engineers who are more advanced in their careers spend only 5-10% of their time engaged in problem solving of some kind and 90-95% of their time engaging in related communications tasks: researching, writing and reading reports, proposals, emails, letters, memos; giving or attending presentations; discussing and meeting with colleagues, team mates, managers, clients, and so forth. In a recent survey of over 1,000 professionals from various professions, over 70% of engineers and almost 50% of programmers rated the quality of their writing as either "very important" or "extremely important" to the performance of their jobs [^4]. It should be noted that while problem solving tasks and communication tasks are shown as separate activities, the reality is they are intertwined and work together.
+The engineering co-op coordinator added that engineers who are more advanced in their careers spend only 5-10% of their time engaged in problem solving of some kind and 90-95% of their time engaging in related communications tasks: researching, writing and reading reports, proposals, emails, letters, memos; giving or attending presentations; discussing and meeting with colleagues, team mates, managers, clients, and so forth. In a recent survey of over 1,000 professionals from various professions, over 70% of engineers and almost 50% of programmers rated the quality of their writing as either "very important" or "extremely important" to the performance of their jobs.[^4] It should be noted that while problem solving tasks and communication tasks are shown as separate activities, the reality is they are intertwined and work together.
 
 The video [Writing in the Workplace](https://www.youtube.com/watch?v=JvAiE7owmeI&feature=youtu.be), shows interviews with individuals in STEM fields discussing the importance of communication skills in their fields.
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JvAiE7owmeI?si=csEcNNjbtIvpitCV" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-## What is TPC's foundation?
+### What is TPC's foundation?
 
 ```{figure} ./photos/3.png
-:no-number:
 ---
 name: two-three
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p><a href="https://www.flickr.com/photos/36551225%40N05/3403519465">"Head of Aristotle. Vienna, Museum of Art History, Collection of Classical Antiquities"</a> by <a href="https://www.flickr.com/photos/36551225%40N05">Sergey Sosnovskiy</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich">CC BY-SA 2.0</a></p>
+</div>
 
 Technical and professional communication is grounded in **Rhetoric,** the ancient art and science of persuasion. Unfortunately, in the 21st century, rhetoric tends to be positioned as something separate from everyday communication. However, all human activities are rhetorical, whether or not we are conscious of it.
 
@@ -96,7 +105,7 @@ Pathos appeals can sometimes be overwhelming and dominate an argument because em
 
 Rhetoric teaches us that our communications must be shaped by an understanding of our intended audience and desired purpose. This is also true of technical and professional communication. The goal of technical communications is to get information from Point A (the author/speaker) to Point B (the audience) as efficiently and effectively as possible. A strong rhetorical foundation helps facilitate that transmission. Whether you are writing an email to a client, typing a memo for your boss, or preparing a presentation, considering audience, purpose, and context as you draft will help you be an effective communicator and increase your professional ethos.
 
-## Possible Exercises
+### Possible Exercises
 
 1.  Write a paragraph or two on a topic about which you have specialized knowledge, and can use specialized terminology to explain the idea or instruct the reader. For example, you might write about effective techniques for executing certain skateboard maneuvers or how to execute a yoga position such as a "downward facing dog." Consider your audience when choosing how to write this. Will the audience have to be familiar with the terminology used? See if you can baffle the audience with your techno-jargon and then re-write for a general audience, using plain language.
 
@@ -115,12 +124,15 @@ Rhetoric teaches us that our communications must be shaped by an understanding o
 ## Characteristics and Conventions of Technical and Professional Communication
 
 ```{figure} ./photos/4.png
-:no-number:
 ---
 name: two-four
 ```
 
-## Characteristics
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p><a href="https://www.flickr.com/photos/35272764%40N06/3272831972">"Shuffle"</a> by <a href="https://www.flickr.com/photos/35272764@N06/">brevity isn't funny</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC 2.0</a></p>
+</div>
+
+### Characteristics
 
 Mike Markell,[^5] Sidney Dobrin,[^6] Elizabeth Tebeaux,[^7] Sam Dragga,[^7] and other technical communication scholars all identify similar characteristics of technical communication.
 
@@ -146,7 +158,7 @@ Technical and Professional Communication (TPC) is often taught using a **genre**
 
 TPC genres include (a) use of headings to organize information into coherent sections, (b) use of lists to present informationoncisely, (c) use of figures and tables to present data and information visually, and (d) use of visual design to enhance readability. Table 2.1 provides a summary of conventions of TPCs.
 
-TABLE 2.1 Conventions of Technical Writing
+### Conventions
 
 <table style="border-collapse: collapse; width: 100%;">
 <colgroup>
@@ -220,8 +232,11 @@ TABLE 2.1 Conventions of Technical Writing
 </tr>
 </tbody>
 </table>
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>TABLE 2.1 Conventions of Technical Writing</p>
+</div>
 
-## Usability
+### Usability
 
 Technical documentation is intended to communicate information to the people who need it, in a way that is clear and easy to read, at the right time to help make decisions, and to support productivity. Designing technical communication is like designing any other product for an intended user\--the ultimate goal is to make it "user friendly."
 
@@ -235,7 +250,7 @@ Without exception, grammar, spelling, punctuation, and sentence structure have t
 
 Finally, your writing may be legible and readable, but how well can your audience comprehend, or understand it in the way you intended? To facilitate **comprehension**, use language and terminology familiar to the reader, and limit paragraphs to one main idea. Strive for brevity if your users will be reading on tablets or mobile devices. Use visuals such as charts or diagrams to present a lot of information in a graphic format.
 
-## Possible Exercises
+### Possible Exercises
 
 1.  Locate some examples of what you consider technical writing. These may include correspondence, journal articles, lab reports, web pages, or advertisements. In small groups with other classmates, discuss how the documents reflect the characteristics of technical writing. After your group has analyzed the document, present it to the entire class and explain how it meets the characteristics of a technical document.
 
@@ -249,13 +264,17 @@ Finally, your writing may be legible and readable, but how well can your audienc
 >
 > - [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/) by Allison Gross, Annemarie Hamlin, Billy Merck, Chris Rubio, Jodi Naas, Megan Savage, and Michele DeSilva is used under a CC-BY-NC-SA 4.0 License.
 
-# Audience
+## Audience
 
 ```{figure} ./photos/5.png
 :no-number:
 ---
 name: two-five
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p><a href="https://www.flickr.com/photos/35272764%40N06/3272831972">"Visitors from Montenegro"</a> by <a href="https://www.flickr.com/photos/dincity/">David Din</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">CC BY 2.0</a></p>
+</div>
 
 The audience for a technical document---or any written document---is the intended or potential reader or readers. For most technical writers, this is the most important consideration in planning, writing, and reviewing a document. The writing should be adapted to meet the reader's needs, interests, and background. Lack of audience analysis and adaptation is one of main causes of problems in technical and professional documents.
 
@@ -269,7 +288,7 @@ One of the first things to do when you analyze an audience is to identify the _t
 
 **Non-specialists:** These readers have the least technical knowledge of all audience types. They want to use the products to accomplish their tasks or, the may just be curious about a specific technical matter and want to learn about it. Often, these readers will represent your secondary audience.
 
-## Audience Analysis
+### Audience Analysis
 
 Once you have identified the stakeholders, the types of audience who will read or listen to your communication, you need to conduct an audience analysis. This will enable you to create a user-centered and persuasive communication. It is necessary to understand your audience's level of understanding, their expectations, and their preferences.
 
@@ -288,8 +307,6 @@ Some key questions (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.pu
 - How will they be reading?
 
 The following reader analysis chart (Johnson-Sheehan, as cited in the [Purdue OWL](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/audience_analysis)) is effective to conduct an audience analysis:
-
-Table 3.1
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -323,8 +340,11 @@ Table 3.1
     <td style="border: 1px solid black; padding: 8px;"></td>
   </tr>
 </table>
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Table 3.1</p>
+</div>
 
-## Audience Complications
+### Audience Complications
 
 There are several possible audience complications that you may encounter when creating technical and professional communication:
 
@@ -332,7 +352,7 @@ There are several possible audience complications that you may encounter when cr
 
 **Wide variability in an audience**: You may realize that, although you have an audience that fits into only one category, their background varies widely. This is a difficult situation. If you write so that the readers with the least background can understand, the resulting document may be too long and tedious for many of the other readers. One solution is to write for the majority of readers. Another approach is to provide supplemental information in appendices or insert cross-references.
 
-## Possible Exercise
+### Possible Exercise
 
 Choose one of the topics below. Then perform an audience analysis using Table 3.1. Write a profile of your intended reader and consider what information they need and why.
 
@@ -357,12 +377,14 @@ Choose one of the topics below. Then perform an audience analysis using Table 3.
 ## Writing Process
 
 ```{figure} ./photos/6.png
-:no-number:
 ---
 name: two-six
 ---
-*Fig 4.1* Writing Process Diagram. M. J. Curry and A. Hewings \"Approaches to teaching writing,\" in *Teaching Academic Writing: A Toolkit for Higher Education*. New York: Routledge, 2003. Used with permission.
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Fig 4.1. Writing Process Diagram. M. J. Curry and A. Hewings "Approaches to teaching writing," in <u>Teaching Academic Writing: A Toolkit for Higher Education</u>. New York: Routledge, 2003. Used with permission.</p>
+</div>
 
 Just as we use design processes to creatively solve complex problems, we use writing processes to create complex documents. In both cases, there are steps or stages, but we don't always proceed directly from one step to next in a linear manner. These processes are often iterative, meaning we might return to previous stages in the process from time to time. The more complex the task, the more iteration might be needed. Think about the design process as explained in the introductory video by IDEO and the Writing Process as depicted in [Figure 4.1](two-six). What similarities and differences can you see in these two processes?
 
@@ -370,41 +392,35 @@ You may have come across a "writing process" before, and it may or may not have 
 
 Generally, we can think of the elements of the process in this way:
 
-Step 1: Planning
+**Step 1: Planning**
 
 - Conduct research
-
 - Perform audience analysis
-
 - Define document purpose
-
 - Create task list (RAM Chart)
+- Create timeline (Gant Chart)
 
-- Create timeline (Gant Chart) Step 2: Organizing and drafting
+**Step 2: Organizing and drafting**
 
 - Chose the genre (e.g. report, memo, appendix)
+- Write first draft
 
-- Write first draft Step 3: Improving style
+**Step 3: Improving style**
 
 - Choose a style guide (for engineering courses it might be [IEEE style guide](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf))
-
 - Attend to tone, spelling, punctuation, word choice, arrangement, design---all these are choices are rhetorical choices that work toward the effectiveness of the document
 
-Step 4: Revising, editing, and proofreading
+**Step 4: Revising, editing, and proofreading**
 
 - Examine the document keeping in mind the subject, purpose, and audience
-
 - Seek feedback from others e.g. peers, users, and subject matter experts (SMEs)
-
 - Revise content and organization as needed
-
 - Edit sentences, paragraphs, graphics and style choices.
-
 - Proofread to eliminate spelling, grammar and typographical errors
 
 These steps look like a rigid sequence, but writing is not linear. Writing is an iterative, or recursive process, going in and out of the steps. For example, you might draft a section, reread it, and correct some spelling errors. You have moved ahead to proofreading. Or, you might reread a section and determine that your argument is lacking, so you do some more research. You have now moved back to the first step. The circular representation shown in [Figure 4.1](two-six) is representative of the recursive nature of writing.
 
-## Possible Exercise
+### Possible Exercise
 
 The genre of a Progress Report often contains the following sections:
 
@@ -421,18 +437,21 @@ The genre of a Progress Report often contains the following sections:
 Describe, generally, how you might apply the elements of the writing process to this genre.
 
 > This section contains material taken from:
-
-- [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
+>
+> - [Technical Writing Essentials](https://pressbooks.bccampus.ca/technicalwriting) by Suzan Last is used under a CC-BY 4.0 License.
 
 ## Design, Technical and Professional Communication, and Social Justice
 
 ```{figure} ./photos/7.jpg
-:no-number:
 ---
 name: two-seven
 ---
-*Fig. 5.1* Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's Processus de Design Thinking. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from [here](https://www.researchgate.net/publication/306107677) Used with permission.
+
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Fig. 5.1. Diagram of Design Thinking for Social Justice Process. Diagram of Design Thinking for Social Justice Process, adapted from the Stanford d.School's <u>Processus de Design Thinking</u>. Staton, B., Gordon, P., Kramer, J., and Valdez, L. (2016). From the Technical to the Political: Democratizing Design Thinking. Vol. Stream 5, Article No. 5-008. Presented at the From Contested Cities to Global Urban Justice, Madrid, Spain. Retrieved from <a href="https://www.researchgate.net/publication/306107677">here</a>. Used with permission.</p>
+</div>
 
 _Chapter 7 Introduction to Design Equity_ tells us that design thinking can be used as a tool for equity and social justice and provides the above schematic as a way to think about a design process that works toward equity and social justice. In this chapter we will think about how design and technical and professional communication work together to achieve, as best as possible, these goals. We will define social justice as "critical reflection and action that promotes agency for the marginalized and disempowered."[^10]
 
@@ -444,7 +463,7 @@ Human-centered design and TPC can provide an opportunity to advocate and create 
 
 Human-centered design is fundamentally an affirmation of human dignity. It is an ongoing search for what can be done to support and strengthen the dignity of human beings as they act out their lives in varied social, economic, political, and cultural circumstances (page 37).[^12]
 
-## Designing for persons with diverse abilities
+### Designing for persons with diverse abilities
 
 According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^13]. As with HCD and TPC, the context in which a person experiences the disability is important:
 
