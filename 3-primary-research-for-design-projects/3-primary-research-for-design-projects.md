@@ -2,16 +2,20 @@
 
 _Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_
 
-# What is primary research?
+## What is primary research?
 
 ```{figure} ./photos/1.png
 ---
 name: three-one
 ---
-Photo by Christina @ wocintechchat.com on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ```
 
-## Introduction
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Photo by Christina @ <a href="https://www.wocintechchat.com/">wocintechchat</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</p>
+</div>
+
+### Introduction
 
 How research is defined varies widely from field to field, and as you progress through your college career, your coursework will teach you much more about what it means to be a researcher within your field. For example, engineers, who focus on applying scientific knowledge to develop designs, processes, and objects, conduct research using simulations, mathematical models, and a variety of tests to see how well their designs work. Sociologists conduct research using surveys, interviews, observations, and statistical analysis to better understand people, societies, and cultures. Graphic designers conduct research through locating images for reference for their artwork and engaging in background research on clients and companies to best serve their needs. Historians conduct research by examining archival materials -- newspapers, journals, letters, and other surviving texts -- and through conducting oral history interviews. Research is not limited to what has already been written or found at the library, also known as secondary research. Rather, individuals conducting research are producing the articles and reports found in a library database or in a book. Primary research, the focus of this essay, is research that is collected firsthand rather than found in a book, database, or journal.
 
@@ -19,7 +23,7 @@ Primary research is often based on principles of the scientific method, a theory
 
 Following are some common types of primary design research, and some important guidelines for cultivating an ethical and equitable research practice. In the next section, you'll read about setting the foundation for reaching your research goals. In Section 3 you'll find useful information about conducting different types of research such as interviews, observations, and surveys. And, finally, you'll read about presenting your research as reliably as possible, by analyzing (Section 4) and documenting (Section 5) it.
 
-## Common types of primary design research
+### Common types of primary design research
 
 Primary research plays an essential role in building the empathy and understanding needed for user- centered design. Developing a first-hand understanding of a user's experience requires thought and planning. Users communicate their needs verbally, and also nonverbally, through facial expressions, demeanor, and other unconscious means. Users will often readily communicate a solution they have in mind, though they might not have a clear and complete analysis of the problem. Each user's experience indicates universal needs, and is at the same time entirely unique. In order to make the most of your primary research in the context of user-centered design, it is essential to identify and knowledgeably apply the most suitable research method(s) for the target user population and design goals.
 
@@ -65,7 +69,7 @@ One efficient method for making use of both qualitative and quantitative methods
 
 A focus group is a small group of people that a researcher assembles in order to gather qualitative information from a variety of voices at once. It is more common to use focus groups to gather feedback on concepts and prototypes than to use them at the beginning of the design research process, since observations and interviews would be less practical in a group setting. Because there are multiple users represented in a focus group, the focus group cannot take place in the user's natural setting. A focus group might be held in an office setting, or at a location that is similar to the natural setting. The main advantage of a focus group is the ability to hear from different perspectives in a single session. However, there can be significant limitations; for example, people who are more introverted might be hesitant to share their opinions, and people with strong personalities could dominate a conversation and even sway others to their point of view. The focus group should be designed to create a non-threatening environment and structured to encourage equal participation from all users. Many of the strategies behind designing effective interview and survey questions, discussed in Section 3, can also be applied to focus groups.
 
-## Ethics of primary research
+### Ethics of primary research
 
 As Earl Babbie writes in _The Practice of Social Research_ [^2]_,_ throughout the early and middle parts of the twentieth century researchers took advantage of participants and treated them unethically. During World War II, Nazi doctors performed heinous experiments on prisoners without their consent, while in the U.S., a number of medical and psychological experiments on caused patients undue mental and physical trauma and, in some cases, death. Because of these and other similar events, many nations have established ethical laws and guidelines for researchers who work with human participants. In the United States, the guidelines for the ethical treatment of human research participants are described in _The Belmont Report,_ released in 1979. Today, universities have Institutional Review Boards (or IRBs) that oversee research. Students conducting research as part of a class may not need permission from the university's IRB, although they still need to ensure that they follow ethical guidelines in research. The following provides a brief overview of ethical considerations:
 
@@ -77,19 +81,19 @@ As Earl Babbie writes in _The Practice of Social Research_ [^2]_,_ throughout th
 
 The above are only three of many considerations when involving human participants in your primary research. For a complete understanding of ethical considerations please refer to [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html).
 
-## Guiding principles for racial and ethnic equity in primary research
+### Guiding principles for racial and ethnic equity in primary research
 
 Every research or evaluation project is unique in its approach. Each project seeks to answer a specific range of research questions; thus, there can be no universal prescriptive formula for how to embed a racial and equity perspective in research. However, foundational principles can guide each research project to intentionally embed a racial and ethnic equity perspective. Based on 34 interviews with researchers, funders, academics, community practitioners, and policymakers; a thorough literature review; and the deep research experience and expertise of Child Trends scientists, Andrews, _et al._ [^3] developed five guiding principles on how to use this approach in every phase of research (from designing the study to reporting findings).
 
-### Researchers should examine their own backgrounds and biases.
+#### 1. Researchers should examine their own backgrounds and biases.
 
 Researchers strive to be neutral and objective; nevertheless, they have our own biases, values, background, and experiences that affect the way they conduct research. Bias affects the decisions made throughout the research process, including who asks the research questions, which questions are asked, whose input on the research is sought, how the data are gathered, how findings are interpreted and communicated, and which audiences and methods are selected for dissemination. Researchers should examine their own racial, ethnic, and cultural backgrounds, as well as their experiences (or lack of experiences) with racism and/or privilege, and consider how they influence the direction of research.
 
-### They should make a commitment to dig deeper into the data.
+#### 2. They should make a commitment to dig deeper into the data.
 
 While recognizing differences in outcomes among racial and ethnic groups is a first step in identifying disparities, it does not address them. Addressing disparities requires researchers to move beyond simply documenting them: We must also identify the underlying systemic and contextual causes of disparities. This focus is especially critical for understanding outcomes in communities of color, where truths have historically been distorted or overlooked to perpetuate racist systems and beliefs. We should dig deeper to uncover whether data points to a legacy of racism or systemic inequities at the root of racial and ethnic differences in outcomes, rather than an intrinsic deficit of the population in question. To dig deeper into the data requires that we ask questions to uncover root causes of disparities, seek the involvement and perspectives of community stakeholders, and invest adequate time and money in designing and implementing the research. [^4]
 
-### Researchers should also recognize that the research process itself has an impact on communities, and that researchers have a role in ensuring that research benefits communities.
+#### 3. Researchers should also recognize that the research process itself has an impact on communities, and that researchers have a role in ensuring that research benefits communities.
 
 Historically, researchers have employed practices that resulted in the inhumane abuse and exploitation of communities and people of color. Researchers have obtained data on communities and then left without addressing the issues of the people they studied. By doing so, researchers have reinforced a paradigm in which they enter a community and conduct research without giving back [^5]; in this way, they have added to the abuse and exploitation that vulnerable communities already face.
 
@@ -99,7 +103,7 @@ Ethical research must be reciprocal. The people who give researchers consent to 
 
 Honoring a community also means acknowledging the often-overlooked power that communities of color hold. Research that incorporates a racial and ethnic equity perspective can help to reveal a community's power and dismantle power differentials that currently exist between researcher and communities of color.
 
-### Researchers should engage communities as partners in research and credit them for their contribution.
+#### 4. Researchers should engage communities as partners in research and credit them for their contribution.
 
 To incorporate a racial and ethnic equity perspective, researchers must authentically engage community stakeholders. The meaning given to data is influenced by who analyzes it. Community stakeholders -- people who are experiencing the issue that researchers are interested in -- can be engaged in the data analysis and offer a perspective that differs from that of researchers.
 
@@ -107,7 +111,7 @@ Researchers should genuinely work together with communities to accurately and ef
 
 Community engagement is an acknowledgement of a community's contribution to the research and is important for promoting a true partnership.
 
-### Finally, they should guard against the implied or explicit assumption that white is the normative, standard, or default position.
+#### 5. Finally, they should guard against the implied or explicit assumption that white is the normative, standard, or default position.
 
 Researchers typically make comparisons to white outcomes when they examine disparities. Such comparisons reflect the assumption that white outcomes are the standard, and that communities of color should aim to achieve that standard. These comparisons also apply positive values to cultural norms associated with whiteness and negatively measure people of color by those norms. Making comparisons to white people neglects the structural factors and root causes that may lead to disparities.
 
@@ -129,7 +133,7 @@ The following links contain additional resources for understanding and addressin
 
 - An example of how bias affects experiences and outcomes: [Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between blacks and whites.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843483/)
 
-## Gender equity in primary research
+### Gender equity in primary research
 
 Women and girls -- their experiences, opportunities, bodies, and mental and physical health -- have historically been marginalized or minimized in research contexts. Most researchers today do not set out with a goal of sidelining women and girls, yet this remains a widespread phenomenon today, for both structural and attitudinal reasons. Researchers must challenge themselves to identify and mitigate biases on individual, organizational, and structural levels
 
@@ -151,9 +155,7 @@ The following links offer resources for understanding and addressing gender bias
 
 - A discussion on how the dynamics women experience in the course of their lives tend to be overlooked in policy and design decisions: [Design Thinking in Business and Workplace Gender](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html) [Bias](https://www2.deloitte.com/us/en/insights/topics/value-of-diversity-and-inclusion/design-thinking-business-gender-bias-workplace.html)
 
-> This section contains material taken from:
-
-- The first two paragraphs of the Introduction section, and the section "Ethics of primary research," were taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a CC-BY-NC-SA 3.0 License.
+> - The first two paragraphs of the Introduction section, and the section "Ethics of primary research," were taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a CC-BY-NC-SA 3.0 License.
 
 ## What are the goals of primary research and how do you reach those goals?
 
@@ -161,18 +163,21 @@ The following links offer resources for understanding and addressing gender bias
 ---
 name: three-two
 ---
-Photo by Aaron Burden on [Unsplash](https://unsplash.com/s/photos/sticky-note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ```
 
-## Clarify the research question(s)
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Photo by Aaron Burden on <a href="https://unsplash.com/">Unsplash</a>.</p>
+</div>
+
+### Clarify the research question(s)
 
 In her article, _Introduction to Primary Research_, Dana Lynn Driscoll (2011) [^6] discusses primary research. Consider the excerpt from Driscoll's article below, taking note of how you might apply this information to your own research:
 
-Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill in the nineteenth century in his book _Philosophy of the Scientific Method [^6]._ Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process. [^7]
+> Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill in the nineteenth century in his book _Philosophy of the Scientific Method [^6]._ Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process. [^7]
 
 Driscoll goes on to discuss Fred Leavitt's _Evaluating Scientific Research: Separating Fact from Fiction [^8],_ explaining that primary research is useful for questions that can be answered through asking others and direct observation:
 
-Primary research is particularly useful when you want to learn about a problem that does not have a wealth of published information. This may be because the problem is a recent event or it is something not commonly studied. For example, if you are designing a device for a particular user with carpal tunnel syndrome, which is a condition that affects people in different ways, you may not know exactly how this condition affects this user. You'll want to collect data about this user directly, perhaps through observation or interview. Or if you're developing a website for teachers who are required to teach online during a pandemic, and you'd like to include information about developing lesson plans, you might want to survey a population of teachers to determine what information they'd find most necessary. [^8]
+> Primary research is particularly useful when you want to learn about a problem that does not have a wealth of published information. This may be because the problem is a recent event or it is something not commonly studied. For example, if you are designing a device for a particular user with carpal tunnel syndrome, which is a condition that affects people in different ways, you may not know exactly how this condition affects this user. You'll want to collect data about this user directly, perhaps through observation or interview. Or if you're developing a website for teachers who are required to teach online during a pandemic, and you'd like to include information about developing lesson plans, you might want to survey a population of teachers to determine what information they'd find most necessary. [^8]
 
 #### Narrowing your topic
 
@@ -184,15 +189,15 @@ As John Stuart Mill describes in his book, _Philosophy of the Scientific Method_
 
 Once you have spent some time reviewing the secondary research on your topic, you are ready to write a primary research question or hypothesis. A research question or hypothesis should be something that is specific, narrow, and discoverable through primary research methods. Just like a thesis statement for a paper, if your research question or hypothesis is too broad, your research will be unfocused and your data will be difficult to analyze and write about. Here is a set of sample research questions:
 
-_Vague Research Question:_ What are the issues affecting people with carpal tunnel syndrome?
-
-_Revised Research Question:_ What muscles in the hand are specifically affected by carpal tunnel syndrome, and how does this affect people's use of pencils and other writing implements?
+> _Vague Research Question:_ What are the issues affecting people with carpal tunnel syndrome?
+>
+> _Revised Research Question:_ What muscles in the hand are specifically affected by carpal tunnel syndrome, and how does this affect people's use of pencils and other writing implements?
 
 The first research question above is too vague as to what specific issues the researcher is interested in, and how those issues relate to the device the researcher is designing. The vague research question was also too broad, covering too much ground for a single project. The revised question narrows down the topic to muscles in the hand and their effect on writing. The research question could also be rephrased as a testable hypothesis using deductive reasoning: "Certain muscles in the hand, made weaker by carpal tunnel syndrome, have a direct effect on writing."
 
 A final step in working with a research question or hypothesis is determining what key terms you are using and how you will define them. Before conducting their research, the researchers in the example above will need to define phrases such as "use of pencils" and "writing implements" in order to focus their research and determine how these things might be measured.
 
-## A Plan for Primary Research
+### A Plan for Primary Research
 
 The research you conduct in a user-centered design project requires that you learn about your identified users to understand the problems these users face and unmet needs they have. This, then, will help you determine the requirements for your design.
 
@@ -210,7 +215,7 @@ To develop your understanding about these issues, you'll conduct primary researc
 
 **Step six.** Decide on a research population. Your population may consist only of one particular user, or several users, or others who can help you answer your questions. Decide who you will contact for observations, interviews, and/or surveys, and how you will contact them. Here, you'll want to be specific. If you want to interview people with carpal tunnel syndrome, for example, you may want to decide on age, gender, profession, how long they've had carpal tunnel, etc. This will help you to narrow your focus. You may also want to speak to occupational therapists or other experts who will have a different perspective.
 
-## Be open to new information
+### Be open to new information
 
 One thing to keep in mind as you conduct your research is that it's important to be open to new information. Each piece of research that you conduct will lead you to new information. This information may differ from what you've already learned about your topic(s), and/or it may lead you in new directions. Each time this happens, it means you're getting closer to your goal of uncovering the truth about your topic, insomuch as that truth relates to the user's needs. The closer you get to the truth, the closer your design gets to matching what your user needs.
 
@@ -230,44 +235,40 @@ In other cases, you might realize that new information contradicts information y
 
 The bottom line is that as you and your team conduct research, you'll uncover important facts pertinent to your project. Keep an open mind as you uncover these facts, and use your research to bolster your knowledge to ensure the design works well with the user's needs.
 
-> This section contains material taken from:
+> Parts of the section "Developing research questions or hypotheses" were taken from [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
-- Parts of the section "Developing research questions or hypotheses" were taken from [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
-
-# Tips, models, and templates
+## Tips, models, and templates
 
 ```{figure} ./photos/3.png
 ---
 name: three-three
 ---
-Photo by UX Indonesia on [Unsplash](https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ```
 
-## Observing
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Photo by UX Indonesia</a> on <a href="https://unsplash.com/s/photos/ux-indonesia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</p>
+</div>
+
+### Observing
 
 According to Driscoll (2011):
 
-Observations have led to some of the most important scientific discoveries in human history. Charles Darwin used observations of the animal and marine life at the Galapagos Islands to help him formulate his theory of evolution that he describes in _On the Origin of Species._
-
-Today, social scientists, natural scientists, engineers, computer scientists, educational researchers, and many others use observations as a primary research method.
-
-Observations can be conducted on nearly any subject matter, and the kinds of observations you will do depend on \[the purpose of\] your research\... [^9]
+> Observations have led to some of the most important scientific discoveries in human history. Charles Darwin used observations of the animal and marine life at the Galapagos Islands to help him formulate his theory of evolution that he describes in _On the Origin of Species._ Today, social scientists, natural scientists, engineers, computer scientists, educational researchers, and many others use observations as a primary research method.
+>
+> Observations can be conducted on nearly any subject matter, and the kinds of observations you will do depend on \[the purpose of\] your research\... [^9]
 
 #### Conducting observations
 
 The Oxford Dictionary (2020) defines the term "to observe" in the following important ways:
 
-1.  Watch (someone or something) carefully and attentively
-
-2.  Take note of or detect (something) in the course of a scientific study [^10]
+> 1.  Watch (someone or something) carefully and attentively
+> 2.  Take note of or detect (something) in the course of a scientific study [^10]
 
 When considering these definitions, a few things stand out:
 
-1.  An observer watches carefully and attentively
-
-2.  An observer takes note
-
-3.  An observer arrives at realizations by detecting, or considering, noted facts
+> 1.  An observer watches carefully and attentively
+> 2.  An observer takes note
+> 3.  An observer arrives at realizations by detecting, or considering, noted facts
 
 In design thinking, these definitions play an important role. As you begin to consider the design, you'll want to take note of several things. Such things may include what you're being asked to build; the users you're being asked to build it for; and why you're being asked to build it for those users. Even deeper, however, you'll want to actually go into the field and observe users to understand how the device you're being asked to build will have an impact on their lives, and why it's important that the users obtain such a device. In this way, you'll begin to understand what steps you need to take in order to build a design which benefits the users in the way intended.
 
@@ -315,7 +316,7 @@ Watching videos, from sources such as YouTube, can be used as a supplement to yo
 
 Videos are better as a supplement to actual observation than as a replacement, as they might not tell the real story. Before making a video, someone might have created a specific setup, such as cleaning their cooking surface and arranging their kitchen to improve the video quality, as opposed to showing how their kitchen looks on a typical day. People also tend to edit videos before posting them, which could eliminate some important details. Have a plan for what you hope to learn, and consider what bias might be present. You might also be able to do some additional observations or interviews with real users to follow up on any insights from online videos.
 
-## Writing questions for interviews and surveys
+### Writing questions for interviews and surveys
 
 Interviews and surveys are two ways that you can gather information about people's beliefs or behaviors. With these methods, the information you collect is not first-hand (like an observation) but rather "self-reported" data, or data collected in an indirect manner. William Shadish, Thomas Cook, and Donald Campbell argued that people are inherently biased about how they see the world and may report their own actions in a more favorable way than they may actually behave [^11]. Despite the issues in self-reported data, surveys and interviews are an excellent way to gather data for your primary research project.
 
@@ -331,19 +332,19 @@ _Ask about one thing at a time_
 
 A poorly written question can contain multiple questions, which can confuse participants or lead them to answer only part of the question you are asking. This is called a "double-barreled question" in journal- ism. See how the following poor question was revised to be more effective:
 
-_Poor question:_ What kinds of problems are being faced in the field today and where do you see the search for solutions to these problems going?
-
-_Revised question #1:_ What kinds of problems are being faced in the field today?
-
-_Revised question #2:_ Where do you see the search for solutions to these problems going?
+> _Poor question:_ What kinds of problems are being faced in the field today and where do you see the search for solutions to these problems going?
+>
+> _Revised question #1:_ What kinds of problems are being faced in the field today?
+>
+> _Revised question #2:_ Where do you see the search for solutions to these problems going?
 
 _Avoid leading questions_
 
 A leading question is one where you prompt the participant to respond in a particular way, which can create bias in the answers given:
 
-_Leading question:_ The economy is clearly in a crisis, wouldn't you agree?
-
-_Revised question:_ Do you believe the economy is currently in a crisis? Why or why not?
+> _Leading question:_ The economy is clearly in a crisis, wouldn't you agree?
+>
+> _Revised question:_ Do you believe the economy is currently in a crisis? Why or why not?
 
 When asking questions in person or through virtual meeting software, be aware of your body language and facial expressions. Maintaining a sort of visible neutrality will help you avoid a type of response bias, where respondents adjust what they say based on perceived approval or disapproval from the interviewer or others.
 
@@ -375,7 +376,7 @@ In terms of the specific questions you include on your guide, there are a few gu
 
 Also, try to avoid phrasing your questions in a leading way. For example, rather than asking, "Don't you think that most people who don't want kids are selfish?" you could ask, "What comes to mind for you when you hear that someone doesn't want kids?" Or rather than asking, "What do you think about juvenile delinquents who drink and drive?" you could ask, "How do you feel about underage drinking?" or "What do you think about drinking and driving?" Finally, as noted earlier in this section, remember to keep most, if not all, of your questions open ended. The key to a successful qualitative interview is giving participants the opportunity to share information in their own words and in their own way.
 
-## Surveys
+### Surveys
 
 Other than the fact that they both involve asking people questions, interviews and surveys are quite different data collection methods. Creating a survey may seem easy at first, but developing a quality sur- vey can be quite challenging. When conducting a survey, you need to focus on the following areas: survey creation, survey testing, survey sampling, and distributing your survey.
 
@@ -403,11 +404,9 @@ Or perhaps you want to survey engineering undergrads. You could post notices aro
 
 See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing surveys.
 
-> This section contains material taken from:
-
-- Parts of the section "Writing questions for virtual surveys" and the first four paragraphs of the Surveys section are taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll , and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-
-- All but the first paragraph of the section "Face-to-face and virtual interviews" is taken from [Principles of Sociological Inquiry: Qualitative and Quantitative Methods](https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/index.html) by Saylor Academy and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+> - Parts of the section "Writing questions for virtual surveys" and the first four paragraphs of the Surveys section are taken from [Introduction to Primary Research: Observations, Surveys, and](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) [Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll , and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+>
+> - All but the first paragraph of the section "Face-to-face and virtual interviews" is taken from [Principles of Sociological Inquiry: Qualitative and Quantitative Methods](https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/index.html) by Saylor Academy and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
 ## Mitigating bias in your observation notes
 
@@ -415,16 +414,21 @@ See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing s
 ---
 name: three-four
 ---
-Photo by Felipe Furtado on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Photo by Felipe Furtado on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.</p>
+</div>
 
 As you engage in observation, you'll want to ensure that you focus on the details and the facts. According to Driscoll (2011):
 
-The ethical concern of being unbiased is important in recording your observations. You need to be aware of the difference between an observation (recording exactly what you see) and an interpretation (making assumptions and judgments about what you see). When you observe, you should focus first on only the events that are directly observable. [^9] Driscoll (2011) gives the following entries in an observation log as an example:
+> The ethical concern of being unbiased is important in recording your observations. You need to be aware of the difference between an observation (recording exactly what you see) and an interpretation (making assumptions and judgments about what you see). When you observe, you should focus first on only the events that are directly observable. [^9]
 
-1.  The student sitting in the dining hall enjoys his greasy, oil-soaked pizza. He is clearly oblivious of the calorie content and damage it may do to his body.
+Driscoll (2011) gives the following entries in an observation log as an example:
 
-2.  The student sits in the dining hall. As he eats his piece of pizza, which drips oil, he says to a friend, "This pizza is good." [^9]
+> 1.  The student sitting in the dining hall enjoys his greasy, oil-soaked pizza. He is clearly oblivious of the calorie content and damage it may do to his body.
+>
+> 2.  The student sits in the dining hall. As he eats his piece of pizza, which drips oil, he says to a friend, "This pizza is good." [^9]
 
 What are your thoughts about each of these entries? Is one entry more biased than the other?
 
@@ -545,10 +549,10 @@ Table 3.2 Observation notes on user trying to write
 In this example, the researcher realizes that there's more they need to know about carpal tunnel syndrome -- not only the mechanics of the syndrome, but its psychological and lifestyle implications. As such, they choose to conduct a contextual inquiry where they have the user demonstrate their grip with writing implements of various sizes and ask the user questions about the effects carpal tunnel has had on their everyday life.
 
 > This section contains material taken from:
+>
+> - [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
 
-- [Introduction to Primary Research: Observations, Surveys, and Interviews](https://wac.colostate.edu/books/writingspaces2/driscoll--introduction-to-primary-research.pdf) by Dana Lynn Driscoll, and is used under a [CC-BY-NC-SA 3.0 License.](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
-
-# Documenting Primary Design Research
+## Documenting Primary Design Research
 
 After you've completed your research, you should document it thoroughly and as quickly as possible, as your memory may be altered if you wait too long. You should also document the implications for the next stage in your design process in a primary research summary. In this way, you create a framework for justifying the elements of your prototype. As you've learned, it isn't enough to create a prototype; you must also explain why or take note about the justifications for each element of the design. By doing so, you not only provide reasoning about why your ideas are sound; you also enable others to replicate and build upon your ideas.
 
@@ -586,11 +590,11 @@ Visual communication is an essential component of your primary research results.
 
 <a id="bookmark0"></a>
 
-# Appendix A - Survey Planning Guide
+## Appendix A - Survey Planning Guide
 
 To write and distribute your survey, first carefully read the information about surveys and sample populations in \[the DTC resource\].
 
-## Set the groundwork
+### Set the groundwork
 
 **Who are your target respondents?** Which of your various user groups and stakeholders is your survey aimed at? Be clear about who you have in mind so you succeed in collecting the information you need.
 
@@ -608,7 +612,7 @@ To write and distribute your survey, first carefully read the information about 
 
 **What are you using to build your research instrument?** Google Forms (free) works great for the type of research you are doing. Other options are SurveyMonkey (free for brief surveys) and Qualtrics (you may have free access through your learning institution).
 
-## Know how to write survey questions
+### Know how to write survey questions
 
 Here are a few common types. For examples and more types, look at this [brief and readable resource](https://www.surveymonkey.com/mp/survey-question-types/) from SurveyMonkey.
 
@@ -624,7 +628,7 @@ Here are a few common types. For examples and more types, look at this [brief an
 
 - **Comparison**. This is a form of multiple choice, but it's helpful to point out for the type of research you will be doing. You can suss out user preferences and perceptions more easily with comparison questions sometimes than with a list of abstract ideas. Example: \"Two travel cups are identical except one is totally recyclable and costs \$5 more. Which one would you buy?\"
 
-## Write your questions and answer choices
+### Write your questions and answer choices
 
 A survey should be as brief as possible, but it is also your last best chance to collect the information you need (relatively few respondents will respond to a second, follow-up survey). Below are some tips; you can also read [this brief and readable article](https://www.qualtrics.com/blog/writing-survey-questions/) from Qualtrics about common pitfalls to avoid.
 
@@ -646,11 +650,11 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 **Ask precise questions**, always keeping in mind what you are trying to learn. For example, "Would you be willing to train for a half marathon" might not be enough information for your project. You might benefit from following up with questions about the most important factors leading to a Yes or No answer.
 
-## Test the survey
+### Test the survey
 
 **Have someone take your survey** and flag any parts that give them pause. Revise the survey and test it again.
 
-## Prepare to distribute
+### Prepare to distribute
 
 **Write an introduction** to your survey to tell people in a sentence or two its purpose, its content, and how long it will take.
 
@@ -664,10 +668,7 @@ A survey should be as brief as possible, but it is also your last best chance to
 
 [^1]: J. S. Mill, _Philosophy of Scientific Method_. New York, NY, USA: Hafner Publishing Co, 1950.
 [^2]: E. Babbie, _The Practice of Social Research._ 10th ed. Belmont, CA: Wadsworth publishing, 2003.
-[^3]: K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [https://cms.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf](https://cms.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf)
-
-Adapted with permission pending.
-
+[^3]: K. Andrews, J. Parekh and S. Peckoo. "How to Embed a Racial and Ethnic Equity Perspective in Research Practical Guidance for the Research Process," Child Trends, Aug. 2019. Accessed: Aug 20, 2020. \[Online\] Available: [https://cms.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf](https://cms.childtrends.org/wp-content/uploads/2019/09/RacialEthnicEquityPerspective_ChildTrends_October2019.pdf). Adapted with permission pending.
 [^4]: V. Tran. "Asian Americans are Falling through the Cracks in Data Representation and Social Services," Urban Institute, Jun. 20, 2018. Accessed: Aug 19, 2020. \[Online\]. Available: [https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social- services](https://www.urban.org/urban-wire/asian-americans-are-falling-through-cracks-data-representation-and-social-services)
 [^5]: K. Jones and T. Okun. "The Characteristics of White Supremacy Culture," ChangeWork, 2001. Accessed: Aug. 20, 2020. \[Online\]. Available: [https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html](http://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html)
 [^6]: J. S. Mill, _Philosophy of Scientific Method_. New York, NY, USA: Hafner Publishing Co, 1950.
