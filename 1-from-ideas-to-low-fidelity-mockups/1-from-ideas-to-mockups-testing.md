@@ -238,7 +238,7 @@ name: one-seven
 ```
 
 <div style="text-align: center; font-size: small; font-style: italic;">
-  <p>Fig. 7. Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <https://twitter.com/jessmcmullin>. [Accessed 2020].</p>
+  <p>Fig. 7. Low-Fidelity paper cardstock mock-up of museum layout to get feedback on customer experience. Designed by Jess McMullin. J. McMullin, "Jess McMullin's Twitter Page," [Online]. Available: <a href="https://twitter.com/jessmcmullin">https://twitter.com/jessmcmullin</a>. [Accessed 2020].</p>
 </div>
 
 [Figure 7](one-seven) shows a mock-up of a museum exposition, with the different exhibits, signs and tables that allows for a discussion of the user experience in the space: who will greet them and where they will pay, where the bathroom is and how hard it is to get there, where signs directing visitors will be situated, etc. Designer Jess McMullin says the inclusion of pictures helps connect "observations in field to possibilities in the future expressed through prototypes, and also creates 'better empathy.'" When testing for users responses to different forms, you can also use paper and cardstock to build low fidelity "looks-like" mock-ups, which can be presented to various users and audiences to get feedback on appearance, comprehension, or use of a space. [Figure 8](one-eight) shows a "looks-like" mock-up of a backpack, used to get feedback from potential customers on the form and placement of the features including front pockets, buckle and straps. This "looks-like" mock- up would not be a good way to test how much load the backpack could hold, and the durability of the straps, or even the fit on a person. Danielle Panther, designer of this mock-up, said 'Bag prototype made using card, masking tape, and glue. I am happy with the size and style of my bag and I am looking forward to making it in my faux leather material.'
@@ -251,7 +251,7 @@ name: one-eight
 ```
 
 <div style="text-align: center; font-size: small; font-style: italic;">
-  <p>Fig. 8. This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <https://www.pinterest.com/pin/305611524704884823/?autologin=true>. [Accessed 2020].</p>
+  <p>Fig. 8. This is a low fidelity mock-up of a bag made by a Danielle Panther. D. Panther, "Danielle Panther's Pinterest Page," Pinterest, [Online]. Available: <a href="https://www.pinterest.com/pin/305611524704884823/?autologin=true">https://www.pinterest.com/pin/305611524704884823/?autologin=true</a>. [Accessed 2020].</p>
 </div>
 
 ### Concept Sketches
@@ -285,7 +285,7 @@ name: one-eleven
 ```
 
 <div style="text-align: center; font-size: small; font-style: italic;">
-  <p>Fig. 10. Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: behance.net/gallery/75590687/Sketching-Concepts. [Accessed 2020].</p>
+  <p>Fig. 10. Sketch of cooling box by design engineer Mick Camerlengo from London. Sketches used to test out the position of handle, battery, and opening mechanism. M. Camerlengo, "Sketching & Concepts," Behance, [Online]. Available: <a href="https://www.behance.net/gallery/75590687/Sketching-Concepts.">behance.net/gallery/75590687/Sketching-Concepts</a>. [Accessed 2020].</p>
 </div>
 
 ### StoryBoards
