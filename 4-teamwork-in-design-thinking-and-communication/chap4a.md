@@ -160,7 +160,7 @@ _Kiki Zissimopoulos, PhD & Michele Zugnoni, PhD_
 
 **Overview**
 
-These reflections were created for Design Thinking and Communication at Northwestern University. Each reflection has a suggested forum (i.e., quiz, discussion board), but they can be assigned on whichever forum the instructor feels best fits their course. These reflections are formed around Phil Daniel's stop-start-continue format.[^4]
+These reflections were created for Design Thinking and Communication at Northwestern University. Each reflection has a suggested forum (i.e., quiz, discussion board), but they can be assigned on whichever forum the instructor feels best fits their course. These reflections are formed around Phil Daniel's stop-start-continue format.[^1]
 
 # Reflection Set One
 
@@ -266,8 +266,5 @@ Over the last few days, you and your team have had a chance to reflect on and di
 
 # References
 
-[^1]: Lencioni, P. "The five dysfunctions of a team." _The Organizational Health People_: _The Table Group_. Accessed 8/22/20 from [https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/)
-[^2]: J. Wang, G. H.-L. Cheng, T. Chen, and K. Leung. \"Team creativity/innovation in culturally diverse teams: A meta‐analysis.\" _Journal of Organizational Behavior,_ vol. 40.6, pp. 693-708, Feb. 2019, doi: 10.1002/job.2362.
-[^3]: J. Matthieu and T. Rapp. "Laying the foundation for successful team performance strategies: The roles of team charters and performance strategies." _Journal of Applied Psychology_, vol. 94.1, pp. 90-103, Jul. 2010, doi: 10.1037/a0013257.
-[^4]:
+[^1]:
     DeLong, T.J. (2011, Aug 4). Three questions for effective feedback. _Harvard Business Review_. https://hbr.org/2011/08/three-questions-for-effective-feedback
