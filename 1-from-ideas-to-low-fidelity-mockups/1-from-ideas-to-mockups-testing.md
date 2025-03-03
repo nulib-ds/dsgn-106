@@ -303,7 +303,7 @@ name: one-twelve
   <p>Fig. 11. Storyboard of Pawdacity. A concept to assist pet owners to identify and obtain booties for their dog. Image courtesy of Team 1 2018 Spring DTC - Section 12.</p>
 </div>
 
-These storyboards are often used to focus the development team on the key aspect of the application that have value to the customer. In this case the value add for the user was the paw measurement tool in conjunction with the database of highly recommended doggie booties to recommend a specific brand to suit the usage situation and dog breed. For a great reference on Agile software development, we recommend reading "The Agile Samuari: How Agile Masters Deliver Great Software." [^2]
+These storyboards are often used to focus the development team on the key aspect of the application that have value to the customer. In this case the value add for the user was the paw measurement tool in conjunction with the database of highly recommended doggie booties to recommend a specific brand to suit the usage situation and dog breed. For a great reference on Agile software development, we recommend reading "The Agile Samuari: How Agile Masters Deliver Great Software."[^2]
 
 ### Process Mimics/Try-On/Walk-Through/Novel Processes
 
@@ -313,7 +313,7 @@ Testing a novel way of accomplishing a task can add value to the user without th
 
 In app and website development, simple sketching and "wireframing", a low-fidelity method for creating a two-dimensional skeletal outline of an interface such as a web page or app.
 
-Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](one-thirteen)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them). [^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
+Wireframes provide information on the structure, layout, architecture of information, user workflow, functionality and intended behaviors of users interacting with an intended design concept. Details commonly left out of a wireframe include styling color, and graphics, which are not necessary to represent the initial concept. Lo-fi wireframes can be drawn by hand or created using PowerPoint, depending on the detail required ([Figure 12](one-thirteen)). Wireframes are used in user interface (UX) design. For a brief introduction, watch ["How to Create your First Wireframe](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/#1-what-is-a-wireframe-and-who-uses-them).[^3] Low-fidelity wireframes are often sketched, while mid-fidelity wireframes may be created digitally.
 
 ```{figure} ./photos/13.png
 ---

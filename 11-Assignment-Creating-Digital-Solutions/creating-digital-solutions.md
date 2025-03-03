@@ -4,7 +4,7 @@
 
 > Watch the [overview](https://youtu.be/5_FW4lHfUgU) video for how to develop a digital product catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 >
-> <div><iframe width="560" height="315" src="https://www.youtube.com/embed/5_FW4lHfUgU?si=617zkGdGm9FU5w7D" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+> <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5_FW4lHfUgU?si=617zkGdGm9FU5w7D" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 > <i>Continue below to view longer tutorial videos.</i>
 
 # Where to start
@@ -115,8 +115,8 @@ Watch the [tutorial video](https://youtu.be/lqXY2QjtxBg) for how to build a wire
 
 Watch the [tutorial video](https://youtu.be/79CjQTFdckI) for how to enhance a wireframe to be a clickable prototype using Figma, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
-<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/79CjQTFdckI?si=PRJFNDkWKgXD3o-9" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/79CjQTFdckI?si=PRJFNDkWKgXD3o-9" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Watch the [tutorial video](https://youtu.be/B3cjAu3TvCk) for how to build a wireframe using InVision, catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
 
-<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B3cjAu3TvCk?si=mu6rUdj4js7lcUy6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B3cjAu3TvCk?si=mu6rUdj4js7lcUy6" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -27,7 +27,7 @@ Specifically, technical and professional communication (TPC) involves communicat
 
 Engineers, especially, must be able to communicate within their teams and also be able to communicate complex information to a variety of audiences with different knowledge backgrounds. As Stephen Pinker explains,
 
-The curse of knowledge is the single best explanation of why good people write bad prose. It simply doesn't occur to the writer that her readers don't know what she knows---that they haven't mastered the argot of her guild, can't divine the missing steps that seem too obvious to mention, have no way to visualize a scene that to her is as clear as day. And so the writer doesn't bother to explain the jargon, or spell out the logic, or supply the necessary detail. [^2]
+The curse of knowledge is the single best explanation of why good people write bad prose. It simply doesn't occur to the writer that her readers don't know what she knows---that they haven't mastered the argot of her guild, can't divine the missing steps that seem too obvious to mention, have no way to visualize a scene that to her is as clear as day. And so the writer doesn't bother to explain the jargon, or spell out the logic, or supply the necessary detail.[^2]
 
 Essentially, anyone who has developed a specific area of expertise needs to be mindful that not everyone around them knows the same information or even sees the world in the same way.
 
@@ -240,7 +240,7 @@ TPC genres include (a) use of headings to organize information into coherent sec
 
 Technical documentation is intended to communicate information to the people who need it, in a way that is clear and easy to read, at the right time to help make decisions, and to support productivity. Designing technical communication is like designing any other product for an intended user\--the ultimate goal is to make it "user friendly."
 
-The late William Zinsser, author of _On Writing Well_, states, \"Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it\'s not a question of gimmick to personalize the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.\" [^9]
+The late William Zinsser, author of _On Writing Well_, states, \"Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it\'s not a question of gimmick to personalize the author. It's a question of using the English language in a way that will achieve the greatest clarity and strength.\"[^9]
 
 First, make sure your writing is **legible**. Is the font large enough to be read by a variety of audiences? Is it an easy to read font style that is appropriate for the content? If you are writing for electronic media, these considerations are especially significant.
 
@@ -465,11 +465,11 @@ Human-centered design is fundamentally an affirmation of human dignity. It is an
 
 ### Designing for persons with diverse abilities
 
-According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning" [^13]. As with HCD and TPC, the context in which a person experiences the disability is important:
+According to the World Health Organization (WHO) over one billion people in the world (approximately 15% of the world population) live with a form of disability. Within this population, "...2-4% experience significant difficulties in functioning"[^13]. As with HCD and TPC, the context in which a person experiences the disability is important:
 
-In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs [^13].
+In recent years, the understanding of disability has moved away from a physical or medical perspective to one that takes into account a person's physical, social and political context. Today, disability is understood to arise from the interaction between a person's health condition or impairment and the multitude of influencing factors in their environment. Great strides have been made to make the world more accessible for people living with disability; however, much more work is required to meet their needs.[^13]
 
-There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term _people with disabilities_ signifies that the challenges faced by an individual are a result of the impairment. The term _disabled people_ signifies that the challenges faced are a result of the person's environment [^14]. The people-first term _people with disabilities_ is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
+There is terminology that reflects the two perspectives, one from a person's impairment and one from environmental factors. The term _people with disabilities_ signifies that the challenges faced by an individual are a result of the impairment. The term _disabled people_ signifies that the challenges faced are a result of the person's environment.[^14] The people-first term _people with disabilities_ is preferred. Regardless of the perspective, the goal of HCD is to enable the person with diverse ability overcome barriers.
 
 Human-centered design, as practiced at Northwestern University's Segal Design Institute promotes social justice by empowering users with diverse abilities. The products the students design are intended to make the lives of these users easier, allowing them to better negotiate the physical context in which they live. The design process is human-centered by following the participatory approach shown in Figure 5.1. It starts with talking to users about the challenge they are trying to address. This allows the user to be the expert on the issue and honors that expertise. The user remains the focus as the design progresses, with the user providing input and participating in usability testing.
 
@@ -494,4 +494,4 @@ The supporting documentation for the design process, as well as correspondence w
 [^11]: C. R. Miller, "A humanistic rationale for technical writing," _College English,_ vol.40, no. 6, pp. 610-617.
 [^12]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," _Design Issues,_ vol. 17, no. 3, pp. 35-39.
 [^13]: "Disability," 2020. Accessed on July 20, 2020. \[Online\]. Available: https://www.who.int/health-topics/disability#tab=tab_1
-[^14]: G. Pullin, _design meets disability,_ Cambridge, MA, The MIT Press, 2009.
+14]: G. Pullin, _design meets disability,_ Cambridge, MA, The MIT Press, 2009.
