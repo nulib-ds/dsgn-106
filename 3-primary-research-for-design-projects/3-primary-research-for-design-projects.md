@@ -19,7 +19,7 @@ name: three-one
 
 How research is defined varies widely from field to field, and as you progress through your college career, your coursework will teach you much more about what it means to be a researcher within your field. For example, engineers, who focus on applying scientific knowledge to develop designs, processes, and objects, conduct research using simulations, mathematical models, and a variety of tests to see how well their designs work. Sociologists conduct research using surveys, interviews, observations, and statistical analysis to better understand people, societies, and cultures. Graphic designers conduct research through locating images for reference for their artwork and engaging in background research on clients and companies to best serve their needs. Historians conduct research by examining archival materials -- newspapers, journals, letters, and other surviving texts -- and through conducting oral history interviews. Research is not limited to what has already been written or found at the library, also known as secondary research. Rather, individuals conducting research are producing the articles and reports found in a library database or in a book. Primary research, the focus of this essay, is research that is collected firsthand rather than found in a book, database, or journal.
 
-Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill [^1] in the nineteenth century in his book Philosophy of the Scientific Method. Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process.
+Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill[^1] in the nineteenth century in his book Philosophy of the Scientific Method. Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process.
 
 Following are some common types of primary design research, and some important guidelines for cultivating an ethical and equitable research practice. In the next section, you'll read about setting the foundation for reaching your research goals. In Section 3 you'll find useful information about conducting different types of research such as interviews, observations, and surveys. And, finally, you'll read about presenting your research as reliably as possible, by analyzing (Section 4) and documenting (Section 5) it.
 
@@ -71,7 +71,7 @@ A focus group is a small group of people that a researcher assembles in order to
 
 ### Ethics of primary research
 
-As Earl Babbie writes in _The Practice of Social Research_ [^2]_,_ throughout the early and middle parts of the twentieth century researchers took advantage of participants and treated them unethically. During World War II, Nazi doctors performed heinous experiments on prisoners without their consent, while in the U.S., a number of medical and psychological experiments on caused patients undue mental and physical trauma and, in some cases, death. Because of these and other similar events, many nations have established ethical laws and guidelines for researchers who work with human participants. In the United States, the guidelines for the ethical treatment of human research participants are described in _The Belmont Report,_ released in 1979. Today, universities have Institutional Review Boards (or IRBs) that oversee research. Students conducting research as part of a class may not need permission from the university's IRB, although they still need to ensure that they follow ethical guidelines in research. The following provides a brief overview of ethical considerations:
+As Earl Babbie writes in _The Practice of Social Research,_[^2] throughout the early and middle parts of the twentieth century researchers took advantage of participants and treated them unethically. During World War II, Nazi doctors performed heinous experiments on prisoners without their consent, while in the U.S., a number of medical and psychological experiments on caused patients undue mental and physical trauma and, in some cases, death. Because of these and other similar events, many nations have established ethical laws and guidelines for researchers who work with human participants. In the United States, the guidelines for the ethical treatment of human research participants are described in _The Belmont Report,_ released in 1979. Today, universities have Institutional Review Boards (or IRBs) that oversee research. Students conducting research as part of a class may not need permission from the university's IRB, although they still need to ensure that they follow ethical guidelines in research. The following provides a brief overview of ethical considerations:
 
 - _Voluntary participation_. _The Belmont Report_ suggests that, in most cases, you need to get permission from people before you involve them in any primary research you are conducting. If you are doing a survey or interview, your participants must first agree to fill out your survey or to be interviewed. Consent for observations can be more complicated, and is dis- cussed later in the essay.
 
@@ -83,7 +83,7 @@ The above are only three of many considerations when involving human participant
 
 ### Guiding principles for racial and ethnic equity in primary research
 
-Every research or evaluation project is unique in its approach. Each project seeks to answer a specific range of research questions; thus, there can be no universal prescriptive formula for how to embed a racial and equity perspective in research. However, foundational principles can guide each research project to intentionally embed a racial and ethnic equity perspective. Based on 34 interviews with researchers, funders, academics, community practitioners, and policymakers; a thorough literature review; and the deep research experience and expertise of Child Trends scientists, Andrews, _et al._ [^3] developed five guiding principles on how to use this approach in every phase of research (from designing the study to reporting findings).
+Every research or evaluation project is unique in its approach. Each project seeks to answer a specific range of research questions; thus, there can be no universal prescriptive formula for how to embed a racial and equity perspective in research. However, foundational principles can guide each research project to intentionally embed a racial and ethnic equity perspective. Based on 34 interviews with researchers, funders, academics, community practitioners, and policymakers; a thorough literature review; and the deep research experience and expertise of Child Trends scientists, Andrews, _et al._[^3] developed five guiding principles on how to use this approach in every phase of research (from designing the study to reporting findings).
 
 #### 1. Researchers should examine their own backgrounds and biases.
 
@@ -91,11 +91,11 @@ Researchers strive to be neutral and objective; nevertheless, they have our own 
 
 #### 2. They should make a commitment to dig deeper into the data.
 
-While recognizing differences in outcomes among racial and ethnic groups is a first step in identifying disparities, it does not address them. Addressing disparities requires researchers to move beyond simply documenting them: We must also identify the underlying systemic and contextual causes of disparities. This focus is especially critical for understanding outcomes in communities of color, where truths have historically been distorted or overlooked to perpetuate racist systems and beliefs. We should dig deeper to uncover whether data points to a legacy of racism or systemic inequities at the root of racial and ethnic differences in outcomes, rather than an intrinsic deficit of the population in question. To dig deeper into the data requires that we ask questions to uncover root causes of disparities, seek the involvement and perspectives of community stakeholders, and invest adequate time and money in designing and implementing the research. [^4]
+While recognizing differences in outcomes among racial and ethnic groups is a first step in identifying disparities, it does not address them. Addressing disparities requires researchers to move beyond simply documenting them: We must also identify the underlying systemic and contextual causes of disparities. This focus is especially critical for understanding outcomes in communities of color, where truths have historically been distorted or overlooked to perpetuate racist systems and beliefs. We should dig deeper to uncover whether data points to a legacy of racism or systemic inequities at the root of racial and ethnic differences in outcomes, rather than an intrinsic deficit of the population in question. To dig deeper into the data requires that we ask questions to uncover root causes of disparities, seek the involvement and perspectives of community stakeholders, and invest adequate time and money in designing and implementing the research.[^4]
 
 #### 3. Researchers should also recognize that the research process itself has an impact on communities, and that researchers have a role in ensuring that research benefits communities.
 
-Historically, researchers have employed practices that resulted in the inhumane abuse and exploitation of communities and people of color. Researchers have obtained data on communities and then left without addressing the issues of the people they studied. By doing so, researchers have reinforced a paradigm in which they enter a community and conduct research without giving back [^5]; in this way, they have added to the abuse and exploitation that vulnerable communities already face.
+Historically, researchers have employed practices that resulted in the inhumane abuse and exploitation of communities and people of color. Researchers have obtained data on communities and then left without addressing the issues of the people they studied. By doing so, researchers have reinforced a paradigm in which they enter a community and conduct research without giving back;[^5] in this way, they have added to the abuse and exploitation that vulnerable communities already face.
 
 Particularly in communities of color where there is a history of research that caused harm or mistrust, researchers should embed a racial and ethnic equity perspective to repair this relationship.
 
@@ -171,13 +171,13 @@ name: three-two
 
 ### Clarify the research question(s)
 
-In her article, _Introduction to Primary Research_, Dana Lynn Driscoll (2011) [^6] discusses primary research. Consider the excerpt from Driscoll's article below, taking note of how you might apply this information to your own research:
+In her article, _Introduction to Primary Research_, Dana Lynn Driscoll (2011)[^6] discusses primary research. Consider the excerpt from Driscoll's article below, taking note of how you might apply this information to your own research:
 
-> Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill in the nineteenth century in his book _Philosophy of the Scientific Method [^6]._ Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process. [^7]
+> Primary research is often based on principles of the scientific method, a theory of investigation first developed by John Stuart Mill in the nineteenth century in his book _Philosophy of the Scientific Method.[^6]_ Although the application of the scientific method varies from field to field, the general principles of the scientific method allow researchers to learn more about the world and observable phenomena. Using the scientific method, researchers develop research questions or hypotheses and collect data on events, objects, or people that is measurable, observable, and replicable. The ultimate goal in conducting primary research is to learn about something new that can be confirmed by others and to eliminate our own biases in the process.[^7]
 
-Driscoll goes on to discuss Fred Leavitt's _Evaluating Scientific Research: Separating Fact from Fiction [^8],_ explaining that primary research is useful for questions that can be answered through asking others and direct observation:
+Driscoll goes on to discuss Fred Leavitt's _Evaluating Scientific Research: Separating Fact from Fiction,[^8]_ explaining that primary research is useful for questions that can be answered through asking others and direct observation:
 
-> Primary research is particularly useful when you want to learn about a problem that does not have a wealth of published information. This may be because the problem is a recent event or it is something not commonly studied. For example, if you are designing a device for a particular user with carpal tunnel syndrome, which is a condition that affects people in different ways, you may not know exactly how this condition affects this user. You'll want to collect data about this user directly, perhaps through observation or interview. Or if you're developing a website for teachers who are required to teach online during a pandemic, and you'd like to include information about developing lesson plans, you might want to survey a population of teachers to determine what information they'd find most necessary. [^8]
+> Primary research is particularly useful when you want to learn about a problem that does not have a wealth of published information. This may be because the problem is a recent event or it is something not commonly studied. For example, if you are designing a device for a particular user with carpal tunnel syndrome, which is a condition that affects people in different ways, you may not know exactly how this condition affects this user. You'll want to collect data about this user directly, perhaps through observation or interview. Or if you're developing a website for teachers who are required to teach online during a pandemic, and you'd like to include information about developing lesson plans, you might want to survey a population of teachers to determine what information they'd find most necessary.[^8]
 
 #### Narrowing your topic
 
@@ -185,7 +185,7 @@ Just like the writing process, you should start your primary research process wi
 
 #### Developing research questions or hypotheses
 
-As John Stuart Mill describes in his book, _Philosophy of the Scientific Method_, primary research can use both _inductive_ and _deductive_ approaches, and the type of approach is usually based on the field of inquiry. Some fields use _deductive reasoning,_ where researchers start with a hypothesis or general conclusion and then collect specific data to support or refute their hypothesis. Other fields use _inductive reasoning,_ where researchers start with a question and collect information that eventually leads to a conclusion. [^6]
+As John Stuart Mill describes in his book, _Philosophy of the Scientific Method_, primary research can use both _inductive_ and _deductive_ approaches, and the type of approach is usually based on the field of inquiry. Some fields use _deductive reasoning,_ where researchers start with a hypothesis or general conclusion and then collect specific data to support or refute their hypothesis. Other fields use _inductive reasoning,_ where researchers start with a question and collect information that eventually leads to a conclusion.[^6]
 
 Once you have spent some time reviewing the secondary research on your topic, you are ready to write a primary research question or hypothesis. A research question or hypothesis should be something that is specific, narrow, and discoverable through primary research methods. Just like a thesis statement for a paper, if your research question or hypothesis is too broad, your research will be unfocused and your data will be difficult to analyze and write about. Here is a set of sample research questions:
 
@@ -255,14 +255,14 @@ According to Driscoll (2011):
 
 > Observations have led to some of the most important scientific discoveries in human history. Charles Darwin used observations of the animal and marine life at the Galapagos Islands to help him formulate his theory of evolution that he describes in _On the Origin of Species._ Today, social scientists, natural scientists, engineers, computer scientists, educational researchers, and many others use observations as a primary research method.
 >
-> Observations can be conducted on nearly any subject matter, and the kinds of observations you will do depend on \[the purpose of\] your research\... [^9]
+> Observations can be conducted on nearly any subject matter, and the kinds of observations you will do depend on \[the purpose of\] your research\...[^9]
 
 #### Conducting observations
 
 The Oxford Dictionary (2020) defines the term "to observe" in the following important ways:
 
 > 1.  Watch (someone or something) carefully and attentively
-> 2.  Take note of or detect (something) in the course of a scientific study [^10]
+> 2.  Take note of or detect (something) in the course of a scientific study[^10]
 
 When considering these definitions, a few things stand out:
 
@@ -318,7 +318,7 @@ Videos are better as a supplement to actual observation than as a replacement, a
 
 ### Writing questions for interviews and surveys
 
-Interviews and surveys are two ways that you can gather information about people's beliefs or behaviors. With these methods, the information you collect is not first-hand (like an observation) but rather "self-reported" data, or data collected in an indirect manner. William Shadish, Thomas Cook, and Donald Campbell argued that people are inherently biased about how they see the world and may report their own actions in a more favorable way than they may actually behave [^11]. Despite the issues in self-reported data, surveys and interviews are an excellent way to gather data for your primary research project.
+Interviews and surveys are two ways that you can gather information about people's beliefs or behaviors. With these methods, the information you collect is not first-hand (like an observation) but rather "self-reported" data, or data collected in an indirect manner. William Shadish, Thomas Cook, and Donald Campbell argued that people are inherently biased about how they see the world and may report their own actions in a more favorable way than they may actually behave.[^11] Despite the issues in self-reported data, surveys and interviews are an excellent way to gather data for your primary research project.
 
 #### Survey or interview?
 
@@ -422,17 +422,17 @@ name: three-four
 
 As you engage in observation, you'll want to ensure that you focus on the details and the facts. According to Driscoll (2011):
 
-> The ethical concern of being unbiased is important in recording your observations. You need to be aware of the difference between an observation (recording exactly what you see) and an interpretation (making assumptions and judgments about what you see). When you observe, you should focus first on only the events that are directly observable. [^9]
+> The ethical concern of being unbiased is important in recording your observations. You need to be aware of the difference between an observation (recording exactly what you see) and an interpretation (making assumptions and judgments about what you see). When you observe, you should focus first on only the events that are directly observable.[^9]
 
 Driscoll (2011) gives the following entries in an observation log as an example:
 
 > 1.  The student sitting in the dining hall enjoys his greasy, oil-soaked pizza. He is clearly oblivious of the calorie content and damage it may do to his body.
 >
-> 2.  The student sits in the dining hall. As he eats his piece of pizza, which drips oil, he says to a friend, "This pizza is good." [^9]
+> 2.  The student sits in the dining hall. As he eats his piece of pizza, which drips oil, he says to a friend, "This pizza is good."[^9]
 
 What are your thoughts about each of these entries? Is one entry more biased than the other?
 
-Let's look at the entries one-by-one. Driscoll (2011) points out that in the first entry, "the observer makes assumptions about the internal state of the student when she writes 'enjoys' and 'clearly oblivious to the calorie content'" (p. 161) [^9]. However, the observer doesn't detail what she actually knows about the pizza's nutritional value or how she knows that the student is enjoying the slice.
+Let's look at the entries one-by-one. Driscoll (2011) points out that in the first entry, "the observer makes assumptions about the internal state of the student when she writes 'enjoys' and 'clearly oblivious to the calorie content'" (p. 161).[^9] However, the observer doesn't detail what she actually knows about the pizza's nutritional value or how she knows that the student is enjoying the slice.
 
 In the second entry, the observer includes only the observable details and facts.
 
@@ -604,7 +604,7 @@ To write and distribute your survey, first carefully read the information about 
 
 - Watch this [short and useful video.](https://www.youtube.com/watch?v=r1R00l8Z5lg)
 
-<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1R00l8Z5lg?si=cKF_EEk11Is3ezI2" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1R00l8Z5lg?si=cKF_EEk11Is3ezI2" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 - Proactively seek to reduce implicit bias by seeking out user groups that are commonly underrepresented in research (while it varies by topic, this generally includes racial and ethnic minorities, women, and, for the type of research you are doing, non-students).
 
