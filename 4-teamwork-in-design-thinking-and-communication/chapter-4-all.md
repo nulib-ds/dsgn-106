@@ -262,6 +262,8 @@ Effective team charters can take different forms and emphasize different expecta
 
 **For examples of two different but effective team charters, see Appendix K.**
 
+## [Assignments](4-teamwork-in-design-thinking-and-communication/chap4a.md)
+
 > Substantial parts of the section "Team Charters" are taken from _Design Thinking and Communication: Principles and Practice_ by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 [^1]: Lencioni, P. "The five dysfunctions of a team." _The Organizational Health People_: _The Table Group_. Accessed 8/22/20 from [https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/)
