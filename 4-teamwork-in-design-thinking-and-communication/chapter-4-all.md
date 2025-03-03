@@ -264,6 +264,6 @@ Effective team charters can take different forms and emphasize different expecta
 
 > Substantial parts of the section "Team Charters" are taken from _Design Thinking and Communication: Principles and Practice_ by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
-<!-- Assignments start here -->
-
-    _\*All other photos are part of the public domain._
+[^1]: Lencioni, P. "The five dysfunctions of a team." _The Organizational Health People_: _The Table Group_. Accessed 8/22/20 from [https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/)
+[^2]: J. Wang, G. H.-L. Cheng, T. Chen, and K. Leung. \"Team creativity/innovation in culturally diverse teams: A meta‐analysis.\" _Journal of Organizational Behavior,_ vol. 40.6, pp. 693-708, Feb. 2019, doi: 10.1002/job.2362.
+[^3]: J. Matthieu and T. Rapp. "Laying the foundation for successful team performance strategies: The roles of team charters and performance strategies." _Journal of Applied Psychology_, vol. 94.1, pp. 90-103, Jul. 2010, doi: 10.1037/a0013257.
