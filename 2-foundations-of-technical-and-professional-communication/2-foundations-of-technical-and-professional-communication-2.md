@@ -13,9 +13,8 @@ name: two-one
   <p><a href="https://www.flickr.com/photos/35468141621%40N01/6258398639">"Desk at work"</a> by <a href="https://www.flickr.com/photos/kmore/">kerry morrison</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich">CC BY 2.0</a></p>
 </div>
 
-> In science, the credit goes to the \[person\] that convinces the
-> world, not to whom the idea first occurs. \~ _Francis Darwin (son
-> of Charles Darwin)_[^1]
+> In science, the credit goes to the [person] that convinces the world, not to whom the idea first occurs.<br>
+> -- _Francis Darwin (son of Charles Darwin)_[^1]
 
 As Francis Darwin points out, no matter how spectacular your ideas and designs are, if you can't communicate them effectively to a wide variety of audiences, they will not be recognized.
 
@@ -493,5 +492,6 @@ The supporting documentation for the design process, as well as correspondence w
 [^10]: N. N. Jones, "The technical communicator as advocate: Integrating a social justice approach in technical communication," _Journal of Technical Writing and Communication,_ vol. 46, no. 3, pp. 342-361, 2016, doi: 10.1177/0047281616639472.
 [^11]: C. R. Miller, "A humanistic rationale for technical writing," _College English,_ vol.40, no. 6, pp. 610-617.
 [^12]: R. Buchanan, "Human dignity and human rights: Thoughts on the principles of human-centered design," _Design Issues,_ vol. 17, no. 3, pp. 35-39.
-[^13]: "Disability," 2020. Accessed on July 20, 2020. \[Online\]. Available: https://www.who.int/health-topics/disability#tab=tab_1
-14]: G. Pullin, _design meets disability,_ Cambridge, MA, The MIT Press, 2009.
+[^13]:
+    "Disability," 2020. Accessed on July 20, 2020. \[Online\]. Available: https://www.who.int/health-topics/disability#tab=tab_1
+    14]: G. Pullin, _design meets disability,_ Cambridge, MA, The MIT Press, 2009.
