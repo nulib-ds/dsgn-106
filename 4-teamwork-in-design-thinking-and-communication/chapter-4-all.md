@@ -1,46 +1,18 @@
-# Teamwork in Design Thinking and Communication
+# Working with Teams
 
 _Kiki Zissimopoulos and Michele N. Zugnoni_
-
 _With special thanks to Lisa Del Torto for conducting interviews_
+
+## Introduction
 
 ```{figure} ./photos/1.png
 ---
 name: four-one
 ```
 
-# Navigation
-
-[Introduction](#bookmark0)
-
-[Our Approach to Teamwork and Problem Solving](#bookmark1)
-
-[Team Roles](#bookmark2)
-
-[Team Role Definitions](#bookmark3)
-
-[Sharing Ideas](#bookmark4)
-
-[Equitable Assignment of Work](#bookmark5)
-
-[Developing a Communication Framework](#bookmark6)
-
-[Managing Conflict](#bookmark7)
-
-[Team Charters](#bookmark8)
-
-[References](#bookmark9)
-
-<a name="bookmark0"></a>
-
-# Introduction
-
-```{figure} ./photos/2.png
----
-name: four-two
----
-A team of design students poses with their prototype. Presentations (Photo 1). Photographed by McCormick School of Engineering, Northwestern University.
-```
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>A team of design students poses with their prototype. Photographed by McCormick School of Engineering, Northwestern University.</p>
+</div>
 
 Our primary teamwork goals for this class are for each of you to grow in your ability to equitably share team labor, provide self & peer assessment, and resolve team conflict. Our focus on growth will inherently require trial and error. Therefore, this class is an opportunity for you to discover, through direct experience, what behaviors, mindsets, and strategies lead to effective teamwork.
 
@@ -48,9 +20,18 @@ When asked about the most important things learned in DTC and the most important
 
 Our goal for this article is to provide you with strategies to navigate the process of working closely with a group of your peers who have different schedules, priorities, and strengths in order to create a positive team experience. Throughout the article, you'll find videos, which feature former design students expressing the lessons they learned that helped them achieve success in this course. In order to view these videos, be sure to download this pdf to your computer and have the latest update for Adobe Reader installed.
 
-<a name="bookmark1"></a>
+## Our Approach to Teamwork and Problem Solving
 
-# Our Approach to Teamwork and Problem Solving
+```{figure} ./photos/2.png
+---
+name: four-two
+---
+
+```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>Design students present their project. Photographed by McCormick School of Engineering, Northwestern University.</p>
+</div>
 
 In this class, you will be challenged to take supported risks. By 'supported' we mean that your instructors and peers will provide feedback to guide you through this process. At times, you will take on team responsibilities that require you to complete tasks that you've never done before. Sometimes, you may feel you aren't particularly well-suited to the tasks you're completing. You may feel that you aren't strong in that particular area.
 
@@ -58,20 +39,11 @@ Rest assured, the tasks you will complete in this class will help you develop sk
 
 Gretchen Vogt, a former design student, reflected on how this class pushed her out of her comfort zone by requiring her to present her work, and how she grew as a result: "It turned out that it felt like every single quarter there were at least one or two classes where I had to present \... I really appreciate that I had to do this ... because otherwise I would have been totally in over my head. The fact that \[this class\] forces you out of your comfort zone really prepares you for other classes that are also going to force you out of your comfort zone. So you really have to learn to get comfortable with being uncomfortable and \[this class\] helps with that." Gretchen recognized the opportunity to learn new skills in the supportive environment created by this class, and became stronger for it.
 
-```{figure} ./photos/3.png
----
-name: four-three
----
-Design students present their project. Presentations (Photo 9). Photographed by McCormick School of Engineering, Northwestern University.
-```
-
 In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in [this video.](https://youtu.be/drax57Wd_xE)
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/drax57Wd_xE?si=rdCJBJWe6Us-yS4x" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<a name="bookmark2"></a>
-
-# Team Roles
+## Team Roles
 
 Depending on your instructors' directions, your team may rotate through various roles, as described below, so that each person has an opportunity to guide team development while also expanding their skill set. Each of these roles asks you to facilitate behaviors which foster effective teams. Each team member will hold every role for two or three weeks during the quarter. It is important that your team respects the boundaries of each role. If you are strong at a role that you are not currently assigned to, resist the temptation to take over for the team member who is assigned to this role. This is their opportunity to learn and your opportunity to model effective team behavior as you support them. By rotating roles and respecting the boundary of each role, you're enabling your team to leverage each member's strengths, as discussed by former design student, [Joe Burke](https://youtu.be/JbnRTV0IK4Y).
 
@@ -79,46 +51,52 @@ Depending on your instructors' directions, your team may rotate through various 
 
 <a name="bookmark3"></a>
 
-## Suggested Team Roles
+### Suggested Team Roles
 
-### Idea Mediator
+#### Idea Mediator
+
+```{figure} ./photos/3.png
+---
+name: four-three
+---
+```
 
 This teammate is responsible for advocating for ideas during brainstorming, and guarding against early judgement. This person makes sure each idea gets a fair shot. This person takes care to guard against group-think, ensuring that each idea is weighed for benefits and drawbacks.
+
+This person also makes sure that everyone understands the conversation, and that jargon isn't being used that might be understood differently by different people. This person checks in with other teammates to ensure everyone has had a chance to share their points-of-view and ideas.
+
+Finally, this person works with the Wellness Watcher to resolve any disputes that occur between team members.
+
+#### Timeline Watcher
 
 ```{figure} ./photos/4.png
 ---
 name: four-four
 ```
 
-This person also makes sure that everyone understands the conversation, and that jargon isn't being used that might be understood differently by different people. This person checks in with other teammates to ensure everyone has had a chance to share their points-of-view and ideas.
-
-Finally, this person works with the Wellness Watcher to resolve any disputes that occur between team members.
-
-### Timeline Watcher
-
 This teammate is responsible for updating and referencing the project management tools (i.e., Gantt chart, RAM chart, etc.). This person also keeps track of assignment due-dates and key milestones, ensuring that work is turned in on time. The person in this role should close each team meeting with a recap of what is done, what needs to be done, and any necessary timeline adjustments if needed.
+
+This person keeps the team on track.
+
+#### Cohesion Collaborator
 
 ```{figure} ./photos/5.png
 ---
 name: four-five
 ```
 
-This person keeps the team on track.
+This person records notes during team meetings; client interactions; and presentations (i.e., such as comments from teachers and classmates). This person also shares these notes with all other teammates so that everyone is up-to-date with what's currently happening in terms of teamwork and project design. In addition, this person is responsible for communicating with external partners, such as clients and project partners, to complete tasks such as scheduling and email communications.
 
-### Cohesion Collaborator
+#### Wellness Watcher
 
 ```{figure} ./photos/6.png
 ---
 name: four-six
 ```
 
-This person records notes during team meetings; client interactions; and presentations (i.e., such as comments from teachers and classmates). This person also shares these notes with all other teammates so that everyone is up-to-date with what's currently happening in terms of teamwork and project design. In addition, this person is responsible for communicating with external partners, such as clients and project partners, to complete tasks such as scheduling and email communications.
-
-### Wellness Watcher
-
 This person is responsible for initiating discussions about dividing work, and ensures that work is divided equitably. They also keep track of how everyone's doing throughout the week, taking note if someone isn't feeling well or if someone is particularly busy, such as with midterm examinations or family responsibilities. In taking note, this person also keeps track of whether a busy team member has too many jobs assigned to them during that week, and shifts responsibilities so that other, less busy team members can help out. Finally, this person works with the Idea Mediator to resolve any disputes that occur between team members.
 
-Suggested Rotation Schedule Tool:
+#### Suggested Rotation Schedule Tool
 
 ```{figure} ./photos/7.png
 ---
@@ -144,7 +122,7 @@ As you work with your team on developing ideas, you'll rely on the Idea Mediator
 
 <a name="bookmark5"></a>
 
-## Equitable Assignment of Work
+### Equitable Assignment of Work
 
 Just as you will rotate roles, it's also important to rotate responsibilities and tasks. The responsibilities in this class are varied, but include aspects of design and writing. You may find that you have strengths in one area or another, but in this class you will be called upon to take on tasks that may or may not involve one of your strengths. If you did a lot of writing in high school, for example, you will now be asked to take on tasks associated with design. The same is true in reverse: If you did a lot of design in high school, you are now asked to take on tasks associated with writing. As discussed above, the important thing in this course is giving yourself and your teammates the opportunity to grow. No one is an expert; we are all learning and developing our skills.
 
@@ -163,7 +141,7 @@ Also consider how you will manage time. Since you'll be working with a team, it'
   
   <a name="bookmark6"></a>
 
-## Developing a Communication Framework
+### Developing a Communication Framework
 
 As you begin to build rapport with your teammates, it's important to decide on how you will communicate. Some things to consider and work into a team charter are:
 
@@ -175,7 +153,7 @@ As you begin to build rapport with your teammates, it's important to decide on h
 
 <a name="bookmark7"></a>
 
-## Managing Conflict
+### Managing Conflict
 
 Should your team experience a dispute between team members, it's important to resolve that dispute in a way that empowers your team. The Wellness Watcher and Idea Mediator will serve as the team's mediators. Be sure to listen carefully to what each team member has to say, and then talk through the dispute in a way that ends with your team reaching a solution amenable to everyone.
 
@@ -183,7 +161,7 @@ As you learn to work together with your team, consider that each member has a di
 
 <a name="bookmark8"></a>
 
-# Team Charters
+## Team Charters
 
 Team charters are important for laying the groundwork and deciding how your team will function throughout the course. A team charter expresses the team\'s agreements on the following questions:
 
@@ -229,13 +207,13 @@ Your team charter consists of three main sections:
 
 The following team charter is neither comprehensive nor specific, so it is unlikely to help the team as the project proceeds and demands more of each member\'s time and effort:
 
-## Vague and Ineffective Team Charter
+### Vague and Ineffective Team Charter
 
 **Mission:** We will design a system that enables people in wheelchairs to transfer to and from the leg press machine at RIC quickly and comfortably.
 
 **Performance goal:** Our mission is to fulfill the requirements of our project as set forth in the client\'s description provided to us at the start.
 
-### Team Standards:
+#### Team Standards:
 
 - Communication
 
@@ -284,9 +262,9 @@ Effective team charters can take different forms and emphasize different expecta
 
 **For examples of two different but effective team charters, see Appendix K.**
 
-### This article contains material taken from:
+> Substantial parts of the section "Team Charters" are taken from _Design Thinking and Communication: Principles and Practice_ by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
-Substantial parts of the section "Team Charters" are taken from _Design Thinking and Communication: Principles and Practice_ by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+<!-- Assignments start here -->
 
 _Kiki Zissimopoulos, PhD_
 
