@@ -8,7 +8,7 @@ This assignment leads students through various activities to teach them about do
 
 ## Learning Materials
 
-1. Overview of Different Users in the Scenario.pdf
+1. {download}`Overview of Different Users in the Scenario.pdf <./files/1>`
 2. How Many Times Does the Parent Assist the Child.mp4
 3. Primary Perspective.pdf
 4. Primary Perspective_Start.pdf
