@@ -1,6 +1,6 @@
 # Working with Teams
 
-_Kiki Zissimopoulos and Michele N. Zugnoni_
+_Kiki Zissimopoulos and Michele N. Zugnoni_<br>
 _With special thanks to Lisa Del Torto for conducting interviews_
 
 ## Introduction
@@ -103,20 +103,24 @@ This person is responsible for initiating discussions about dividing work, and e
 name: seven
 ```
 
-<a name="bookmark4"></a>
-
 ## Sharing Ideas
 
 ```{figure} ./photos/8.png
 ---
 name: four-eight
 ---
-A team of design students meets to discuss their ideas. DTC Small Group Meeting. Photographed by McCormick School of Engineering, Northwestern University.
+
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>A team of design students meets to discuss their ideas. DTC Small Group Meeting. Photographed by McCormick School of Engineering, Northwestern University.</p>
+</div>
 
 In this course, you will have many opportunities to share ideas with your team members. It's important to understand that every idea brings you closer to the solution you're hoping to achieve. As former design student Pravika Joshi notes, "It's really important that you give everyone's voice equal value\... \[W\]hether you think an idea is way out there should be even a consideration at that point. You should be letting people freely talk and think of the craziest ideas and giving those ideas equal weight as well."
 
 After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid.[^1] When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results.[^2] In the [video below](https://youtu.be/HVRJhZMJNKs), former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HVRJhZMJNKs?si=byr9nBFe8AOrjJ2f" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 As you work with your team on developing ideas, you'll rely on the Idea Mediator for effective discussion. The person filling this role will help ensure that your team members listen to all ideas, which is important as you work to arrive at a final solution.
 
@@ -132,8 +136,11 @@ As you assign work to your team members, you'll want to ensure that each team me
 ---
 name: four-nine
 ---
-A design team works on their prototype. DTC Fair Dec. 7. Photographed by McCormick School of Engineering, Northwestern University.
 ```
+
+<div style="text-align: center; font-size: small; font-style: italic;">
+  <p>A design team works on their prototype. DTC Fair Dec. 7. Photographed by McCormick School of Engineering, Northwestern University.</p>
+</div>
 
 Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students [Boss Paspanthong and Amanda Davis](https://youtu.be/9fEY_UflzZU) have to say about time management in making your decision.
 
@@ -179,9 +186,9 @@ Team charters are important for laying the groundwork and deciding how your team
 
 - How will we know when we\'ve reached genuine agreement?
 
-To serve their purpose most effectively, team charters must be comprehensive and specific; as Matthieu and Rapp explain:
+To serve their purpose most effectively, team charters must be comprehensive and specific. As Matthieu and Rapp explain:
 
-Teams with high-quality charters are more likely to have thoroughly outlined member roles and interaction processes early on, so members can better concentrate on taskwork without pausing to debate issues already addressed in the team charter and can thereby perform better. To the extent that the charter is comprehensive, it should lay the foundation for a wide variety of circumstances that the team may confront (p. 92).[^3]
+> Teams with high-quality charters are more likely to have thoroughly outlined member roles and interaction processes early on, so members can better concentrate on taskwork without pausing to debate issues already addressed in the team charter and can thereby perform better. To the extent that the charter is comprehensive, it should lay the foundation for a wide variety of circumstances that the team may confront (p. 92).[^3]
 
 Experience from design instructors is that successful teams use their team charter to hold each other accountable in six specific ways. Team members:
 
@@ -207,40 +214,40 @@ Your team charter consists of three main sections:
 
 The following team charter is neither comprehensive nor specific, so it is unlikely to help the team as the project proceeds and demands more of each member\'s time and effort:
 
-### Vague and Ineffective Team Charter
-
-**Mission:** We will design a system that enables people in wheelchairs to transfer to and from the leg press machine at RIC quickly and comfortably.
-
-**Performance goal:** Our mission is to fulfill the requirements of our project as set forth in the client\'s description provided to us at the start.
-
-#### Team Standards:
-
-- Communication
-
-- Use email to stay in touch. Be open-minded.
-
-- Meetings
-
-- Attend all meetings and be on time.
-
-- Do everything possible to make the meetings productive. In particular, have a meeting agenda and stick to it.
-
-- Everybody should participate in each meeting. All ideas should be respected.
-
-- Dealing with disagreements
-
-- Disagreements should be openly discussed until agreement is reached.
-
-- Team Dynamics
-
-- Have fun! Enjoy the process as much as possible.
-- Track Tasks - Roles & Responsibilities Assign tasks evenly and fairly.
-
-- Make sure to complete your assigned task on time.
-
-- Intrinsic Motivation
-
-- Each person should be sure to coordinate their personal goals with those of the entire team.
+> ### Vague and Ineffective Team Charter
+>
+> **Mission:** We will design a system that enables people in wheelchairs to transfer to and from the leg press machine at RIC quickly and comfortably.
+>
+> **Performance goal:** Our mission is to fulfill the requirements of our project as set forth in the client\'s description provided to us at the start.
+>
+> #### Team Standards:
+>
+> ##### Communication
+>
+> - Use email to stay in touch. Be open-minded.
+>
+> ##### Meetings
+>
+> - Attend all meetings and be on time.
+> - Do everything possible to make the meetings productive. In particular, have a meeting agenda and stick to it.
+> - Everybody should participate in each meeting. All ideas should be respected.
+>
+> ##### Dealing with disagreements
+>
+> - Disagreements should be openly discussed until agreement is reached.
+>
+> ##### Team Dynamics
+>
+> - Have fun! Enjoy the process as much as possible.
+>
+> ##### Track Tasks - Roles & Responsibilities
+>
+> - Assign tasks evenly and fairly.
+> - Make sure to complete your assigned task on time.
+>
+> ##### Intrinsic Motivation
+>
+> - Each person should be sure to coordinate their personal goals with those of the entire team.
 
 While the mission statement is clear, the performance goal sets only a minimal standard of achievement, and the team standards lack detail and leave important questions unaddressed, such as:
 
@@ -262,7 +269,7 @@ Effective team charters can take different forms and emphasize different expecta
 
 **For examples of two different but effective team charters, see Appendix K.**
 
-## [Assignments](chap4a.md)
+> [Assignments](chap4a.md) for this chapter can be found in the next section.
 
 > Substantial parts of the section "Team Charters" are taken from _Design Thinking and Communication: Principles and Practice_ by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 

@@ -4,6 +4,10 @@
 
 _Dr. Laura Pigozzi_
 
+> ## Overview
+>
+> On this page, you’ll find assignments created by Dr. Laura Pigozzi to match the chapter [_What is Design Thinking and Communication and What Does it Have to Do with Equity?_](https://open.lib.umn.edu/designequity/chapter/chapter-7-what-is-design-thinking-and-what-does-it-have-to-do-with-equity/) This chapter is part of a text on design equity written and published by the University of Minnesota. You can find the text in whole [here](https://open.lib.umn.edu/designequity/).
+
 ## Possible reflection topics
 
 - Identifying and addressing assumptions
