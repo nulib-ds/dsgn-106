@@ -9,10 +9,10 @@ This assignment leads students through various activities to teach them about do
 ## Learning Materials
 
 1. {download}`Overview of Different Users in the Scenario.pdf <./files/1>`
-2. How Many Times Does the Parent Assist the Child.mp4
-3. Primary Perspective.pdf
-4. Primary Perspective_Start.pdf
-5. Secondary Perspective.pdf
-6. Time and Effort.pdf
-7. Toothbrushing Three Subsystems.pptx
-8. Templates.pptx
+2. {download}`How Many Times Does the Parent Assist the Child.mp4 <./files/2>`
+3. {download}`Primary Perspective.pdf <./files/3>`
+4. {download}`Primary Perspective_Start.pdf <./files/4>`
+5. {download}`Secondary Perspective.pdf <./files/5>`
+6. {download}`Time and Effort.pdf <.files/6>`
+7. {download}`Toothbrushing Three Subsystems.pptx <.files/7>`
+8. {download}`Templates.pptx <.files/8>`
