@@ -1,38 +1,40 @@
 # Assignments
 
+## Constructive and Destructive Behavior Ice Breaker
+
 _Kiki Zissimopoulos, PhD_
 
-**BACKGROUND INFORMATION:**
+> ### BACKGROUND INFORMATION
+>
+> This activity is useful as an icebreaker and will work best in the first or second week of the quarter. It allows students to discuss their team behaviors in a neutral environment before any team interactions occur in DTC. The goal of this activity is for students to have an open, honest discussion on past teamwork experiences, and to self-reflect on their own teamwork tendencies. This self-disclosure will make discussions that may arise later in the quarter easier to initiate. This icebreaker will also fast-track the team's process in getting to know each other and help the team start to develop empathy for each other. It is important to note that while these behaviors are divided into two polarities to facilitate discussion, they probably operate on a continuum in reality.
+>
+> In addition to the prompt, three possible, non-exhaustive, options for implementation are below.
 
-This activity is useful as an icebreaker and will work best in the first or second week of the quarter. It allows students to discuss their team behaviors in a neutral environment before any team interactions occur in DTC. The goal of this activity is for students to have an open, honest discussion on past teamwork experiences, and to self-reflect on their own teamwork tendencies. This self-disclosure will make discussions that may arise later in the quarter easier to initiate. This icebreaker will also fast-track the team's process in getting to know each other and help the team start to develop empathy for each other. It is important to note that while these behaviors are divided into two polarities to facilitate discussion, they probably operate on a continuum in reality.
+### Prompt for conducting activity
 
-In addition to the prompt, three possible, non-exhaustive, options for implementation are below.
-
-## Prompt for conducting activity
-
-**(\***Activity Adapted from Brunt (1993). "Facilitation Skills for Quality Improvement." Quality Enhancement Strategies. 1008 Fish Hatchery Road. Madison WI 53715.**)\***
+_Activity Adapted from Brunt (1993). "Facilitation Skills for Quality Improvement." Quality Enhancement Strategies. 1008 Fish Hatchery Road. Madison WI 53715._
 
 We all may exhibit both productive and less productive behaviors on teams. Under stress, our less helpful behaviors might start to dominate, so an awareness of our behaviors can help maintain positive team dynamics throughout the project. In reading through the Behavior Description list below, identify your single most constructive group behavior and your single most destructive group behavior.
 
-## Instructor decides next Steps. Possible options for implementation:
+### Instructor decides next Steps. <br>Possible options for implementation:
 
-1.  INDIVIDUAL REFLECTION: You may want each student to submit a reflection to you, the instructor.
+1.  **Individual Reflection:** You may want each student to submit a reflection to you, the instructor.
 
-Reflection prompt: In a reflection to instructors, describe your constructive and destructive teamwork tendencies and the types of situations that trigger these behaviors. This exercise can be helpful for you to understand the team dynamics.
+    - _Reflection prompt:_ In a reflection to instructors, describe your constructive and destructive teamwork tendencies and the types of situations that trigger these behaviors. This exercise can be helpful for you to understand the team dynamics.
 
-2.  AS REFERENCE MATERIAL: You may want to just provide this info as background material regarding different teamwork behaviors, as an FYI.
+2.  **As Reference Material:** You may want to just provide this info as background material regarding different teamwork behaviors, as an FYI.
 
-The instructor may choose to provide just the descriptions as reference material and explain to students that these are different behaviors and tendencies that teammates might exhibit on teams. Even just prompting students to read the descriptions and think about the different ways people act on a team can be helpful.
+    - The instructor may choose to provide just the descriptions as reference material and explain to students that these are different behaviors and tendencies that teammates might exhibit on teams. Even just prompting students to read the descriptions and think about the different ways people act on a team can be helpful.
 
-3.  INDIVIDUAL REFLECTION + DISCUSSION: The instructor might assign an individual reflection that they submit only to you (i.e., #1 above) and then encourage students to self-disclose whatever they are comfortable sharing with their team. You may consider being present (virtually or otherwise) for this discussion so you can help facilitate.
+3.  **Individual Reflection + Discussion:** The instructor might assign an individual reflection that they submit only to you (i.e., #1 above) and then encourage students to self-disclose whatever they are comfortable sharing with their team. You may consider being present (virtually or otherwise) for this discussion so you can help facilitate.
 
-Reflection prompt: In a reflection to instructors, describe your constructive and destructive teamwork tendencies and the types of situations that trigger these behaviors. This exercise can be helpful for you to understand the team dynamics.
+    - _Reflection prompt:_ In a reflection to instructors, describe your constructive and destructive teamwork tendencies and the types of situations that trigger these behaviors. This exercise can be helpful for you to understand the team dynamics.
 
-Team assignment: In your first team meeting, share your behavior tendencies. By sharing with the members of your group, other teammates may draw upon constructive behavior and minimize destructive behavior as you work together.
+    - _Team assignment:_ In your first team meeting, share your behavior tendencies. By sharing with the members of your group, other teammates may draw upon constructive behavior and minimize destructive behavior as you work together.
 
-## Behavior Descriptions
+### Behavior Descriptions
 
-### Constructive
+#### Constructive
 
 - _Cooperating_: Is interested in the views and perspectives of other group members and willing to adapt for the good of the group.
 
@@ -46,7 +48,7 @@ Team assignment: In your first team meeting, share your behavior tendencies. By 
 
 - _Process Checking_: Questions the group on process issues, such as agenda, time frames, discussion topics, decision methods, and use of information.
 
-### Destructive
+#### Destructive
 
 - _Dominating_: Uses most of the meeting time to express personal views and opinions. Tries to take control by use of power, time, and so on.
 
@@ -60,9 +62,11 @@ Team assignment: In your first team meeting, share your behavior tendencies. By 
 
 - _Blocking_: Impedes group progress by obstructing all ideas and suggestions ("That will never work because . . . ").
 
-_Written by Kiki Zissimopoulos, PhD & Michele Zugnoni, PhD_
+## Scenarios: Working with Teams
 
-**Directions**
+_Kiki Zissimopoulos, PhD & Michele Zugnoni, PhD_
+
+### Directions
 
 Choose two of the scenarios, listed below, being careful to choose scenarios not already chosen by your team members. Read through the scenario, then respond by following these steps:
 
@@ -72,15 +76,15 @@ Choose two of the scenarios, listed below, being careful to choose scenarios not
 
 **Step Three.** Respond to each of your team members' posts, commenting on their responses to each scenario. In your comment (which should be at least one paragraph in length), respond on the following:
 
-(a) Is there anything you would add to the answers your team member has given for each scenario?
+1. Is there anything you would add to the answers your team member has given for each scenario?
 
-(b) What parts of your team member's answer do you agree with? What parts do you disagree with?
+2. What parts of your team member's answer do you agree with? What parts do you disagree with?
 
-(c) Consider the element your team member has suggested adding to your charter. Do you agree or disagree with this element? How would you like to see your team member's idea incorporated into your team charter?
+3. Consider the element your team member has suggested adding to your charter. Do you agree or disagree with this element? How would you like to see your team member's idea incorporated into your team charter?
 
-## Scenarios
+### Scenarios
 
-### Culture
+#### Culture
 
 You are on a diverse team and you are noticing some interesting group dynamics. Jaival is constantly looking for ways to achieve consensus, work together, and make decisions based on what is best for the group, but is impatient when things do not come together. Another teammate, Jian, thrives on having the 'best idea', 'fastest response'. You suspect this person cares more about personal accolades than team health but has a lot of great ideas. Jian also does not care much for hierarchy, while Jaival is uncomfortable unless he understands team hierarchy. Jenny, a third team member, suspects that her teammates have different views of power and individualism, and is concerned about the health of the team, but she is not sure how to address her concerns with her team members.
 
@@ -88,7 +92,7 @@ You are on a diverse team and you are noticing some interesting group dynamics. 
 
 2.  How would you address this situation with each of your team members in a way that ensures the health of your team?
 
-### Deadlines
+#### Deadlines
 
 You have been working on a team for about three weeks and you are noticing that one of your teammates, Jaime, is becoming increasingly frustrated. Jaime has commented that they feel like the weight of the team is on their shoulders and they feel that they are doing more work than the rest of the team. From your perspective, Jaime does not leave much space for others to do work. For example, last week an assignment was due on Thursday at noon. Jaime worked ahead and sent a draft to the team on Tuesday evening, expecting the team to be finished by 5pm on Wednesday evening. You know that DeShawn, another teammate, likes to finalize assignments the night before they are due. DeShawn has high standards and wants to make sure the team uses all the time available to them.
 
@@ -96,7 +100,7 @@ You have been working on a team for about three weeks and you are noticing that 
 
 2.  What are all the possible factors that might be contributing to the different approach to deadlines for Jaime and DeShawn? Do you recognize yourself in this scenario? If so, how?
 
-### Organization
+#### Organization
 
 A group has members that represent different organizational styles. Frankie is very organized and good at developing a team-based organizational structure, but doesn't seek input from teammates about this organizational structure and gets frustrated with others who aren't so organized; Antonio is action-oriented and keeps a list of things that need to be done, but has difficulty remembering to share these "to do" items with his teammates by placing them into the team's organizational structure; Emily comes up with great ideas and is good at motivating teammates, but develops and follows her own individualized organizational structure; and Wei is good at digging for answers and coming up with solutions, but doesn't really follow any organizational structure. As a result of these conflicting organizational structures, the team is having difficulty meeting and coming up with any ideas, and they have missed several deadlines.
 
@@ -106,7 +110,7 @@ A group has members that represent different organizational styles. Frankie is v
 
 3.  Have you ever experienced a situation like this? What did you do?
 
-### Dedication
+#### Dedication
 
 Your team is preparing for a design review (which is where you present your progress to a panel for feedback) and, as with most group meetings, Garima is late and might not even show up. You are worried that Garima does not understand the project and will not be able to answer questions during the design review. You are also frustrated because your team is essentially a three-person team at this point, and there is enough work for four people. Garima would reply early in the quarter and had agreed on the team meeting times. In fact, Garima was even the one to suggest using Slack and chose the meeting time but lately it seems like this project is not a priority for her. She will occasionally contribute, and has good ideas, when present...
 
@@ -116,7 +120,7 @@ Your team is preparing for a design review (which is where you present your prog
 
 3.  What do you think might be going on with Gabe? As a member of this team, how would you approach Gabe?
 
-### POV
+#### POV
 
 Maya is, once again, sitting with arms crossed rolling her eyes. Ever since the first brainstorming session she latched onto a solution and considered the decision made. She doesn\'t see the point considering other alternatives, because the original idea is 'perfect' because she's tried it before, and knows that it works. She thinks the team is wasting time by thinking outside the box and considering alternatives. She says she's busy this quarter and prefers to just run with the first idea the team came up with. John is concerned that Maya's idea of choice doesn't meet all the client's requirements and would like to consider other ideas. John is willing to take risks if it means meeting the client's requirements. There are a lot of tense conversations between the two and you worry that instead of moving forward, the team is now stuck in a "Maya vs. John" idea competition.
 
@@ -126,7 +130,7 @@ Maya is, once again, sitting with arms crossed rolling her eyes. Ever since the 
 
 3.  It's difficult to predict when this might happen on a team. Can you think of ways to create a team culture that minimizes the ability of one person to shut down and commit to a single idea too early in the process?
 
-### In the Quiet
+#### In the Quiet
 
 In this team of four, team members have various approaches to sharing ideas. Richelle is outgoing and vocal, and eager to share each of her ideas. Gunnar is reflective and takes time to consider ideas before sharing them. Rabiah is nervous about her ideas, and hesitant to share them with others. Santiago is eager to share his ideas but is very quiet and has difficulty finding a time to share because other members of the group are more vocal.
 
@@ -136,7 +140,7 @@ In this team of four, team members have various approaches to sharing ideas. Ric
 
 3.  Have you ever been a part of a team where certain ideas were shared and others were kept quiet? How did you handle the situation?
 
-### Roles
+#### Roles
 
 A team has members with diverse high school backgrounds. Kory took AP courses and worked closely with his teachers to get personalized feedback on his writing. Katarina excelled at shop and worked in the school's maker space. Elijah went to a high school that didn't offer these opportunities, but he focused on many extracurricular activities.
 
@@ -148,7 +152,7 @@ Malia worked 20 hours per week at a part-time job to help support her family. In
 
 3.  In one scenario, the team assigns Katarina to complete the design elements and Kory to complete the writing elements, knowing that each student excels in these areas. In another scenario, the team assigns Kory to complete the design elements and Katarina to complete the writing elements. In each scenario, Katarina and Kory become disgruntled with their assignments, wanting to branch out and try different assignments. What actions might you have taken during week one to avoid this situation?
 
-### Power Play
+#### Power Play
 
 Your team started off on such a positive note! In the first few weeks everyone was contributing. However, lately you've noticed a disturbing trend with one team member in particular. Marsha has started taking over other teammates' roles, and exerts more and more power each week. In every meeting she is the first to speak and she takes up most of the meeting time. The other day, she sent the agenda for the weekly meeting even though Basha is supposed to have that task this week. Last week, Marsha was supposed to be the time keeper, but she forgot. Your team had discussed, and agreed on, team roles during the initial team meeting but as the quarter becomes more and more stressful Marsha seems to be defaulting to a do-it-all approach and not letting other team members have an opportunity to contribute.
 
@@ -156,117 +160,125 @@ Your team started off on such a positive note! In the first few weeks everyone w
 
 2.  What additional steps, besides just deciding on roles, do you think the team might have taken at the beginning to ensure that everyone has a chance to participate and share their ideas?
 
+## Teamwork Reflections
+
 _Kiki Zissimopoulos, PhD & Michele Zugnoni, PhD_
 
-![](static/image1.jpeg)
+> ### Overview
+>
+> These reflections were created for Design Thinking and Communication at Northwestern University. Each reflection has a suggested forum (i.e., quiz, discussion board), but they can be assigned on whichever forum the instructor feels best fits their course. These reflections are formed around Phil Daniel's stop-start-continue format.[^1]
 
-**Overview**
+### Reflection Set One
 
-These reflections were created for Design Thinking and Communication at Northwestern University. Each reflection has a suggested forum (i.e., quiz, discussion board), but they can be assigned on whichever forum the instructor feels best fits their course. These reflections are formed around Phil Daniel's stop-start-continue format.[^1]
-
-# Reflection Set One
-
-## Quiz
+#### Quiz
 
 Thinking back on the client interview and/or the initial team presentation, how did your team divide up tasks? Did this division foster equitable distribution of work? How or how not? What might you have done differently to ensure that each team member had an equitable role?
 
-## DISCUSSION BOARD (divided by groups):
+#### Discussion Board (divided by groups)
 
-Step One. Now that you've had a chance to reflect on your team's distribution of roles, write and post a comment in which you discuss:
+**Step One.** Now that you've had a chance to reflect on your team's distribution of roles, write and post a comment in which you discuss:
 
-(a) In terms of diving roles up equitably, what do you hope your team stops doing?
+1. In terms of diving roles up equitably, what do you hope your team stops doing?
 
-(b) In terms of dividing roles up equitably, what do you hope your team starts doing?
+2. In terms of dividing roles up equitably, what do you hope your team starts doing?
 
-(c) In terms of dividing roles up equitably, what do you hope your team continues doing?
+3. In terms of dividing roles up equitably, what do you hope your team continues doing?
 
-Step Two Read and respond to each comment posted by your team members.
+**Step Two.** Read and respond to each comment posted by your team members.
 
-Step Three. Together with your team, decide on at least one answer for each of the following questions. Post your response to this discussion board.
+**Step Three.** Together with your team, decide on at least one answer for each of the following questions. Post your response to this discussion board.
 
-(a) What will your team stop doing?
+1. What will your team stop doing?
+2. What will your team start doing?
+3. What will your team continue doing?
 
-(b) What will your team start doing?
+#### Individual Reflection
 
-(c) What will your team continue doing?
+Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of roles for the client interview and/or initial research presentation. Take a moment now to reflect and write a response of at least 200 words on the following:
 
-## INDIVIDUAL REFLECTION:
+1. What went well?
+2. How comfortable are you with the decisions your team made on things you will stop, start and continue doing?
+3. What additional things do you wish your team would stop, start and continue doing?
+4. How might you present these additional things to your team to ensure they happen?
 
-Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of roles for the client interview
+NOTE: In forming your response to item 4, you may wish to rewatch the videos on Communicating in Teams(need link) and Handling Conflict (need link). You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
 
-and/or initial research presentation. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen?
+### Reflection Set Two
 
-NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on [teamwork](#bookmark1). Your response will only be visible to you and your instructors.
+#### Quiz
 
-# Reflection Set Two
+What ideas have you personally thought of for your design? Have you been able to share your ideas with your teammates? Have your teammates shared their ideas? Have each of your team members been receptive to ideas? How or how not?
 
-## QUIZ:
+#### Discussion Board (divided by groups)
 
-What ideas have you personally thought of for your design? Have you been able to share your ideas with your teammates? Have your teammates shared their ideas?
+**Step One.** Now that you've had a chance to reflect on the environment of idea sharing within your team, write and post a comment in which you discuss:
 
-Have each of your team members been receptive to ideas? How or how not?
+1. To ensure that everyone's ideas are shared and heard, what do you hope your team stops doing?
 
-## DISCUSSION BOARD (divided by groups):
+2. To ensure that everyone's ideas are shared and heard, what do you hope your team starts doing?
 
-Step One. Now that you've had a chance to reflect on the environment of idea sharing within your team, write and post a comment in which you discuss:
+3. To ensure that everyone's ideas are shared and heard, what do you hope your team continues doing?
 
-(a) To ensure that everyone's ideas are shared and heard, what do you hope your team stops doing?
+**Step Two.** Read and respond to each comment posted by your team members.
 
-(b) To ensure that everyone's ideas are shared and heard, what do you hope your team starts doing?
+**Step Three.** Together with your team, decide on at least one answer for each of the following questions. Post your response to this discussion board.
 
-(c) To ensure that everyone's ideas are shared and heard, what do you hope your team continues doing?
+1. What will your team stop doing?
 
-Step Two. Read and respond to each comment posted by your team members.
+2. What will your team start doing?
 
-Step Three. Together with your team, decide on at least one answer for each of the following questions. Post your response to this discussion board.
+3. What will your team continue doing?
 
-(a) What will your team stop doing?
+#### Individual Reflection
 
-(b) What will your team start doing?
+Over the last few days, you and your team have had a chance to reflect on and discuss the environment of idea sharing within your team. Take a moment now to reflect and write a response of at least 200 words on the following:
 
-(c) What will your team continue doing?
+1. What went well?
+2. How comfortable are you with the decisions your team made on things you will stop, start and continue doing?
+3. What additional things do you wish your team would stop, start and continue doing?
+4. How might you present these additional things to your team to ensure they happen?
 
-## INDIVIDUAL REFLECTION:
+NOTE: In forming your response to item 4, you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
 
-Over the last few days, you and your team have had a chance to reflect on and discuss the environment of idea sharing within your team. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well? (b) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
+### Reflection Set Three
 
-# Reflection Set Three
-
-## QUIZ:
+#### Quiz
 
 How did your team distribute the work and the presentation? Do you think this approach accurately reflected the work that each individual contributed? Would you have done anything differently?
 
-## DISCUSSION BOARD (divided by teams):
+#### Discussion Board (divided by teams)
 
-Step One. Now that you've had the chance to reflect on your team's distribution of work, write and post a comment in which you discuss:
+**Step One.** Now that you've had the chance to reflect on your team's distribution of work, write and post a comment in which you discuss:
 
-(a) To ensure that everyone has an equal understanding of the elements of the project, what do you hope your team stops doing?
+1. To ensure that everyone has an equal understanding of the elements of the project, what do you hope your team stops doing?
 
-(b) To ensure that everyone has an equal understanding of the elements of the project, what do you hope your team starts doing?
+2. To ensure that everyone has an equal understanding of the elements of the project, what do you hope your team starts doing?
 
-(c) To ensure that everyone has an equal understanding of the elements of the project, what do you hope your team continues doing?
+3. To ensure that everyone has an equal understanding of the elements of the project, what do you hope your team continues doing?
 
-Step Two. Read and respond to each comment posted by your team members.
+**Step Two.** Read and respond to each comment posted by your team members.
 
-Step ThreeTogether with your team, decide on at least one answer for each of the following questions. Post your response to this discussion board.
+**Step Three.** Together with your team, decide on at least one answer for each of the following questions. Post your response to this discussion board.
 
-(a) What will your team stop doing?
+1. What will your team stop doing?
 
-(b) What will your team start doing?
+2. What will your team start doing?
 
-(c) What will your team continuedoing?
+3. What will your team continuedoing?
 
-## INDIVIDUAL REFLECTION:
+#### Individual Reflection:
 
-Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of work. Take a moment now to reflect and write a response of at least 200 words on the following: (a) What went well?
+Over the last few days, you and your team have had a chance to reflect on and discuss your team's distribution of work. Take a moment now to reflect and write a response of at least 200 words on the following:
 
-\(b\) How comfortable are you with the decisions your team made on things you will stop, start and continue doing? (c) What additional things do you wish your team would stop, start and continue doing? (d) How might you present these additional things to your team to ensure they happen? NOTE: In forming your response to item "d," you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on teamwork \[insert link to chapter\]. Your response will only be visible to you and your instructors.
+1. What went well?
+2. How comfortable are you with the decisions your team made on things you will stop, start and continue doing?
+3. What additional things do you wish your team would stop, start and continue doing?
+4. How might you present these additional things to your team to ensure they happen?
 
-## <a name="bookmark9"></a>
+NOTE: In forming your response to item 4, you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
 
 > Ver. 23 Aug 2020
 
-# References
+## References
 
-[^1]:
-    DeLong, T.J. (2011, Aug 4). Three questions for effective feedback. _Harvard Business Review_. https://hbr.org/2011/08/three-questions-for-effective-feedback
+[^1]: DeLong, T.J. (2011, Aug 4). Three questions for effective feedback. _Harvard Business Review_. https://hbr.org/2011/08/three-questions-for-effective-feedback
