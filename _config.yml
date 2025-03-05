@@ -36,7 +36,3 @@ html:
 toc: 
   maxdepth: 5
   showtoc: true
-
-sphinx:
-  config:
-    html_extra_path: ['downloads']
