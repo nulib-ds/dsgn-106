@@ -1,6 +1,8 @@
 # Ethics Lecture
 
-## {download}`Ethics Lecture Slides <./ethics-lecture-slides-pptx>`
+## Ethics Lecture Slides
+
+[Download PowerPoint](downloads\ethics-lecture-slides.pptx)
 
 ## Ethics Lecture Notes
 
@@ -124,5 +126,3 @@ The client came up with a solution that satisfied, but did not go beyond the bar
 Should Solomon push for a more fiscally demanding, yet sustainable strategy\--at the risk of his client backing out of the partnership altogether?
 
 > _Jocelyn Tan was a 2014-2015 Hackworth Fellow in Engineering Ethics at the Markkula Center for Applied Ethics at Santa Clara University._<br> _Aug 26, 2015_
-
-![](_static/chapter1/1.png)
