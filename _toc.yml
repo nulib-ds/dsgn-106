@@ -16,4 +16,8 @@ chapters:
 - file: 8-user-observation-assignment/8-user-observation-assignment.md
 - file: 9-writing-the-story-of-design/writing-the-story-of-design-9.md
 - file: 10-assignment-words-and-objects/10-assignment-words-and-objects.md
+  sections:
+    - file: 10-assignment-words-and-objects/caketime.md
+    - file: 10-assignment-words-and-objects/pitchingtent.md
+    - file: 10-assignment-words-and-objects/buildingfurniture.md
 - file: 11-Assignment-Creating-Digital-Solutions/creating-digital-solutions.md
