@@ -1,6 +1,6 @@
 # Ethics Lecture
 
-## Ethics Lecture Slides (need link)
+## {download}`Ethics Lecture Slides <./ethics-lecture-slides-pptx>`
 
 ## Ethics Lecture Notes
 
