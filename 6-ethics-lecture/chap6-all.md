@@ -2,7 +2,7 @@
 
 ## Ethics Lecture Slides
 
-[Download PowerPoint](downloads\ethics-lecture-slides.pptx)
+{Download}`Download PowerPoint<./ethics-lecture-slides.pptx>`
 
 ## Ethics Lecture Notes
 
