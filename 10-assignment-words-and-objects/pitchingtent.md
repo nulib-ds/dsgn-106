@@ -1,4 +1,6 @@
-# Tent 1 Text and Image Directions
+# Pitching a Tent
+
+## Tent 1 Text and Image Directions
 ### Component List:
 - 1 Tent Body,
 - 4 Poles,
@@ -26,7 +28,7 @@
 [^1]
 
 <a name="bookmark2"></a>
-# Tent 2 Text and Image Directions
+## Tent 2 Text and Image Directions
 ### Directions for Assembly:
 Layout & Positioning of Tent and Poles  
 - Layout and position the tent with door facing desired direction.
@@ -66,7 +68,7 @@ Attach Rainfly
 [^2]
 
 <a name="bookmark3"></a>
-# Pitching a Tent Peer Feedback
+## Pitching a Tent Peer Feedback
 Look at your partner’s work, and answer the following questions:  
 
 1. Check for some basics: 
