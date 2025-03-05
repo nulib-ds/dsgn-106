@@ -4,14 +4,14 @@
 
 ### Component List
 
-- 1 Tent Body,
-- 4 Poles,
-- 1 Tent Fly,
-- 1 Fly Rod,
-- 2 Brim Rods,
-- 1 Pole Bag,
-- 1 Carry Bag,
-- 1 Stake Bag w/ Stakes ASSEMBLY
+- 1 Tent Body
+- 4 Poles
+- 1 Tent Fly
+- 1 Fly Rod
+- 2 Brim Rods
+- 1 Pole Bag
+- 1 Carry Bag
+- 1 Stake Bag w/ Stakes
 
 ### Directions for Assembly
 
@@ -23,16 +23,48 @@
 - Lay the fly out on the ground, upside down. Thread the brim rods through the sleeves on the fly. Fit the fly rod into the web pockets on the underside of the fly and secure with the Velcro tab at the center.
 - Turn the fly right side up and drape it over the tent with a brim rod over each door. Wrap and secure the Velcro straps around the poles to keep the fly in place. Insert each end of a brim rod into the corresponding grommet on the tent. Set the hoods to the same height. If the fly has shifted, adjust the Velcro straps on the frame. Fasten the side release buckles at all of the corners and tension until wrinkles are gone. 8. Stake out the tent through the corner rings. Stake opposite corners while applying tension to square the tent and remove wrinkles from the floor. Stake out the fly through the rings on the side of the fly. Stake down the side pull outs to provide maximum floor space.
 
-### Images
+### Images[^1]
 
-<img src=photos/tent1/1.jpg style="width:600px" />
-<img src=photos/tent1/2.jpg style="width:600px" />
-<img src=photos/tent1/3.jpg style="width:600px" />
-<img src=photos/tent1/4.jpg style="width:600px" />
-<img src=photos/tent1/5.jpg style="width:600px" /> 
-[^1]
+```{image} ./photos/tent1/1.jpg
+:alt: tent diagram with enlarged inset showing connector at the top
+:align: center
+```
 
-<a name="bookmark2"></a>
+Image 1
+<br>
+
+```{image} ./photos/tent1/2.jpg
+:alt: tent diagram with enlarged inset showing brim rod and grommet
+:align: center
+```
+
+Image 2
+<br>
+
+```{image} ./photos/tent1/3.jpg
+:alt: tent diagram with enlarged inset showing connector at bottom
+:align: center
+```
+
+Image 3
+
+<br>
+
+```{image} ./photos/tent1/4.jpg
+:alt: tent diagram from above
+:align: center
+```
+
+Image 4
+
+<br>
+
+```{image} ./photos/tent1/5.jpg
+:alt: tent diagram showigng completed tent
+:align: center
+```
+
+Image 5
 
 ## Tent 2: Text and Image Directions
 
@@ -67,20 +99,70 @@ Attach Rainfly
 - Insert one pin into one end of the vestibule pole.
 - Attach and stake out guylines.
 
-### Images
+### Images[^2]
 
-<img src=photos/tent2/1.jpg style="width:600px" />
-<img src=photos/tent2/2.jpg style="width:600px" />
-<img src=photos/tent2/3.jpg style="width:600px" />
-<img src=photos/tent2/4.jpg style="width:600px" />
-<img src=photos/tent2/5.jpg style="width:600px" />
-<img src=photos/tent2/6.jpg style="width:600px" />
-<img src=photos/tent2/7.jpg style="width:600px" />
-<img src=photos/tent2/8.jpg style="width:600px" />
+```{image} ./photos/tent2/1.jpg
+:alt: tent diagram showing location of poles
+:align: center
+```
 
-[^2]
+Image 1
+<br>
 
-<a name="bookmark3"></a>
+```{image} ./photos/tent2/2.jpg
+:alt: drawing of tent stake and stake ring
+:align: center
+```
+
+Image 2
+<br>
+
+```{image} ./photos/tent2/3.jpg
+:alt: tent diagram with circles around pole connector
+:align: center
+```
+
+Image 3
+<br>
+
+```{image} ./photos/tent2/4.jpg
+:alt: image of tent pole and clip
+:align: center
+```
+
+Image 4
+<br>
+
+```{image} ./photos/tent2/5.jpg
+:alt: image of tent pole and pin
+:align: center
+```
+
+Image 5
+<br>
+
+```{image} ./photos/tent2/6.jpg
+:alt: tent diagram showing rainfly and vestibule poles
+:align: center
+```
+
+Image 6
+<br>
+
+```{image} ./photos/tent2/7.jpg
+:alt: image of strap and pole
+:align: center
+```
+
+Image 7
+<br>
+
+```{image} ./photos/tent2/8.jpg
+:alt: tent diagram showing guylines, vestibule pole, and pin
+:align: center
+```
+
+Image 8
 
 ## Pitching a Tent Peer Feedback
 
