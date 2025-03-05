@@ -10,7 +10,7 @@ Share your final version with another team. Note any differences between the cho
 
 ### Images:
 
-<img src="photos/cake/1.jpg" style="width:250px">
+<img src="photos/cake/1.jpg" style="width:600px">
 <img src="photos/cake/2.jpg" style="width:600px" />
 <img src="photos/cake/3.jpg" style="width:600px" />
 <img src="photos/cake/4.jpg" style="width:600px" />
