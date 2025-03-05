@@ -33,6 +33,10 @@ html:
   use_issues_button: true
   use_repository_button: true
 
+parse:
+  myst_enable_extensions:
+    - html_image
+
 toc: 
   maxdepth: 5
   showtoc: true
