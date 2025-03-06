@@ -201,7 +201,11 @@ Over the last few days, you and your team have had a chance to reflect on and di
 3. What additional things do you wish your team would stop, start and continue doing?
 4. How might you present these additional things to your team to ensure they happen?
 
-NOTE: In forming your response to item 4, you may wish to rewatch the videos on Communicating in Teams(need link) and Handling Conflict (need link). You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
+NOTE: In forming your response to item 4, you may wish to rewatch the videos on [Communicating in Teams](https://youtu.be/gfgqsDnovuQ) and [Handling Conflict](https://youtu.be/7FizImQAzc4). You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gfgqsDnovuQ?si=DHSAX8QoMmLy6U_1" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<br>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7FizImQAzc4?si=IwVGaXLZ58-xPPZS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### Reflection Set Two
 
@@ -238,7 +242,7 @@ Over the last few days, you and your team have had a chance to reflect on and di
 3. What additional things do you wish your team would stop, start and continue doing?
 4. How might you present these additional things to your team to ensure they happen?
 
-NOTE: In forming your response to item 4, you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
+NOTE: In forming your response to item 4, you may wish to rewatch the videos on [Communicating in Teams](https://youtu.be/gfgqsDnovuQ) and [Handling Conflict](https://youtu.be/7FizImQAzc4). You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
 
 ### Reflection Set Three
 
@@ -275,10 +279,7 @@ Over the last few days, you and your team have had a chance to reflect on and di
 3. What additional things do you wish your team would stop, start and continue doing?
 4. How might you present these additional things to your team to ensure they happen?
 
-NOTE: In forming your response to item 4, you may wish to rewatch the videos on Communicating in Teams and Handling Conflict \[insert link to videos\]. You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gfgqsDnovuQ?si=DHSAX8QoMmLy6U_1" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7FizImQAzc4?si=IwVGaXLZ58-xPPZS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+NOTE: In forming your response to item 4, you may wish to rewatch the videos on [Communicating in Teams](https://youtu.be/gfgqsDnovuQ) and [Handling Conflict](https://youtu.be/7FizImQAzc4). You may also review the chapter on [teamwork](chapter-4-all.md). Your response will only be visible to you and your instructors.
 
 > Ver. 23 Aug 2020
 
