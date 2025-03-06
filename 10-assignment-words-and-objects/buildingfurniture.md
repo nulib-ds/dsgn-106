@@ -339,4 +339,4 @@ Now you will look at the other project and offer peer review in teams. If you wo
 
 ## References
 
-[^1]: Family Handyman [“How to Build a Garden Bench”]([https://www.familyhandyman.com/project/how-to-build-a-garden-bench/](https://web.archive.org/web/20230223163641/https://www.familyhandyman.com/project/how-to-build-a-garden-bench/)) and [“How to Build a Patio Chair”](https://www.familyhandyman.com/project/how-to-build-a-patio-chair/) are included on the basis of fair use.
+[^1]: Family Handyman [“How to Build a Garden Bench”](https://web.archive.org/web/20230223163641/https://www.familyhandyman.com/project/how-to-build-a-garden-bench/) and [“How to Build a Patio Chair”](https://www.familyhandyman.com/project/how-to-build-a-patio-chair/) are included on the basis of fair use.
