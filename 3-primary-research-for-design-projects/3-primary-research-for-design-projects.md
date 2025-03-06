@@ -358,7 +358,7 @@ When you write questions, make sure they are clear, concise, and to the point. Q
 
 For surveys, just as important as question creating is answer choice creation. Answer choices must follow all the same guidelines as questions in terms of precision, neutrality, and clarity. They must also reflect options that will resonate with the entirety of your target user group, not just a subset of the group that most resembles your own demographic profile. This may seem obvious, but it can be quite difficult to recognize one's own assumptions.
 
-If you find your list of answer choices is getting lengthy or unwieldy, you probably need to craft your question differently. See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing surveys. You can also see some additional examples in the blog, "[How to craft interviews for breakthrough insights,](https://www.dtelepathy.com/blog/products/how-to-craft-user-interviews-for-breakthrough-insights)" by Jason Amunwa.
+If you find your list of answer choices is getting lengthy or unwieldy, you probably need to craft your question differently. See [Appendix A](#bookmark0) for a comprehensive guide to planning and writing surveys. You can also see some additional examples in the blog, "[How to craft interviews for breakthrough insights,](https://web.archive.org/web/20160422010446/http://www.dtelepathy.com/blog/products/how-to-craft-user-interviews-for-breakthrough-insights)" by Jason Amunwa.
 
 #### Face-to-face and virtual interviews
 
