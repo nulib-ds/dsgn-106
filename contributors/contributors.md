@@ -58,10 +58,10 @@ name: mz
 Michele Zugnoni is an Associate Professor of Instruction (effective September 1, 2025) in the Cook Family Writing Program at Northwestern University, where she teaches courses in legal writing, business writing, and first-year seminars. She holds a PhD in Education with an emphasis in Writing Studies, an MA in English with an emphasis in Teaching Writing and Rhetoric, and a JD. Before joining Northwestern, Michele worked as a public interest attorney. Her research focuses on writing across the curriculum as well as the role of negotiation and mediation in building positive relationships and work environments through effective communication and empathy. At Northwestern, she served for several years as the Writing Program Director of Design Thinking and Communication (DTC). Her recent publications include an article on DTC’s new faculty mentoring program, which she helped create to support incoming faculty members.
 
 ### Several additional faculty contributed meaningfully to this OER initiative. While they have not submitted bios at this time, their work remains a valued part of the project. These contributors include:
-_Alex Birdwell_
-_Emma DeCosta_
-_Bridget McMulen_
-_Clara Mitchell_
-_Stacey Wolcott_
-_Deb Wood_
-_Kiki Zissimopoulos_
+> _Alex Birdwell_
+> _Emma DeCosta_
+> _Bridget McMulen_
+> _Clara Mitchell_
+> _Stacey Wolcott_
+> _Deb Wood_
+> _Kiki Zissimopoulos_
