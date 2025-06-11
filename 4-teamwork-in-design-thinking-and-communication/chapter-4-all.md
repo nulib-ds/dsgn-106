@@ -1,6 +1,6 @@
 # Working with Teams
 
-_Kiki Zissimopoulos and Michele N. Zugnoni_<br>
+## _Written By: Kiki Zissimopoulos and Michele N. Zugnoni_<br>
 _With special thanks to Lisa Del Torto for conducting interviews_
 
 ## Introduction
