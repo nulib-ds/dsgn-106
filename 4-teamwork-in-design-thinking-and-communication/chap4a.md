@@ -2,7 +2,7 @@
 
 ## Constructive and Destructive Behavior Ice Breaker
 
-_Kiki Zissimopoulos, PhD_
+## _Written By: Kiki Zissimopoulos, PhD_
 
 > ### BACKGROUND INFORMATION
 >
