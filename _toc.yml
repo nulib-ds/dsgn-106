@@ -15,8 +15,10 @@ chapters:
 - file: 7-videos-about-the-DTC-experience/video-test.md
 - file: 8-user-observation-assignment/8-user-observation-assignment.md
 - file: 9-writing-the-story-of-design/writing-the-story-of-design-9.md
-- file: 10-assignment-words-and-objects/10-assignment-words-and-objects.md
+- file: 
   sections:
+    - file: 10-assignment-words-and-objects/10-assignment-words-and-objects.md
+    title: Reading--Working with Teams
     - file: 10-assignment-words-and-objects/caketime.md
     - file: 10-assignment-words-and-objects/pitchingtent.md
     - file: 10-assignment-words-and-objects/buildingfurniture.md
