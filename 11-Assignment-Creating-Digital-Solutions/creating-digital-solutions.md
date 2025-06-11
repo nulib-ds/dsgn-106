@@ -1,5 +1,7 @@
 # Creating Digital Solutions Assignment
 
+## _Written By: Bridget McMullan and Stacy Wolcott_
+
 ## Overview
 
 > Watch the [overview](https://youtu.be/5_FW4lHfUgU) video for how to develop a digital product catered to students from a Northwestern course called DTC (Design Thinking & Communication), but relevant for any individual or team.
