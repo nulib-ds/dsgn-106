@@ -1,5 +1,7 @@
 # Videos about the DTC experience
 
+_These videos are comprised of interviews given by Design Thinking and Communication alumni, who were interviewed by Lisa Del Torto and Deb Wood. The videos were created by Lisa Del Torto._
+
 ### DTC in One Sentence
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_LdS4dDsiKA?si=vcAOYVKNrtX2J3Vi" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
