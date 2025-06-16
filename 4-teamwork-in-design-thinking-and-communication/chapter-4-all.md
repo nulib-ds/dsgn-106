@@ -1,6 +1,6 @@
 # Working with Teams
 
-_Kiki Zissimopoulos and Michele N. Zugnoni_<br>
+## _Written By: Kiki Zissimopoulos and Michele N. Zugnoni_<br>
 _With special thanks to Lisa Del Torto for conducting interviews_
 
 ## Introduction
@@ -41,13 +41,9 @@ Gretchen Vogt, a former design student, reflected on how this class pushed her o
 
 In addition to learning new skills, you will also have opportunities to shine as you take on team responsibilities that enable you to tap into your strengths. In such cases, you will have the opportunity to refine your skill set and help others grow. Expertise is a life- long process; your skills and knowledge will grow with each experience. Amanda Davis, a former design student, discusses this spirit of growth in [this video.](https://youtu.be/drax57Wd_xE)
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/drax57Wd_xE?si=rdCJBJWe6Us-yS4x" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
 ## Team Roles
 
 Depending on your instructors' directions, your team may rotate through various roles, as described below, so that each person has an opportunity to guide team development while also expanding their skill set. Each of these roles asks you to facilitate behaviors which foster effective teams. Each team member will hold every role for two or three weeks during the quarter. It is important that your team respects the boundaries of each role. If you are strong at a role that you are not currently assigned to, resist the temptation to take over for the team member who is assigned to this role. This is their opportunity to learn and your opportunity to model effective team behavior as you support them. By rotating roles and respecting the boundary of each role, you're enabling your team to leverage each member's strengths, as discussed by former design student, [Joe Burke](https://youtu.be/JbnRTV0IK4Y).
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JbnRTV0IK4Y?si=HQTxZ_2LbWhudOqx" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <a name="bookmark3"></a>
 
@@ -120,8 +116,6 @@ In this course, you will have many opportunities to share ideas with your team m
 
 After you've listened to each team member's ideas, you'll need to consider both the strengths and weaknesses of each idea. An effective approach to sharing ideas within your team is to critique the idea, not the person. In the book, The Five Dysfunctions of a Team, Patrick Lencioni establishes the following pyramid.[^1] When sharing ideas, you'll want to guard against a fear of conflict. Viewpoint conflict is healthy, and research shows that diverse teams develop better results.[^2] In the [video below](https://youtu.be/HVRJhZMJNKs), former design student Melanie Galantino reflects on the value of not settling on an idea too early, and being open to sharing ideas.
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HVRJhZMJNKs?si=byr9nBFe8AOrjJ2f" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
 As you work with your team on developing ideas, you'll rely on the Idea Mediator for effective discussion. The person filling this role will help ensure that your team members listen to all ideas, which is important as you work to arrive at a final solution.
 
 <a name="bookmark5"></a>
@@ -143,8 +137,6 @@ name: four-nine
 </div>
 
 Also consider how you will manage time. Since you'll be working with a team, it's important that every member manage time in a way that helps them to complete the tasks they've been assigned. To ensure effective time management, you'll want to apply the tools you're given in your course, which may include GANTT charts and RAM charts. Also, consider what former design students [Boss Paspanthong and Amanda Davis](https://youtu.be/9fEY_UflzZU) have to say about time management in making your decision.
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9fEY_UflzZU?si=3Px4Rzhc5K3EDhI-" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   
   <a name="bookmark6"></a>
 
@@ -269,7 +261,7 @@ Effective team charters can take different forms and emphasize different expecta
 
 **For examples of two different but effective team charters, see Appendix K.**
 
-> [Assignments](chap4a.md) for this chapter can be found in the next section.
+> Assignments for this chapter can be found in the next sections.
 
 > Substantial parts of the section "Team Charters" are taken from _Design Thinking and Communication: Principles and Practice_ by Yarnoff, C., Anderson, J., Ankenman, B., Benjamin, S., Bourgeois, M., Brown, D., Carmichael, K., Herrick, J., Hirsch, P., Shwom, B., and Wood, D., and are used under a [CC-BY-NC-SA 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 

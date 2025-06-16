@@ -1,5 +1,7 @@
 # Cake Time
 
+## _Written By: Megan Geigner_
+
 ## Cake Time Directions
 
 The images that follow tell part of the story of making cupcakes, but there are important steps missing and the images are not in order. (The measurements and oven temperature are also missing, but do not worry about that for this exercise.)

@@ -1,5 +1,7 @@
 # Pitching a Tent
 
+## _Written By: Megan Geigner_
+
 ## Tent 1: Text and Image Directions
 
 ### Component List

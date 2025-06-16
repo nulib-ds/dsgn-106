@@ -9,7 +9,13 @@ chapters:
 - file: 3-primary-research-for-design-projects/3-primary-research-for-design-projects.md
 - file: 4-teamwork-in-design-thinking-and-communication/chapter-4-all.md
   sections:
-    - file: 4-teamwork-in-design-thinking-and-communication/chap4a.md
+    - file: 4-teamwork-in-design-thinking-and-communication/Constructive-and-destructive-behaviors.md
+    - file: 4-teamwork-in-design-thinking-and-communication/scenarios.md
+    - file: 4-teamwork-in-design-thinking-and-communication/4-teamwork-reflections.md
+    - file: 4-teamwork-in-design-thinking-and-communication/our-approach.md
+    - file: 4-teamwork-in-design-thinking-and-communication/burke.md
+    - file: 4-teamwork-in-design-thinking-and-communication/boss.md
+    - file: 4-teamwork-in-design-thinking-and-communication/galantino.md
 - file: 5-equitable-thinking-in-design-thinking-and-coummunication/chap5-all.md
 - file: 6-ethics-lecture/chap6-all.md
 - file: 7-videos-about-the-DTC-experience/video-test.md

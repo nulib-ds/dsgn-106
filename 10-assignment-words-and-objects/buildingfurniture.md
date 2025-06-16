@@ -1,5 +1,7 @@
 # Building Furniture
 
+## _Written By: Megan Geigner_
+
 ## Chair: Text and Image Directions
 
 ### Materials Required

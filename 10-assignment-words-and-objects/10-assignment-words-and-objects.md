@@ -1,5 +1,7 @@
 # Words and Images: An Imperative Match
 
+## _Written By: Megan Geigner_
+
 ## Overview
 
 This set of exercises asks students to create text directions from a series of pictures and create pictures for a series of text directions. The iterations begin simply and advances through the assignments.
