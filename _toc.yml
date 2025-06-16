@@ -23,7 +23,6 @@ chapters:
 - file: 9-writing-the-story-of-design/writing-the-story-of-design-9.md
 - file: 10-assignment-words-and-objects/10-assignment-words-and-objects.md
   sections:
-    - file: 10-assignment-words-and-objects/10-assignment-words-and-objects.md
     - file: 10-assignment-words-and-objects/caketime.md
     - file: 10-assignment-words-and-objects/pitchingtent.md
     - file: 10-assignment-words-and-objects/buildingfurniture.md
