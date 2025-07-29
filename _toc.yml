@@ -7,8 +7,9 @@ chapters:
 - file: 1-from-ideas-to-low-fidelity-mockups/1-from-ideas-to-mockups-testing
 - file: 2-foundations-of-technical-and-professional-communication/2-foundations-of-technical-and-professional-communication-2.md
 - file: 3-primary-research-for-design-projects/3-primary-research-for-design-projects.md
-- file: 4-teamwork-in-design-thinking-and-communication/chapter-4-all.md
+- file: 4-teamwork-in-design-thinking-and-communication/chap4a.md
   sections:
+    - file: 4-teamwork-in-design-thinking-and-communication/chapter-4-all.md
     - file: 4-teamwork-in-design-thinking-and-communication/Constructive-and-destructive-behaviors.md
     - file: 4-teamwork-in-design-thinking-and-communication/scenarios.md
     - file: 4-teamwork-in-design-thinking-and-communication/4-teamwork-reflections.md

@@ -1,6 +1,6 @@
 # Primary Research for Design Projects
 
-## _Written By: Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_
+<big>_Written by: Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_</big>
 
 ## What is primary research?
 

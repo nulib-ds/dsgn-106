@@ -1,6 +1,6 @@
 # Cake Time
 
-## _Written By: Megan Geigner_
+<big>_Written by: Megan Geigner_</big>
 
 ## Cake Time Directions
 

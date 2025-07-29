@@ -1,6 +1,6 @@
 ## Teamwork Reflections
 
-_Kiki Zissimopoulos, PhD & Michele Zugnoni, PhD_
+<big>_Written by: Kiki Zissimopoulos, PhD and Michele Zugnoni, PhD_</big>
 
 > ### Overview
 >

@@ -1,6 +1,6 @@
 # User Observation Assignment
 
-## _Written By: Leslie Fischer and Bridget McMullan_
+<big>_Written by: Leslie Fischer and Bridget McMullan_</big>
 
 ## Overview
 

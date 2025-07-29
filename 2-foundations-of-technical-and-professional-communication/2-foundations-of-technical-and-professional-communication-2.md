@@ -1,6 +1,6 @@
 # Foundations of Technical and Professional Communication
 
-## _Written By: Laura Maria Pigozzi, PhD_
+<big>_Written by: Laura Maria Pigozzi, PhD_</big>
 
 ## What is technical and professional communication?
 

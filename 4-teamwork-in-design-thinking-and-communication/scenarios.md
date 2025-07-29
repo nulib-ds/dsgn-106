@@ -1,6 +1,6 @@
 ## Scenarios: Working with Teams
 
-## _Written By: Kiki Zissimopoulos, PhD and Michele Zugnoni, PhD_
+<big>_Written by: Kiki Zissimopoulos, PhD and Michele Zugnoni, PhD_</big>
 
 ### Directions
 

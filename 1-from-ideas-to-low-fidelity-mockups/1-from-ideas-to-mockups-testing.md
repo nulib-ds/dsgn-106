@@ -1,6 +1,6 @@
 # From Ideas to Low-Fidelity Mock-ups and Testing
 
-## _Written By: Emma Tevaarwerk DeCosta and J. Alex Birdwell_
+<big>_Written by: Emma Tevaarwerk DeCosta and J. Alex Birdwell_</big>
 
 ## Introduction
 
