@@ -19,7 +19,7 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
-copyright: "2025. CC-BY-NC"
+copyright: 2025
 
 # Information about where the book exists on the web
 repository:
@@ -32,6 +32,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  extra_footer: <p>This work is licensed under the <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License.</a></p>
 
 parse:
   myst_enable_extensions:

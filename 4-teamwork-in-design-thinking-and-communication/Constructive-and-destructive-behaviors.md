@@ -1,6 +1,6 @@
-## Constructive and Destructive Behavior Ice Breaker
+# Constructive and Destructive Behavior Ice Breaker
 
-## _Written By: Kiki Zissimopoulos, PhD_
+<big>_Written By: Kiki Zissimopoulos, PhD_</big>
 
 > ### BACKGROUND INFORMATION
 >

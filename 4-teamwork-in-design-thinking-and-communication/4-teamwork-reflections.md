@@ -1,4 +1,4 @@
-## Teamwork Reflections
+# Teamwork Reflections
 
 <big>_Written by: Kiki Zissimopoulos, PhD and Michele Zugnoni, PhD_</big>
 
