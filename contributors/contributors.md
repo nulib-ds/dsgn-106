@@ -61,17 +61,17 @@ Michele Zugnoni is an Associate Professor of Instruction (effective September 1,
 ## Others
 <big>Several additional faculty contributed meaningfully to this OER initiative. While they have not submitted bios at this time, their work remains a valued part of the project. These contributors include:</big>
 
-- _Alex Birdwell_
-- _Emma DeCosta_
-- _Bridget McMulen_
-- _Clara Mitchell_
-- _Stacey Wolcott_
-- _Deb Wood_
-- _Kiki Zissimopoulos_
-
+- Alex Birdwell
+- Emma DeCosta
+- Bridget McMulen
+- Clara Mitchell
+- Stacey Wolcott
+- Deb Wood
+- Kiki Zissimopoulos
+  
 ## Website Team
-This site was created by Northwestern Libraries.
-- Basia Kapolka
-- Aerith Netzer
+This site was created by [Northwestern Libraries](https://www.library.northwestern.edu/)
+<i>- Basia Kapolka
 - Asha Mehta
-- Ben 
+- Aerith Netzer
+</i>
