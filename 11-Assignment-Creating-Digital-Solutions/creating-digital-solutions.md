@@ -1,6 +1,6 @@
 # Creating Digital Solutions Assignment
 
-## _Written By: Bridget McMullan and Stacy Wolcott_
+<big>_Written by: Bridget McMullan and Stacy Wolcott_</big>
 
 ## Overview
 

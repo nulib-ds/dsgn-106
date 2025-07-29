@@ -1,6 +1,6 @@
 # Pitching a Tent
 
-## _Written By: Megan Geigner_
+<big>_Written by: Megan Geigner_</big>
 
 ## Tent 1: Text and Image Directions
 

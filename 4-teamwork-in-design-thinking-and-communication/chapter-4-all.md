@@ -1,7 +1,7 @@
-# Working with Teams
+# Reading: Working with Teams
 
-## _Written By: Kiki Zissimopoulos and Michele N. Zugnoni_<br>
-_With special thanks to Lisa Del Torto for conducting interviews_
+<big>_Written by: Kiki Zissimopoulos and Michele N. Zugnoni_</big><br>
+With special thanks to Lisa Del Torto for conducting interviews
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # Building Furniture
 
-## _Written By: Megan Geigner_
+<big>_Written by: Megan Geigner_</big>
 
 ## Chair: Text and Image Directions
 

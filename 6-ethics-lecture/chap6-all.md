@@ -1,6 +1,6 @@
 # Ethics Lecture
 
-## _Written By: Laura Maria Pigozzi and Clara Mitchell_
+<big>_Written by: Laura Maria Pigozzi and Clara Mitchell_</big>
 
 ## Ethics Lecture Slides
 
