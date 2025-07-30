@@ -14,9 +14,5 @@ Dr. Kiki Zissimopoulos and Dr. Michele Zugnoni have written a chapter on teamwor
 - [Teamwork Reflections](4-teamwork-reflections.md)
 
 ## Videos
-- [Spirit of Growth](videos.md#spirit-of-growth)
-- [Team Roles](videos.md#team-roles)
-- [Sharing Ideas](videos.md#sharing-ideas)
-- [Time Management](videos.md#time-management)
 - [Communicating in Teams](videos.md#communicating-in-teams)
 - [Handling Conflict](videos.md#handling-conflict)

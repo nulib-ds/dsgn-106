@@ -1,4 +1,6 @@
 # Writing the Story of Design
+<big>*Written by: Megan Geigner*</big>
+
 ## **Project Objective and Overview**
 
 Students need to write the background and introduction section of the final DTC report in a way that entices readers to care about the project. Unfortunately, most teams wait to write this section until the end of the quarter when they are exhausted from the work and rushing through it. Also, because instructors emphasize that the appendices and concept and rationale sections need to be written objectively, students fail to capture the human component of human-centered design in their background and introduction sections.
@@ -30,8 +32,6 @@ Students often make this part so dry it is painful to read. Please do not do tha
 You are welcome to post this a video rather than a Google doc.
 
 Every team member must submit this. In a later phase of the class, you will synthesize your versions of these.
-
-#  
 
 ## **The Story of the Design Part 2**
 

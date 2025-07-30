@@ -13,6 +13,12 @@ chapters:
   - file: 2-foundations-of-technical-and-professional-communication/2-writing.md
   - file: 2-foundations-of-technical-and-professional-communication/2-justice.md 
 - file: 3-primary-research-for-design-projects/3-primary-research-for-design-projects.md
+  sections:
+  - file: 3-primary-research-for-design-projects/3-what-it-is.md
+  - file: 3-primary-research-for-design-projects/3-goals.md
+  - file: 3-primary-research-for-design-projects/3-tips.md
+  - file: 3-primary-research-for-design-projects/3-bias.md
+  - file: 3-primary-research-for-design-projects/3-documenting.md
 - file: 4-teamwork-in-design-thinking-and-communication/chap4a.md
   sections:
     - file: 4-teamwork-in-design-thinking-and-communication/chapter-4-all.md
