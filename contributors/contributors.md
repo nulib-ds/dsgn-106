@@ -71,6 +71,7 @@ Michele Zugnoni is an Associate Professor of Instruction (effective September 1,
   
 ## Website Team
 This site was created by Northwestern Libraries:
+- Ben Isaac
 - Basia Kapolka
 - Asha Mehta
 - Aerith Netzer
