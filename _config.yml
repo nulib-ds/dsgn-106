@@ -35,7 +35,7 @@ html:
   use_repository_button: true
   extra_footer: |
     <p style="font-size: 1em;">
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="_static/cc_icon.png" alt="cc icon" style="height: 2em; vertical-align: middle;"></a>
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="cc_icon.png" alt="cc icon" style="height: 2em; vertical-align: middle;"></a>
           This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</a> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
     </p>
 
