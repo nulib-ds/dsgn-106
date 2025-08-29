@@ -12,3 +12,6 @@
 - [Mitigating Bias in Your Observation Notes](3-bias.md)
 - [Documenting Primary Design Research](3-documenting.md)
 - [Appendix A - A Survey Planning Guide](3-appendix-a.md)
+
+## Download PDF
+A PDF of all chapters is available to  {Download}`download. <./files/Primary-Research.pdf>`
