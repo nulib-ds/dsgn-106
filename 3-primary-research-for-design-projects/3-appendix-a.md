@@ -2,7 +2,7 @@
 
 <big>_Written by: Stacy Benjamin, Kaara Kallen, and Michele Zugnoni_</big>
 
-To write and distribute your survey, first carefully read the information about surveys and sample populations in \[the DTC resource\].
+To write and distribute your survey, first carefully read the information about surveys and sample populations in this DTC resource.
 
 ## Set the groundwork
 
