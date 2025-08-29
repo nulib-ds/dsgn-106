@@ -14,4 +14,4 @@
 5. [Design, Technical and Professional Communication, and Social Justice](2-justice.md)
 
 ## Download PDF
-A PDF of all 4 chapters is available for  {Download}`download. <./files/Foundations.pdf>`
+A PDF of all 5 chapters is available for  {Download}`download. <./files/Foundations.pdf>`
