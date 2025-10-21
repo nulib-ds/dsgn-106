@@ -3,39 +3,3 @@
 # NOTE FOR BEN: If you need to have subsections for a chapter, you can do that - refer to the jupyterbook documentation
 format: jb-book
 root: intro
-chapters:
-- file: 1-from-ideas-to-low-fidelity-mockups/1-from-ideas-to-mockups-testing
-- file: 2-foundations-of-technical-and-professional-communication/2-foundations-of-technical-and-professional-communication-2.md
-  sections:
-  - file: 2-foundations-of-technical-and-professional-communication/2-what-it-is.md
-  - file: 2-foundations-of-technical-and-professional-communication/2-characteristics.md
-  - file: 2-foundations-of-technical-and-professional-communication/2-audience.md
-  - file: 2-foundations-of-technical-and-professional-communication/2-writing.md
-  - file: 2-foundations-of-technical-and-professional-communication/2-justice.md 
-- file: 3-primary-research-for-design-projects/3-primary-research-for-design-projects.md
-  sections:
-  - file: 3-primary-research-for-design-projects/3-what-it-is.md
-  - file: 3-primary-research-for-design-projects/3-goals.md
-  - file: 3-primary-research-for-design-projects/3-tips.md
-  - file: 3-primary-research-for-design-projects/3-bias.md
-  - file: 3-primary-research-for-design-projects/3-documenting.md
-  - file: 3-primary-research-for-design-projects/3-appendix-a.md
-- file: 4-teamwork-in-design-thinking-and-communication/chap4a.md
-  sections:
-    - file: 4-teamwork-in-design-thinking-and-communication/chapter-4-all.md
-    - file: 4-teamwork-in-design-thinking-and-communication/Constructive-and-destructive-behaviors.md
-    - file: 4-teamwork-in-design-thinking-and-communication/scenarios.md
-    - file: 4-teamwork-in-design-thinking-and-communication/4-teamwork-reflections.md
-    - file: 4-teamwork-in-design-thinking-and-communication/videos.md
-- file: 5-equitable-thinking-in-design-thinking-and-coummunication/chap5-all.md
-- file: 6-ethics-lecture/chap6-all.md
-- file: 7-videos-about-the-DTC-experience/video-test.md
-- file: 8-user-observation-assignment/8-user-observation-assignment.md
-- file: 9-writing-the-story-of-design/writing-the-story-of-design-9.md
-- file: 10-assignment-words-and-objects/10-assignment-words-and-objects.md
-  sections:
-    - file: 10-assignment-words-and-objects/caketime.md
-    - file: 10-assignment-words-and-objects/pitchingtent.md
-    - file: 10-assignment-words-and-objects/buildingfurniture.md
-- file: 11-Assignment-Creating-Digital-Solutions/creating-digital-solutions.md
-- file: contributors/contributors.md
